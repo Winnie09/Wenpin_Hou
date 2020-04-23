@@ -1,72 +1,37 @@
 ---
+title: "Wenpin Hou"
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
 
-For me, the painful aspects of making a website are
+### About
 
-- Working with html and css
-- Finding a hosting site
-- Transferring stuff to the hosting site
+I am a postdoctoral fellow co-mentored by [Prof. Hongkai Ji](http://www.biostat.jhsph.edu/~hji/) and [Prof. Stephanie Hicks](https://www.stephaniehicks.com/) at the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), [Bloomberg School of Public Health](https://www.jhsph.edu/), [Johns Hopkins University](https://www.jhu.edu/). Before that I was jointly mentored by [Prof. Aravinda Chakravarti](https://aravindachakravartilab.org/) and [Prof. Suchi Saria](https://suchisaria.jhu.edu/) on gene regulatory network inference. My research interests mainly focused on statistical and computational methods for integrating genomic data of multi-modalities or different sources, predicting other -omics data from transcriptomic data, and ultimately understand gene regulation mechanisms. The outcomes are expected to lead to the development of new targeted therapy and new therapeutic medicine for various diseases that helps the broad community.
 
-With [GitHub Pages](https://pages.github.com), you just write things in
-[Markdown](https://daringfireball.net/projects/markdown/),
-[GitHub](https://github.com) hosts the site for you, and you just push
-material to your GitHub repository with `git add`, `git commit`, and
-`git push`.
+### Contact
 
-If you love [git](https://git-scm.com/) and
-[GitHub](https://github.com), you'll love
-[GitHub Pages](https://pages.github.com), too.
+<div class="row-fluid" markdown="1">
+<div class="span6" markdown="1">
 
-The sites use [Jekyll](https://jekyllrb.com/), a
-[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html, and this part is done
-automatically when you push the materials to the `gh-pages` branch
-of a GitHub repository.
+Wenpin Hou, Ph.D. <br/>
+[Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/) <br/>
+[Bloomberg School of Public Health](https://www.jhsph.edu/) <br/>
+[Johns Hopkins University](https://www.jhu.edu/) <br/>
+E3011 | 615 North Wolfe Street <br/>
+Baltimore, MD 21205-2179, USA
 
-The [GitHub](https://pages.github.com) and
-[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
-would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
-has might be simpler and more direct.  But if you just want to create
-a site like the one you're looking at now, read on.
+<img src="images/envelope.svg" alt="Email logo" width="20"> [Email:]() <img src="images/email_address.png" alt="Email address" width="134"> <br/>
+<img src="images/github.svg" alt="GitHub logo" width="20"> [GitHub: `Winnie09`](https://github.com/Winnie09) <br/>
+<img src="images/scholar.svg" alt="Google Scholar logo" width="20"> [Google Scholar](https://scholar.google.com.hk/citations?user=1wVQpBUAAAAJ&hl=en) <br/>
+<img src="images/twitter.svg" alt="Twitter logo" width="20"> [Twitter: `@HWenpin`](https://twitter.com/HWenpin)
 
-Start by reading the [Overview page](pages/overview.html), which
-explains the basic structure of these sites. Then read
-[how to make an independent website](pages/independent_site.html). Then
-read any of the other things, such as
-[how to test your site locally](pages/local_test.html).
+</div>
+<div class="span3" markdown="1">
 
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
+<img src="images/wenpin.png" alt="Wenpin Hou photo" width="190">
 
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
+</div>
+</div>
 
----
 
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
 
-Also see my [tutorials](https://kbroman.org/pages/tutorials) on
-[git/github](https://kbroman.org/github_tutorial),
-[GNU make](https://kbroman.org/minimal_make),
-[knitr](https://kbroman.org/knitr_knutshell),
-[R packages](https://kbroman.org/pkg_primer),
-[data organization](https://kbroman.org/dataorg),
-and [reproducible research](https://kbroman.org/steps2rr).
