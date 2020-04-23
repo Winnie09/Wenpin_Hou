@@ -24,7 +24,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ##### Glycosylation networks
 
-- **Hou, W.**, Qiu, Y., Hashimoto, N., Ching, W.K. and Aoki-Kinoshita, K.F., (2016). *A systematic framework to derive $N$-glycan biosynthesis process and the automated construction of glycosylation networks*. BMC Bioinformatics, 17(7), p.240. doi:10.1186/s12859-016-1094-6. [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1094-6).
+- **Hou, W.**, Qiu, Y., Hashimoto, N., Ching, W.K. and Aoki-Kinoshita, K.F., (2016). *A systematic framework to derive N-glycan biosynthesis process and the automated construction of glycosylation networks*. BMC Bioinformatics, 17(7), p.240. doi:10.1186/s12859-016-1094-6. [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1094-6).
 
 ##### Machine learning
 
