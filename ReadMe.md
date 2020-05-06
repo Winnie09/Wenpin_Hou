@@ -2,7 +2,7 @@
 
 This github repository provides codes for generating [Wenpin`s personal webpage](https://winnie09.github.io/Wenpin_Hou/). 
 
-##Acknowledgement
+## Acknowledgement
 
 [Karl Broman`s tutorial](https://kbroman.org/simple_site) to generate [Github Pages](https://pages.github.com) and [Lukas Weber`s example](https://github.com/lmweber/lmweber.github.io).
 
