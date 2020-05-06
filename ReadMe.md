@@ -1,11 +1,10 @@
-## Simple site: Easy websites with GitHub pages
+### Wenpin`s Webpage
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using Markdown and git.
+This github repository provides codes for generating [Wenpin`s personal webpage](https://winnie09.github.io/Wenpin_Hou/). 
 
-This is a minimal tutorial to get started.
+##Acknowledgement
 
-View the thing [here](https://kbroman.org/simple_site).
+[Karl Broman`s tutorial](https://kbroman.org/simple_site) to generate [Github Pages](https://pages.github.com) and [Lukas Weber`s example](https://github.com/lmweber/lmweber.github.io).
 
 ---
 
