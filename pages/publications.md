@@ -16,6 +16,8 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - **Hou, W.**, Ji, Z., Ji, H.\* and Hicks, S.C.\*, (2020). *A Systematic Evaluation of Single-cell RNA-sequencing Imputation Methods*. bioRxiv, v1. Links to: [Paper](https://www.biorxiv.org/content/10.1101/2020.01.29.925974v1.full), [Code](https://github.com/Winnie09/imputationBenchmark).
 
 ### Published/Accepted
+##### Single-cell genomics
+- Ji, Z., Zhou, W., **Hou, W.* and Ji, H.\*, (2020). *SCATE: Single-cell ATAC-seq Signal Extraction and Enhancement*. Genome Biology, Accepted.  
 
 ##### Boolean networks
 - **Hou, W.**, Ruan, P., Ching, W.K. and Akutsu, T.\*, (2019). *On the number of driver nodes for controlling a Boolean network when the targets are restricted to attractors*. Journal of Theoretical Biology, 463, pp.1-11. doi:10.1016/j.jtbi.2018.12.012. Links to: [Paper](https://www.sciencedirect.com/science/article/pii/S0022519318306027).
