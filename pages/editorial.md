@@ -5,11 +5,11 @@ title: Editorial Activity
 
 **Member**
   
-- [International Society for Computational Biology]() \(ISCB\), 2018-2019
+- [International Society for Computational Biology](https://www.iscb.org/) \(ISCB\), 2018-2019
 
-- [The University of Hong Kong Shenzhen Institute of Research and Innovation]() \(HKU-SIRI\), 2016-2017
+- [The University of Hong Kong Shenzhen Institute of Research and Innovation](http://www.siri.hku.hk/) \(HKU-SIRI\), 2016-2017
 
-- [ Society for Industrial and Applied Mathematics]() \(SIAM\), 2014-2018
+- [Society for Industrial and Applied Mathematics](https://www.siam.org/) \(SIAM\), 2014-2018
 
 **Reviewer**
   
