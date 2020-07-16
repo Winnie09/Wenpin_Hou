@@ -3,7 +3,7 @@ layout: page
 title: Editorial Activity
 ---
 
-**Member**
+*Member*
   
 - [International Society for Computational Biology](https://www.iscb.org/) \(ISCB\), 2018-2019
 
@@ -11,15 +11,21 @@ title: Editorial Activity
 
 - [Society for Industrial and Applied Mathematics](https://www.siam.org/) \(SIAM\), 2014-2018
 
-**Reviewer**
-  
-- Nature Communications
+*Reviewer*
 
+**Journals**
+
+- Bioinformatics
+  
 - Genome Biology
+
+- IEEE Transactions on Neural Networks and Learning Systems \(TransNNLS\)
+
+- Nature Communications
 
 - Neurocomputing
 
-- IEEE Transactions on Neural Networks and Learning Systems \(TransNNLS\)
+**Conferences**
 
 - The First CCF Bioinformatics Conference \(CBC 2016\)
 
@@ -29,7 +35,7 @@ title: Editorial Activity
 
 - The 10th International Conference on Systems Biology \(ISB 2016\)
 
-**Judge**
+*Judge*
 
 - 2019 Women in STEM Symposium Poster Judge, Baltimore, USA, 04/06/2019
 

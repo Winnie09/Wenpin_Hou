@@ -17,7 +17,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### Published/Accepted
 ##### Single-cell genomics
-- Ji, Z., Zhou, W., **Hou, W.** and Ji, H.\*, (2020). *SCATE: Single-cell ATAC-seq Signal Extraction and Enhancement*. Genome Biology, 21(1), pp.1-36. doi: 10.1186/s13059-020-02075-3. [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02075-3) 
+- Ji, Z., Zhou, W., **Hou, W.** and Ji, H.\*, (2020). *SCATE: Single-cell ATAC-seq Signal Extraction and Enhancement*. Genome Biology, 21(1), pp.1-36. doi: 10.1186/s13059-020-02075-3. [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02075-3).
 
 ##### Boolean networks
 - **Hou, W.**, Ruan, P., Ching, W.K. and Akutsu, T.\*, (2019). *On the number of driver nodes for controlling a Boolean network when the targets are restricted to attractors*. Journal of Theoretical Biology, 463, pp.1-11. doi:10.1016/j.jtbi.2018.12.012. Links to: [Paper](https://www.sciencedirect.com/science/article/pii/S0022519318306027).
