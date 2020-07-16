@@ -7,9 +7,9 @@ title: Teaching
 
 \[Responsibility\]: give supplement lectures, exercise & programming lessons twice per week
 
-MATH 1011 University Mathematics \(*1* semester\) 
+- MATH 1011 University Mathematics \(*1* semester\) 
 
-MATH 2601&3601 Numerical Analysis \(*2* semesters\) 
+- MATH 2601&3601 Numerical Analysis \(*2* semesters\) 
 
-MATH 1211&2211 Multivariable Calculus \(*3* semesters\) 
+- MATH 1211&2211 Multivariable Calculus \(*3* semesters\) 
 
