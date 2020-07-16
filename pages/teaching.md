@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-*Teaching Assistant*, [Department of Mathematics](https://hkumath.hku.hk/web/index.php), [The University of Hong Kong](https://www.hku.hk/), 10/2013-2/2017
+**Teaching Assistant**, [Department of Mathematics](https://hkumath.hku.hk/web/index.php), [The University of Hong Kong](https://www.hku.hk/), 10/2013-2/2017
 
 \[Responsibility\]: give supplement lectures, exercise & programming lessons twice per week
 
