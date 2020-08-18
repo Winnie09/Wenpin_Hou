@@ -8,13 +8,6 @@ title: Publications
 For a complete list of publications, see also [Google Scholar](https://scholar.google.com.hk/citations?user=1wVQpBUAAAAJ&hl=en).
 
 
-
-### Preprints
-
-##### Single-cell genomics
-
-- **Hou, W.**, Ji, Z., Ji, H.\* and Hicks, S.C.\*, (2020). *A Systematic Evaluation of Single-cell RNA-sequencing Imputation Methods*. bioRxiv, v1. Links to: [Preprint](https://www.biorxiv.org/content/10.1101/2020.01.29.925974v1.full), [Code](https://github.com/Winnie09/imputationBenchmark).
-
 ### Published/Accepted
 ##### Single-cell genomics
 - **Hou, W.**, Ji, Z., Ji, H.\* and Hicks, S.C.\*, (2020). *A Systematic Evaluation of Single-cell RNA-sequencing Imputation Methods*. accepted by Genome Biology, Links to: [Preprint](https://www.biorxiv.org/content/10.1101/2020.01.29.925974v1.full), [Code](https://github.com/Winnie09/imputationBenchmark).
