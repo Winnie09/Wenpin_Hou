@@ -10,7 +10,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### Published/Accepted
 ##### Single-cell genomics
-- **Hou, W.**, Ji, Z., Ji, H.\* and Hicks, S.C.\*, (2020). *A Systematic Evaluation of Single-cell RNA-sequencing Imputation Methods*. accepted by Genome Biology, Links to: [Preprint](https://www.biorxiv.org/content/10.1101/2020.01.29.925974v1.full), [Code](https://github.com/Winnie09/imputationBenchmark).
+- **Hou, W.**, Ji, Z., Ji, H.\* and Hicks, S.C.\*, (2020). *A Systematic Evaluation of Single-cell RNA-sequencing Imputation Methods*. Genome Biology 21, 218 (2020), doi: 10.1186/s13059-020-02132-x.  Links to: [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02132-x), [Code](https://github.com/Winnie09/imputationBenchmark), [Twitter](https://twitter.com/GenomeBiology/status/1298976169484681219).
 
 - Ji, Z., Zhou, W., **Hou, W.** and Ji, H.\*, (2020). *SCATE: Single-cell ATAC-seq Signal Extraction and Enhancement*. Genome Biology, 21(1), pp.1-36. doi: 10.1186/s13059-020-02075-3.  Links to: [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02075-3), [package: SCATE](https://github.com/Winnie09/SCATE), [package: SCATEData](https://github.com/Winnie09/SCATEData).
 
