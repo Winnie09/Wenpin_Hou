@@ -9,7 +9,7 @@ layout: page
 I am a postdoctoral fellow co-mentored by [Dr. Hongkai Ji](http://www.biostat.jhsph.edu/~hji/) and [Dr. Stephanie Hicks](https://www.stephaniehicks.com/) at the [Department of Biostatistics](https://www.jhsph.edu/departments/biostatistics/), [Bloomberg School of Public Health](https://www.jhsph.edu/), [Johns Hopkins University](https://www.jhu.edu/). Before that I was jointly mentored by [Dr. Suchi Saria](https://suchisaria.jhu.edu/) and [Dr. Aravinda Chakravarti](https://aravindachakravartilab.org/) on gene regulatory network inference. My research interests mainly focus on statistical and computational methods for integrating genomic data of multi-modalities or different sources, predicting other -omics data from transcriptomic data, and ultimately understand gene regulation mechanisms. The outcomes are expected to lead to the development of new targeted therapy and new therapeutic medicine for various diseases that helps the broad community.
 
 I obtained my B.S. in [Computational Mathematics](http://math.sysu.edu.cn/) with the [Vice Chancellor Xu Chongqing
-Award](http://edf.edaao.sysu.edu.cn/) from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (2009-2013).
+Award](http://edf.edaao.sysu.edu.cn/jzmx/jz03/cgzs02/index.htm) from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (2009-2013).
 I received my PhD in [Mathematics](https://hkumath.hku.hk/web/index.php) with the University Fellowship from [The University of Hong Kong](https://www.hku.hk/) under the supervision of [Dr. Wai-Ki Ching](https://hkumath.hku.hk/~wkc/) (2013-2017).
 
 ### Contact
