@@ -11,6 +11,8 @@ title: Editorial Activity
 
 - [Society for Industrial and Applied Mathematics](https://www.siam.org/) \(SIAM\), 2014-2018
 
+- [Eastern North American Region](https://www.enar.org/) \(ENAR\), 2019-2020
+
 **Reviewer**
 
 *Journals*
