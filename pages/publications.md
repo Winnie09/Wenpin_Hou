@@ -10,9 +10,9 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### Published/Accepted
 ##### Single-cell genomics
-- **Hou, W.**, Ji, Z., Ji, H.\* and Hicks, S.C.\*, (2020). *A Systematic Evaluation of Single-cell RNA-sequencing Imputation Methods*. Genome Biology 21, 218 (2020), doi: 10.1186/s13059-020-02132-x.  Links to: [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02132-x), [Code](https://github.com/Winnie09/imputationBenchmark), [Twitter](https://twitter.com/GenomeBiology/status/1298976169484681219).
+- **Hou, W.**, Ji, Z., Ji, H.\* and Hicks, S.C.\*, (2020). *A Systematic Evaluation of Single-cell RNA-sequencing Imputation Methods*. Genome Biology 21, 218 (2020), doi: 10.1186/s13059-020-02132-x. PMID: 32854757. PMCID: PMC7450705. Links to: [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02132-x), [Code](https://github.com/Winnie09/imputationBenchmark), [Twitter](https://twitter.com/GenomeBiology/status/1298976169484681219).
 
-- Ji, Z., Zhou, W., **Hou, W.** and Ji, H.\*, (2020). *SCATE: Single-cell ATAC-seq Signal Extraction and Enhancement*. Genome Biology, 21,161 (2020). doi: 10.1186/s13059-020-02075-3.  Links to: [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02075-3), [package: SCATE](https://github.com/Winnie09/SCATE), [package: SCATEData](https://github.com/Winnie09/SCATEData).
+- Ji, Z., Zhou, W., **Hou, W.** and Ji, H.\*, (2020). *SCATE: Single-cell ATAC-seq Signal Extraction and Enhancement*. Genome Biology, 21,161 (2020). doi: 10.1186/s13059-020-02075-3. PMID: 32620137. PMCID: PMC7333383. Links to: [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02075-3), [package: SCATE](https://github.com/Winnie09/SCATE), [package: SCATEData](https://github.com/Winnie09/SCATEData).
 
 ##### Boolean networks
 - **Hou, W.**, Ruan, P., Ching, W.K. and Akutsu, T.\*, (2019). *On the number of driver nodes for controlling a Boolean network when the targets are restricted to attractors*. Journal of Theoretical Biology, 463, pp.1-11. doi:10.1016/j.jtbi.2018.12.012. Links to: [Paper](https://www.sciencedirect.com/science/article/pii/S0022519318306027).
@@ -38,7 +38,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - Ji, Y., Azuine, R.E., Zhang, Y., **Hou, W.**, Hong, X., Wang, G., Riley, A., Pearson, C., Zuckerman, B. and Wang, X.\*, (2019). *Association of cord plasma biomarkers of in utero acetaminophen exposure with risk of attention-deficit/hyperactivity disorder and autism spectrum disorder in childhood*. JAMA Psychiatry, pp.1-11. doi: 10.1001/jamapsychiatry.2019.3259. Links to: [Paper](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2753512), featured in  [NIH news](https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-acetaminophen-exposure-pregnancy-linked-higher-risk-adhd-autism), [Reuters health](https://www.reuters.com/article/us-health-pregnancy-acetaminophen/babies-at-higher-risk-for-adhd-autism-if-pregnant-moms-took-acetaminophen-idUSKBN1X920J?fbclid=IwAR3T4phyb6Fu4F9zQVNL4EWgET04m4ITHD6S1R8eZkvj2j3TBIPJZSpYqf0), [MedPage Today](https://www.medpagetoday.com/obgyn/pregnancy/83040), [meaww](https://meaww.com/taking-pain-relief-drug-acetaminophen-pregnancy-risk-autism-adhd-study), [LinksMedicus](https://linksmedicus.com/news/study-utero-acetaminophen-exposure-linked-increased-risk-adhd-autism-spectrum-disorder-childhood/), [TechnologyNetworks](https://www.technologynetworks.com/drug-discovery/news/paracetamol-during-pregnancy-could-be-linked-to-increased-risk-of-adhd-and-autism-326647).
 
 ### Submitted
-- Xu, R., Hong, X., Zhang, B., Huang, W., **Hou, W.**, Wang, G., Wang, X., Igusa, T., Liang, L., Ji, H. *DNA methylation mediates the effect of maternal smoking on offspring birthweight. BMC Medicine*. Manuscript submitted. 
+- Xu, R., Hong, X., Zhang, B., Huang, W., **Hou, W.**, Wang, G., Wang, X., Igusa, T., Liang, L., Ji, H. *DNA methylation mediates the effect of maternal smoking on offspring birthweight*. Manuscript submitted. 
 
 
 ### Posters
