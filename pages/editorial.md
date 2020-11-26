@@ -5,13 +5,13 @@ title: Editorial Activity
 
 **Member**
   
+- [Eastern North American Region](https://www.enar.org/) \(ENAR\), 2019-2020
+  
 - [International Society for Computational Biology](https://www.iscb.org/) \(ISCB\), 2018-2019
 
 - [The University of Hong Kong Shenzhen Institute of Research and Innovation](http://www.siri.hku.hk/) \(HKU-SIRI\), 2016-2017
 
 - [Society for Industrial and Applied Mathematics](https://www.siam.org/) \(SIAM\), 2014-2018
-
-- [Eastern North American Region](https://www.enar.org/) \(ENAR\), 2019-2020
 
 **Reviewer**
 
