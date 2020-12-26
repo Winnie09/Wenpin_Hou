@@ -51,4 +51,4 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - On orthogonal feature extraction model with applications in cancer prediction, University of Cadiz, Cadiz, Spain, May 18, 2016.
 
 
-#####\* Corresponding author.
+##### \* Corresponding author.
