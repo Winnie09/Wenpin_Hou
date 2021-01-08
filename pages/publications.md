@@ -8,7 +8,7 @@ title: Publications
 For a complete list of publications, see also [Google Scholar](https://scholar.google.com.hk/citations?user=1wVQpBUAAAAJ&hl=en).
 
 
-### Published/Accepted
+### Published
 ##### Single-cell genomics
 - **Hou, W.**, Ji, Z., Ji, H.\* and Hicks, S.C.\*, (2020). *A Systematic Evaluation of Single-cell RNA-sequencing Imputation Methods*. Genome Biology 21, 218 (2020), doi: 10.1186/s13059-020-02132-x. PMID: 32854757. PMCID: PMC7450705. Links to: [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02132-x), [Code](https://github.com/Winnie09/imputationBenchmark), [Twitter](https://twitter.com/GenomeBiology/status/1298976169484681219).
 
@@ -38,9 +38,9 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - Ji, Y., Azuine, R.E., Zhang, Y., **Hou, W.**, Hong, X., Wang, G., Riley, A., Pearson, C., Zuckerman, B. and Wang, X.\*, (2019). *Association of cord plasma biomarkers of in utero acetaminophen exposure with risk of attention-deficit/hyperactivity disorder and autism spectrum disorder in childhood*. JAMA Psychiatry, pp.1-11. doi: 10.1001/jamapsychiatry.2019.3259. Links to: [Paper](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2753512), featured in  [NIH news](https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-acetaminophen-exposure-pregnancy-linked-higher-risk-adhd-autism), [Reuters health](https://www.reuters.com/article/us-health-pregnancy-acetaminophen/babies-at-higher-risk-for-adhd-autism-if-pregnant-moms-took-acetaminophen-idUSKBN1X920J?fbclid=IwAR3T4phyb6Fu4F9zQVNL4EWgET04m4ITHD6S1R8eZkvj2j3TBIPJZSpYqf0), [MedPage Today](https://www.medpagetoday.com/obgyn/pregnancy/83040), [meaww](https://meaww.com/taking-pain-relief-drug-acetaminophen-pregnancy-risk-autism-adhd-study), [LinksMedicus](https://linksmedicus.com/news/study-utero-acetaminophen-exposure-linked-increased-risk-adhd-autism-spectrum-disorder-childhood/), [TechnologyNetworks](https://www.technologynetworks.com/drug-discovery/news/paracetamol-during-pregnancy-could-be-linked-to-increased-risk-of-adhd-and-autism-326647).
 
 ### Submitted
-- **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang. G., Ji, H., Saria, S., Wang, X.\* *A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking*. Manuscript submitted.
+- **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang. G., Ji, H., Saria, S., Wang, X.\* (2020) *A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking*. Manuscript submitted.
 
-- Xu, R., Hong, X.\*, Zhang, B., Huang, W., **Hou, W.**, Wang, G., Wang, X., Igusa, T., Liang, L., Ji, H. *DNA methylation mediates the effect of maternal smoking on offspring birthweight*. Manuscript submitted. 
+- Xu, R., Hong, X.\*, Zhang, B., Huang, W., **Hou, W.**, Wang, G., Wang, X., Igusa, T., Liang, L., Ji, H. (2020) *DNA methylation mediates the effect of maternal smoking on offspring birthweight*. In Review.
 
 ### Posters
 
