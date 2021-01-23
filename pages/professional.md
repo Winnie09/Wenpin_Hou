@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Editorial Activity
+title: Professional Activity
 ---
 
 **Member**
