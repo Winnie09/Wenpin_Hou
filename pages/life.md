@@ -3,6 +3,13 @@ layout: page
 title: Life
 ---
 
-  
-(to be added)
+### Communication  
+##### Language
+**Native**: Chinese (Hakka, Mandarin, Cantonese)
+**Foreign**: English, Japanese
+
+
+
+
+
 
