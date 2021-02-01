@@ -3,10 +3,8 @@ layout: page
 title: Publications
 ---
 
-
 <!--Key publications are described in more detail on the [Research](research.html) page.--> 
 For a complete list of publications, see also [Google Scholar](https://scholar.google.com.hk/citations?user=1wVQpBUAAAAJ&hl=en).
-
 
 ### Published
 ##### Single-cell genomics
@@ -18,6 +16,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - **Hou, W.**, Ruan, P., Ching, W.K. and Akutsu, T.\*, (2019). On the number of driver nodes for controlling a Boolean network when the targets are restricted to attractors. *Journal of Theoretical Biology*, 463, pp.1-11. doi:10.1016/j.jtbi.2018.12.012. Links to: [Paper](https://www.sciencedirect.com/science/article/pii/S0022519318306027).
 
 - **Hou, W.**, Tamura, T., Ching, W.K. and Akutsu, T.\*, (2016). Finding and analyzing the minimum set of driver nodes in control of Boolean networks. *Advances in Complex Systems*, 19(03), p.1650006. doi: 10.1142/S0219525916500065. Links to: [Paper](https://www.worldscientific.com/doi/abs/10.1142/S0219525916500065).
+
 
 ##### Glycosylation networks
 
