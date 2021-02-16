@@ -36,13 +36,13 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - Ji, Y., Azuine, R.E., Zhang, Y., **Hou, W.**, Hong, X., Wang, G., Riley, A., Pearson, C., Zuckerman, B. and Wang, X.\*, (2019). Association of cord plasma biomarkers of in utero acetaminophen exposure with risk of attention-deficit/hyperactivity disorder and autism spectrum disorder in childhood. *JAMA Psychiatry*, pp.1-11. doi: 10.1001/jamapsychiatry.2019.3259. Links to: [Paper](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2753512), featured in  [NIH news](https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-acetaminophen-exposure-pregnancy-linked-higher-risk-adhd-autism), [Reuters health](https://www.reuters.com/article/us-health-pregnancy-acetaminophen/babies-at-higher-risk-for-adhd-autism-if-pregnant-moms-took-acetaminophen-idUSKBN1X920J?fbclid=IwAR3T4phyb6Fu4F9zQVNL4EWgET04m4ITHD6S1R8eZkvj2j3TBIPJZSpYqf0), [MedPage Today](https://www.medpagetoday.com/obgyn/pregnancy/83040), [meaww](https://meaww.com/taking-pain-relief-drug-acetaminophen-pregnancy-risk-autism-adhd-study), [LinksMedicus](https://linksmedicus.com/news/study-utero-acetaminophen-exposure-linked-increased-risk-adhd-autism-spectrum-disorder-childhood/), [TechnologyNetworks](https://www.technologynetworks.com/drug-discovery/news/paracetamol-during-pregnancy-could-be-linked-to-increased-risk-of-adhd-and-autism-326647).
 
-### Submitted
+### In Review
 
 - Justina X. Caushi, Jiajia Zhang, Zhicheng Ji, Ajay Vaghasia, Boyang Zhang, Emily HC Hsiue, Brian Mog, **Wenpin Hou**, Sune Justesen, Richard Blosser, Ada Tam, Valsamo Anagnostou, Tricia R. Cottrell, Haidan Guo, Hok Yee Chan, Dipika Singh, Sampriti Thapa, Arbor Dykema, Chhuty Choudhury, Luis Aparicio, Laurene Cheung, Mara Lanis, Zineb Belcaid, Margueritta El Asmar, Peter Illei, Malcolm Brock, Jinny Ha, Errol Bush, Bernard Park, Matthew Bott, Jarushka Naidoo, Kristen A. Marrone, Joshua E. Reuss, Victor E. Velculescu, Jamie E. Chaft, Kenneth W. Kinzler, Shibin Zhou, Bert Vogelstein, Janis M. Taube, Taha Merghoub, Julie R. Brahmer, Matthew D. Hellmann, Patrick M. Forde, Srinivasan Yegnasubramanian\*, Hongkai Ji\*, Drew M. Pardoll\*,  Kellie N. Smith\* (2021). Distinct transcriptional programs characterize neoantigen-specific T cells in lung cancers treated with neoadjuvant PD-1 blockade. *In Review*.
 
 - **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang. G., Ji, H., Saria, S., Wang, X.\* (2020)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking. *In Review*.
 
-- Xu, R., Hong, X.\*, Zhang, B., Huang, W., **Hou, W.**, Wang, G., Wang, X., Igusa, T., Liang, L., Ji, H. (2020) DNA methylation mediates the effect of maternal smoking on offspring birthweight. *In Review*.
+- Xu, R., Hong, X.\*, Zhang, B., Huang, W., **Hou, W.**, Wang, G., Wang, X., Igusa, T., Liang, L., Ji, H. (2020) DNA methylation mediates the effect of maternal smoking on offspring birthweight. *accepted by Clinical Epigenetics*.
 
 ### Posters
 
