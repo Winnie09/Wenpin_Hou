@@ -10,7 +10,7 @@ I am a postdoctoral fellow co-mentored by [Dr. Hongkai Ji](http://www.biostat.jh
 
 I obtained my B.S. in [Computational Mathematics](http://math.sysu.edu.cn/) with the [Vice Chancellor Xu Chongqing
 Award](http://edf.edaao.sysu.edu.cn/jzmx/jz03/cgzs02/index.htm) from [Sun Yat-sen University](http://www.sysu.edu.cn/2012/en/index.htm) (2009-2013).
-I received my PhD in [Mathematics](https://hkumath.hku.hk/web/index.php) with the University Fellowship from [The University of Hong Kong](https://www.hku.hk/) under the supervision of [Dr. Wai-Ki Ching](https://hkumath.hku.hk/~wkc/) (2013-2017).
+I received my PhD in [Mathematics](https://hkumath.hku.hk/web/index.php) with [University Postgraduate Fellowships (UPF)](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees) and [Postgraduate Scholarship (PGS)](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees) from [The University of Hong Kong](https://www.hku.hk/) under the supervision of [Dr. Wai-Ki Ching](https://hkumath.hku.hk/~wkc/) (2013-2017).
 
 ### Contact
 
