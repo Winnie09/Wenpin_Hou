@@ -17,10 +17,13 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - **Hou, W.**, Tamura, T., Ching, W.K. and Akutsu, T.\*, (2016). Finding and analyzing the minimum set of driver nodes in control of Boolean networks. *Advances in Complex Systems*, 19(03), p.1650006. doi: 10.1142/S0219525916500065. Links to: [Paper](https://www.worldscientific.com/doi/abs/10.1142/S0219525916500065).
 
-
 ##### Glycosylation networks
 
 - **Hou, W.**, Qiu, Y., Hashimoto, N., Ching, W.K. and Aoki-Kinoshita, K.F.\*, (2016). A systematic framework to derive N-glycan biosynthesis process and the automated construction of glycosylation networks. *BMC Bioinformatics*, 17(7), p.240. doi:10.1186/s12859-016-1094-6. Links to:  [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1094-6).
+
+##### Epigenetics
+
+- Xu, R., Hong, X.\*, Zhang, B., Huang, W., **Hou, W.**, Wang, G., Wang, X., Igusa, T., Liang, L., Ji, H. (2021) DNA methylation mediates the effect of maternal smoking on offspring birthweight. *Clinical Epigenetics*, 13:47. doi: 10.1186/s13148-021-01032-6. Links to: [Paper](https://link.springer.com/epdf/10.1186/s13148-021-01032-6?sharing_token=yEfFdYE0_BoC2mZXJZ9CGm_BpE1tBhCbnbw3BuzI2RNB1moIjC95hdw5iHpi9I7bkxI7V-9mn7W-iAPZhlsBZ6n2aBGJ_JvX03uHthekrqM9AGN6ztB_JyC58iUSq_wfgFSbjQ7T3CZ2dCcOwkWWRoyRlZvODZcSzVM1FYm-blE%3D). 
 
 ##### Machine learning
 
@@ -41,8 +44,6 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - Justina X. Caushi, Jiajia Zhang, Zhicheng Ji, Ajay Vaghasia, Boyang Zhang, Emily HC Hsiue, Brian Mog, **Wenpin Hou**, Sune Justesen, Richard Blosser, Ada Tam, Valsamo Anagnostou, Tricia R. Cottrell, Haidan Guo, Hok Yee Chan, Dipika Singh, Sampriti Thapa, Arbor Dykema, Chhuty Choudhury, Luis Aparicio, Laurene Cheung, Mara Lanis, Zineb Belcaid, Margueritta El Asmar, Peter Illei, Malcolm Brock, Jinny Ha, Errol Bush, Bernard Park, Matthew Bott, Jarushka Naidoo, Kristen A. Marrone, Joshua E. Reuss, Victor E. Velculescu, Jamie E. Chaft, Kenneth W. Kinzler, Shibin Zhou, Bert Vogelstein, Janis M. Taube, Taha Merghoub, Julie R. Brahmer, Matthew D. Hellmann, Patrick M. Forde, Srinivasan Yegnasubramanian\*, Hongkai Ji\*, Drew M. Pardoll\*,  Kellie N. Smith\* (2021). Distinct transcriptional programs characterize neoantigen-specific T cells in lung cancers treated with neoadjuvant PD-1 blockade. *In Review*.
 
 - **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang. G., Ji, H., Saria, S., Wang, X.\* (2020)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking. *In Review*.
-
-- Xu, R., Hong, X.\*, Zhang, B., Huang, W., **Hou, W.**, Wang, G., Wang, X., Igusa, T., Liang, L., Ji, H. (2020) DNA methylation mediates the effect of maternal smoking on offspring birthweight. *accepted by Clinical Epigenetics*.
 
 ### Posters
 
