@@ -18,6 +18,8 @@ title: Professional Activity
 *Journals*
 
 - Bioinformatics
+
+- Communications Biology
   
 - Genome Biology
 
