@@ -47,7 +47,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### Posters
 
-- A computational framework for differential pseudotime analysis across conditions with multiple single-cell RNA-seq samples reveals T cell immune dynamics associated with COVID-19 disease severity, {CSHL SYSTEMS IMMUNOLOGY 2021}(https://meetings.cshl.edu/meetings.aspx?meet=SYSIMM&year=21), Virtual, Apr 20 - 23, 2021.
+- A computational framework for differential pseudotime analysis across conditions with multiple single-cell RNA-seq samples reveals T cell immune dynamics associated with COVID-19 disease severity, {CSHL Systems Immunology 2021}(https://meetings.cshl.edu/meetings.aspx?meet=SYSIMM&year=21), Virtual, Apr 20 - 23, 2021.
 
 - A systematic evaluation of single-cell RNA-seq imputation methods, [13th Annual Symposium and Poster Session on Genomics and Bioinformatics](http://genomics.jhu.edu/symposium.html), Johns Hopkins University, Baltimore, USA, Oct 17, 2019. (**first-place winning poster**)
 
