@@ -23,7 +23,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ##### Epigenetics
 
-- Xu, R., Hong, X.\*, Zhang, B., Huang, W., **Hou, W.**, Wang, G., Wang, X., Igusa, T., Liang, L., Ji, H. (2021) DNA methylation mediates the effect of maternal smoking on offspring birthweight. *Clinical Epigenetics*, 13:47. doi: 10.1186/s13148-021-01032-6. Links to: [Paper](https://link.springer.com/epdf/10.1186/s13148-021-01032-6?sharing_token=yEfFdYE0_BoC2mZXJZ9CGm_BpE1tBhCbnbw3BuzI2RNB1moIjC95hdw5iHpi9I7bkxI7V-9mn7W-iAPZhlsBZ6n2aBGJ_JvX03uHthekrqM9AGN6ztB_JyC58iUSq_wfgFSbjQ7T3CZ2dCcOwkWWRoyRlZvODZcSzVM1FYm-blE%3D). 
+- Xu, R., Hong, X.\*, Zhang, B., Huang, W., **Hou, W.**, Wang, G., Wang, X., Igusa, T., Liang, L., Ji, H. (2021) DNA methylation mediates the effect of maternal smoking on offspring birthweight. *Clinical Epigenetics*, 13:47. doi: [10.1186/s13148-021-01032-6](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-021-01032-6). Links to: [Paper](https://link.springer.com/epdf/10.1186/s13148-021-01032-6?sharing_token=yEfFdYE0_BoC2mZXJZ9CGm_BpE1tBhCbnbw3BuzI2RNB1moIjC95hdw5iHpi9I7bkxI7V-9mn7W-iAPZhlsBZ6n2aBGJ_JvX03uHthekrqM9AGN6ztB_JyC58iUSq_wfgFSbjQ7T3CZ2dCcOwkWWRoyRlZvODZcSzVM1FYm-blE%3D). 
 
 ##### Machine learning
 
@@ -46,6 +46,8 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang. G., Ji, H., Saria, S., Wang, X.\* (2020)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking. *In Review*.
 
 ### Posters
+
+- A computational framework for differential pseudotime analysis across conditions with multiple single-cell RNA-seq samples reveals T cell immune dynamics associated with COVID-19 disease severity, {CSHL SYSTEMS IMMUNOLOGY 2021}(https://meetings.cshl.edu/meetings.aspx?meet=SYSIMM&year=21), Virtual, Apr 20 - 23, 2021.
 
 - A systematic evaluation of single-cell RNA-seq imputation methods, [13th Annual Symposium and Poster Session on Genomics and Bioinformatics](http://genomics.jhu.edu/symposium.html), Johns Hopkins University, Baltimore, USA, Oct 17, 2019. (**first-place winning poster**)
 
