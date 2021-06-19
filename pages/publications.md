@@ -43,7 +43,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### In Review
 
-- Hou, W., Ji, Z. (2021). Single-cell Unbiased Visualization with SCUBI. [Package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html)
+- **Hou, W.**, Ji, Z. (2021). Single-cell Unbiased Visualization with SCUBI. [Package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html)
 
 
 - **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang. G., Ji, H., Saria, S., Wang, X.\* (2020)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking. *In Review*.
