@@ -27,6 +27,8 @@ title: Professional Activity
 
 - Nature Communications
 
+- Nature Portfolio (Nature Methods, Nature Communications, and Communications Biology)
+
 - Neurocomputing
 
 *Conferences*
