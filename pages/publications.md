@@ -43,6 +43,8 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### In Review
 
+- **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2021) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. access in [biorxiv] (https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). *In Review*. 
+
 - **Hou, W.**, Ji, Z.\* (2021). Single-cell Unbiased Visualization with SCUBI. [Package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html)
 
 
