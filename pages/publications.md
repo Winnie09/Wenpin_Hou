@@ -6,6 +6,8 @@ title: Publications
 <!--Key publications are described in more detail on the [Research](research.html) page.--> 
 For a complete list of publications, see also [Google Scholar](https://scholar.google.com.hk/citations?user=1wVQpBUAAAAJ&hl=en).
 
+
+
 ### Published
 ##### Single-cell genomics
 - Justina X. Caushi, Jiajia Zhang, Zhicheng Ji, Ajay Vaghasia, Boyang Zhang, Emily HC Hsiue, Brian Mog, **Wenpin Hou**, Sune Justesen, Richard Blosser, Ada Tam, Valsamo Anagnostou, Tricia R. Cottrell, Haidan Guo, Hok Yee Chan, Dipika Singh, Sampriti Thapa, Arbor Dykema, Chhuty Choudhury, Luis Aparicio, Laurene Cheung, Mara Lanis, Zineb Belcaid, Margueritta El Asmar, Peter Illei, Malcolm Brock, Jinny Ha, Errol Bush, Bernard Park, Matthew Bott, Jarushka Naidoo, Kristen A. Marrone, Joshua E. Reuss, Victor E. Velculescu, Jamie E. Chaft, Kenneth W. Kinzler, Shibin Zhou, Bert Vogelstein, Janis M. Taube, Taha Merghoub, Julie R. Brahmer, Matthew D. Hellmann, Patrick M. Forde, Srinivasan Yegnasubramanian\*, Hongkai Ji\*, Drew M. Pardoll\*,  Kellie N. Smith\* (2021). Distinct transcriptional programs characterize neoantigen-specific T cells in lung cancers treated with neoadjuvant PD-1 blockade. to appear in *Nature*.
@@ -43,10 +45,9 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### In Review
 
-- **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2021) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. access in [biorxiv] (https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). *In Review*. 
+- **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2021) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. access in [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). [Github](https://github.com/Winnie09/Lamian). *In Review*. 
 
 - **Hou, W.**, Ji, Z.\* (2021). Single-cell Unbiased Visualization with SCUBI. [Package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html)
-
 
 - **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang. G., Ji, H., Saria, S., Wang, X.\* (2020)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking. *In Review*.
 
