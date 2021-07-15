@@ -4,6 +4,8 @@ title: Professional Activity
 ---
 
 **Member**
+
+- [American Statistical Association](https://www.amstat.org/) \(ASA\), 2021-2022
   
 - [Eastern North American Region](https://www.enar.org/) \(ENAR\), 2019-2020
   
