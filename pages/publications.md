@@ -45,11 +45,11 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### In Review/Submitted
 
-- **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2021) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. access in [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). [Software package: Lamian](https://github.com/Winnie09/Lamian). *Submitted*. 
+- **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2021) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. access in [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). [Software package: Lamian](https://github.com/Winnie09/Lamian). *In Review*. 
 
-- **Hou, W.**, Ji, Z.\* (2021). Single-cell Unbiased Visualization with SCUBI. access in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881357). [Software package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html). *Submitted*.
+- **Hou, W.**, Ji, Z.\* (2021). Single-cell Unbiased Visualization with SCUBI. access in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881357). [Software package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html). *In Review*.
 
-- **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang. G., Ji, H., Saria, S., Wang, X.\* (2020)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking. *In Review*.
+- **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang. G., Ji, H., Saria, S., Wang, X.\* (2020)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking. *Submitted*.
 
 ### Posters
 
