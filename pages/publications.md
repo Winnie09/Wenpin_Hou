@@ -7,6 +7,13 @@ title: Publications
 For a complete list of publications, see also [Google Scholar](https://scholar.google.com.hk/citations?user=1wVQpBUAAAAJ&hl=en).
 
 
+### In Review/Submitted
+
+- **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2021) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. access in [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). [Software package: Lamian](https://github.com/Winnie09/Lamian). *In Review*. 
+
+- **Hou, W.**, Ji, Z.\* (2021). Single-cell Unbiased Visualization with SCUBI. access in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881357). [Software package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html). *In Revision*.
+
+- **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang. G., Liang. Li., Ji, H., Saria, S., Wang, X.\* (2021)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking. *Submitted*.
 
 ### Published
 ##### Single-cell genomics
@@ -42,14 +49,6 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 ##### Psychiatry
 
 - Ji, Y., Azuine, R.E., Zhang, Y., **Hou, W.**, Hong, X., Wang, G., Riley, A., Pearson, C., Zuckerman, B. and Wang, X.\*, (2019). Association of cord plasma biomarkers of in utero acetaminophen exposure with risk of attention-deficit/hyperactivity disorder and autism spectrum disorder in childhood. [*JAMA Psychiatry*, pp.1-11](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2753512). doi: 10.1001/jamapsychiatry.2019.3259. Featured in  [NIH news](https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-acetaminophen-exposure-pregnancy-linked-higher-risk-adhd-autism), [Reuters health](https://www.reuters.com/article/us-health-pregnancy-acetaminophen/babies-at-higher-risk-for-adhd-autism-if-pregnant-moms-took-acetaminophen-idUSKBN1X920J?fbclid=IwAR3T4phyb6Fu4F9zQVNL4EWgET04m4ITHD6S1R8eZkvj2j3TBIPJZSpYqf0), [MedPage Today](https://www.medpagetoday.com/obgyn/pregnancy/83040), [meaww](https://meaww.com/taking-pain-relief-drug-acetaminophen-pregnancy-risk-autism-adhd-study), [LinksMedicus](https://linksmedicus.com/news/study-utero-acetaminophen-exposure-linked-increased-risk-adhd-autism-spectrum-disorder-childhood/), [TechnologyNetworks](https://www.technologynetworks.com/drug-discovery/news/paracetamol-during-pregnancy-could-be-linked-to-increased-risk-of-adhd-and-autism-326647).
-
-### In Review/Submitted
-
-- **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2021) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. access in [bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). [Software package: Lamian](https://github.com/Winnie09/Lamian). *In Review*. 
-
-- **Hou, W.**, Ji, Z.\* (2021). Single-cell Unbiased Visualization with SCUBI. access in [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881357). [Software package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html). *In Review*.
-
-- **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang. G., Ji, H., Saria, S., Wang, X.\* (2020)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking. *Submitted*.
 
 ### Posters
 
