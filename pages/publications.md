@@ -13,7 +13,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - **Hou, W.**, Ji, Z.\* (2021). Single-cell Unbiased Visualization with SCUBI. [Preprint in SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881357). [Software package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html). *In Revision*.
 
-- **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang. G., Liang. Li., Ji, H., Saria, S., Wang, X.\* (2021)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking. *Submitted*.
+- **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang. G., Liang. Li., Ji, H., Saria, S., Wang, X.\* (2021)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking. *Submitted. Preprint to appear*.
 
 ### Published
 ##### Single-cell genomics
