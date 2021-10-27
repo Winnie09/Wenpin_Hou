@@ -21,7 +21,6 @@ developing computational and statistical methods for interpreting high-throughpu
 
  **NIH Pathway to Independence Award (1K99HG011468)**, NIH/NHGRI, 3/2021 - 3/2026
 
- Title: Computational Methods for Inferring Single-cell DNA Methylation and its Spatial LandscapeRole: principal investigator
+ Title: Computational Methods for Inferring Single-cell DNA Methylation and its Spatial Landscape
 
-Role: Principal Investigator
-
+Role: principal investigator
