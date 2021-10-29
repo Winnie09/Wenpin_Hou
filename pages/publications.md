@@ -7,6 +7,7 @@ title: Publications
 For a complete list of publications, see also [Google Scholar](https://scholar.google.com.hk/citations?user=1wVQpBUAAAAJ&hl=en).
 
 
+
 ### In Review/Submitted
 
 - **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2021) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. [Preprint in bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). [Software package: Lamian](https://github.com/Winnie09/Lamian). *In Review*. 
@@ -16,6 +17,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang, G., Liang, L., Ji, H., Saria, S., Wang, X.\* (2021)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking.  [Preprint in Preprints](https://www.preprints.org/manuscript/202110.0296/v1). *In Review*.
 
 - Huang, W., Igusa, T., Wang, G., Buckley, J.P., Hong, X., Bind, E., Steffens, A., Mukherjee, J., Haltmeier, D., Ji, Y., Xu, R., **Hou, W.**, Fan, Z., and Wang, X.\* (2021) Effects of in-utero exposure to toxic metal mixture and micronutrients on the risk of overweight or obesity in children from US urban, low-income, underrepresented populations. *In Review*.
+
 
 
 ### Published
