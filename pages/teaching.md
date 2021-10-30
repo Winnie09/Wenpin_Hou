@@ -5,7 +5,9 @@ title: Teaching
 
 **Teaching Assistant**, [Department of Mathematics](https://hkumath.hku.hk/web/index.php), [The University of Hong Kong](https://www.hku.hk/), 10/2013-2/2017
 
- (received *Excellent Teaching Award* in 2016)
+**\[Certificate\]**: *Certificate of Teaching and Learning in Higher Education (CTEL)* issued by Centre for the Enhancement of Teaching and Learning, The University of Hong Kong, Jan 2014
+
+**\[Related Honors\]**: received *Excellent Teaching Award* in 2016
 
 **\[Responsibility\]**: give supplement lectures, exercise & programming lessons twice per week
 
