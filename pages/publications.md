@@ -18,8 +18,6 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - Huang, W., Igusa, T., Wang, G., Buckley, J.P., Hong, X., Bind, E., Steffens, A., Mukherjee, J., Haltmeier, D., Ji, Y., Xu, R., **Hou, W.**, Fan, Z., and Wang, X.\* (2021) Effects of in-utero exposure to toxic metal mixture and micronutrients on the risk of overweight or obesity in children from US urban, low-income, underrepresented populations. *In Review*.
 
-
-
 ### Published
 ##### Single-cell genomics
 - Caushi, J.X., Zhang, J.,  Ji, Z., Vaghasia, A., Zhang, B., Hsiue, E., Mog, B., **Hou, W.**, Justesen, S., Blosser, R., Tam, A., Anagnostou, V., Cottrell, T.R., Guo, H., Chan, H.,  Singh, D., Thapa, S., Dykema, A., Choudhury, C., Aparicio, L., Cheung, L., Lanis, M., Belcaid, Z., Asmar, M.E., Illei, P.,  Brock, M., Ha, J., Bush, E., Park, B.,  Bott, M.,  Naidoo, J., Marrone, K.A., Reuss, J.E., Velculescu, V.E., Chaft, J.E., Kinzler, K.W., Zhou, S., Vogelstein, B., Taube, J.M., Merghoub, T., Brahmer, J.R., Hellmann, M.D., Forde, P.M., Yegnasubramanian, S.\*, Ji, H.\*, Pardoll, D.M.\*,  Smith, K.N.\* (2021). Transcriptional programs of neoantigen-specific TIL in anti-PD-1-treated lung cancers. [*Nature*, July 21, 2021](https://www.nature.com/articles/s41586-021-03752-4#citeas).
