@@ -16,7 +16,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang, G., Liang, L., Ji, H., Saria, S., Wang, X.\* (2021)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking.  [Preprint in Preprints](https://www.preprints.org/manuscript/202110.0296/v1). *In Review*.
 
-- Huang, W., Igusa, T., Wang, G., Buckley, J.P., Hong, X., Bind, E., Steffens, A., Mukherjee, J., Haltmeier, D., Ji, Y., Xu, R., **Hou, W.**, Fan, Z., and Wang, X.\* (2021) Effects of in-utero exposure to toxic metal mixture and micronutrients on the risk of overweight or obesity in children from US urban, low-income, underrepresented populations. *In Review*.
+- Huang, W., Igusa, T., Wang, G., Buckley, J.P., Hong, X., Bind, E., Steffens, A., Mukherjee, J., Haltmeier, D., Ji, Y., Xu, R., **Hou, W.**, Fan, Z., and Wang, X.\* (2021) Effects of in-utero exposure to toxic metal mixture and micronutrients on the risk of overweight or obesity in children from US urban, low-income, underrepresented populations. *In Revision*.
 
 ### Published
 ##### Single-cell genomics
