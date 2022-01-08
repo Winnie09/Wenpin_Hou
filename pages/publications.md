@@ -12,14 +12,15 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2021) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. [Preprint in bioRxiv](https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). [Software package: Lamian](https://github.com/Winnie09/Lamian). *In Revision*. 
 
-- **Hou, W.**, Ji, Z.\* (2021). Single-cell Unbiased Visualization with SCUBI. [Preprint in SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881357). [Software package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html). *In press in Cell Reports Methods*.
-
 - **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang, G., Liang, L., Ji, H., Saria, S., Wang, X.\* (2021)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking.  [Preprint in Preprints](https://www.preprints.org/manuscript/202110.0296/v1). *In Review*.
 
 - Huang, W., Igusa, T., Wang, G., Buckley, J.P., Hong, X., Bind, E., Steffens, A., Mukherjee, J., Haltmeier, D., Ji, Y., Xu, R., **Hou, W.**, Fan, Z., and Wang, X.\* (2021) Effects of in-utero exposure to toxic metal mixture and micronutrients on the risk of overweight or obesity in children from US urban, low-income, underrepresented populations. *In Revision*.
 
 ### Published
 ##### Single-cell genomics
+
+- **Hou, W.**, Ji, Z.\* (2021). Single-cell Unbiased Visualization with SCUBI.  [Cell Reports Methods, 100135, 2022](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00204-6). [Software package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html). 
+
 - Caushi, J.X., Zhang, J.,  Ji, Z., Vaghasia, A., Zhang, B., Hsiue, E., Mog, B., **Hou, W.**, Justesen, S., Blosser, R., Tam, A., Anagnostou, V., Cottrell, T.R., Guo, H., Chan, H.,  Singh, D., Thapa, S., Dykema, A., Choudhury, C., Aparicio, L., Cheung, L., Lanis, M., Belcaid, Z., Asmar, M.E., Illei, P.,  Brock, M., Ha, J., Bush, E., Park, B.,  Bott, M.,  Naidoo, J., Marrone, K.A., Reuss, J.E., Velculescu, V.E., Chaft, J.E., Kinzler, K.W., Zhou, S., Vogelstein, B., Taube, J.M., Merghoub, T., Brahmer, J.R., Hellmann, M.D., Forde, P.M., Yegnasubramanian, S.\*, Ji, H.\*, Pardoll, D.M.\*,  Smith, K.N.\* (2021). Transcriptional programs of neoantigen-specific TIL in anti-PD-1-treated lung cancers. [*Nature*, July 21, 2021](https://www.nature.com/articles/s41586-021-03752-4#citeas).
 
 - **Hou, W.**, Ji, Z., Ji, H.\* and Hicks, S.C.\*, (2020). A Systematic Evaluation of Single-cell RNA-sequencing Imputation Methods. [*Genome Biology* 21, 218 (2020)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02132-x), doi: 10.1186/s13059-020-02132-x. PMID: 32854757. PMCID: PMC7450705. Links to: [Code](https://github.com/Winnie09/imputationBenchmark), [Twitter](https://twitter.com/GenomeBiology/status/1298976169484681219).
