@@ -15,7 +15,8 @@ title: Life
 
 **Music composition**: teacher [Dr. Z. Gulaboff Davis](https://www.zgulaboffdavis.com/).
 
-Others include table tennis, climbing, hiking, swimming, piano, ukulele, cooking, and card games. 
+**Reading**: academic books, scientific fiction.
 
+Others include table tennis, climbing, hiking, swimming, piano, ukulele, cooking, and card games. 
 
 
