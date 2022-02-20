@@ -17,7 +17,7 @@ title: Life
 
 **Reading**: academic books, scientific fiction.
 
-Others include Chinese calligraphy, table tennis, climbing, hiking, swimming, piano, ukulele, cooking, and card games. 
+Others include  table tennis, climbing, hiking, running, swimming, Chinese calligraphy, piano, ukulele, cooking, and card games. 
 
 Tried and happy to involve more: watercolor painting, pottery, and skiing.
 
