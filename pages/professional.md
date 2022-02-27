@@ -33,6 +33,8 @@ title: Professional Activity
 
 - Neurocomputing
 
+- PLOS Computational Biology
+
 *Conferences*
 
 - The First CCF Bioinformatics Conference \(CBC 2016\)
