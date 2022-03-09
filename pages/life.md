@@ -17,8 +17,3 @@ title: Life
 
 **Reading**: academic books, scientific fiction.
 
-Others include  table tennis, climbing, hiking, running, swimming, Chinese calligraphy, piano, ukulele, cooking, and card games. 
-
-Tried and happy to involve more: watercolor painting, pottery, and skiing.
-
-
