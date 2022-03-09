@@ -15,5 +15,3 @@ title: Life
 
 **Music composition**: teacher [Dr. Zach Gulaboff Davis](https://www.zgulaboffdavis.com/).
 
-**Reading**: academic books, scientific fiction.
-
