@@ -10,3 +10,6 @@ title: Software
 
 
 [scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html):  **Hou, W.**, Ji, Z. (2021). Single-cell Unbiased Visualization with SCUBI. PMID: 35224531. PMCID: PMC8871596.
+
+
+[Palo](https://winnie09.github.io/Wenpin_Hou/pages/Palo.html):  **Hou, W.**, Ji, Z. (2022). To-appear.
