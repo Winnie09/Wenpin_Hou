@@ -54,7 +54,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - **Hou, W.**\*, Chen,Y. and Zhang, Y., (2012) Investigation of Heavy Metal Pollution on Urban Topsoil. *Economic Life Digest* (in Chinese), 15, pp.204-206. [ISSN1009 -- 5535]
 
 
-##### Obesity and Maternal Health
+##### Obesity and maternal health
 
 - Huang, W., Igusa, T., Wang, G., Buckley, J.P., Hong, X., Bind, E., Steffens, A., Mukherjee, J., Haltmeier, D., Ji, Y., Xu, R., **Hou, W.**, Fan, Z., and Wang, X.\* (2022) In-utero co-exposure to toxic metals and micronutrients on childhood risk of overweight or obesity: new insight on micronutrients counteracting toxic metals. [Int J Obes (2022)](https://doi.org/10.1038/s41366-022-01127-x).
 
