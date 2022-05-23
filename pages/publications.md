@@ -14,10 +14,13 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang, G., Liang, L., Ji, H., Saria, S., Wang, X.\* (2021)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking.  [Preprint in Preprints](https://www.preprints.org/manuscript/202110.0296/v1). *In Review*.
 
-- Huang, W., Igusa, T., Wang, G., Buckley, J.P., Hong, X., Bind, E., Steffens, A., Mukherjee, J., Haltmeier, D., Ji, Y., Xu, R., **Hou, W.**, Fan, Z., and Wang, X.\* (2021) Effects of in-utero exposure to toxic metal mixture and micronutrients on the risk of overweight or obesity in children from US urban, low-income, underrepresented populations. Submitted to The Lancet Regional Health - Americas. *In Revision*.
 
-### Published
+
+### Published/To Appear
 ##### Single-cell genomics
+
+-**Hou, W.**, Ji, Z.\*(2022). Spatially-aware color palette optimization for single-cell and spatial data. To appear in *Bioinformatics*. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.13.484080v1). PMID/PMCID to be announced. [Software package: Palo](https://winnie09.github.io/Wenpin_Hou/pages/Palo.html).
+
 
 - **Hou, W.**, Ji, Z.\* (2022). Single-cell Unbiased Visualization with SCUBI.  [Cell Reports Methods, 100135, 2022](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00204-6). [Software package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html). 
 
@@ -49,6 +52,11 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - Jiang, H.\*, Ching, W.K. and **Hou, W.**, (2016). On orthogonal feature extraction model with applications in medical prognosis. [*Applied Mathematical Modelling*, 40(19-20), pp.8766-8776](https://www.sciencedirect.com/science/article/abs/pii/S0307904X1630261X). doi:10.1016/j.apm.2016.05.011. 
 
 - **Hou, W.**\*, Chen,Y. and Zhang, Y., (2012) Investigation of Heavy Metal Pollution on Urban Topsoil. *Economic Life Digest* (in Chinese), 15, pp.204-206. [ISSN1009 -- 5535]
+
+
+##### Obesity and Maternal Health
+
+- Huang, W., Igusa, T., Wang, G., Buckley, J.P., Hong, X., Bind, E., Steffens, A., Mukherjee, J., Haltmeier, D., Ji, Y., Xu, R., **Hou, W.**, Fan, Z., and Wang, X.\* (2022) In-utero co-exposure to toxic metals and micronutrients on childhood risk of overweight or obesity: new insight on micronutrients counteracting toxic metals. [Int J Obes (2022)](https://doi.org/10.1038/s41366-022-01127-x).
 
 ##### Psychiatry
 
