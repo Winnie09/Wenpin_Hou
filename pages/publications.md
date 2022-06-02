@@ -19,10 +19,10 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 ### Published/To Appear
 ##### Single-cell genomics
 
-- **Hou, W.**, Ji, Z.\*(2022). Spatially-aware color palette optimization for single-cell and spatial data. [Bioinformatics, June 01, 2022](https://doi.org/10.1093/bioinformatics/btac368). PMID/PMCID to be announced. [Software package: Palo](https://winnie09.github.io/Wenpin_Hou/pages/Palo.html).
+- **Hou, W.**, Ji, Z.\*(2022). Spatially-aware color palette optimization for single-cell and spatial data. [*Bioinformatics*, June 01, 2022](https://doi.org/10.1093/bioinformatics/btac368). PMID/PMCID to be announced. [Software package: Palo](https://winnie09.github.io/Wenpin_Hou/pages/Palo.html).
 
 
-- **Hou, W.**, Ji, Z.\* (2022). Single-cell Unbiased Visualization with SCUBI.  [Cell Reports Methods, 100135, 2022](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00204-6). [Software package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html). 
+- **Hou, W.**, Ji, Z.\* (2022). Single-cell Unbiased Visualization with SCUBI.  [*Cell Reports Methods*, 100135, 2022](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00204-6). [Software package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html). 
 
 - Caushi, J.X., Zhang, J.,  Ji, Z., Vaghasia, A., Zhang, B., Hsiue, E., Mog, B., **Hou, W.**, Justesen, S., Blosser, R., Tam, A., Anagnostou, V., Cottrell, T.R., Guo, H., Chan, H.,  Singh, D., Thapa, S., Dykema, A., Choudhury, C., Aparicio, L., Cheung, L., Lanis, M., Belcaid, Z., Asmar, M.E., Illei, P.,  Brock, M., Ha, J., Bush, E., Park, B.,  Bott, M.,  Naidoo, J., Marrone, K.A., Reuss, J.E., Velculescu, V.E., Chaft, J.E., Kinzler, K.W., Zhou, S., Vogelstein, B., Taube, J.M., Merghoub, T., Brahmer, J.R., Hellmann, M.D., Forde, P.M., Yegnasubramanian, S.\*, Ji, H.\*, Pardoll, D.M.\*,  Smith, K.N.\* (2021). Transcriptional programs of neoantigen-specific TIL in anti-PD-1-treated lung cancers. [*Nature*, July 21, 2021](https://www.nature.com/articles/s41586-021-03752-4#citeas).
 
