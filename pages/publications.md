@@ -19,7 +19,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 ### Published/To Appear
 ##### Single-cell genomics
 
-- **Hou, W.**, Ji, Z.\*(2022). Spatially-aware color palette optimization for single-cell and spatial data. To appear in *Bioinformatics*. [bioRxiv](https://www.biorxiv.org/content/10.1101/2022.03.13.484080v1). PMID/PMCID to be announced. [Software package: Palo](https://winnie09.github.io/Wenpin_Hou/pages/Palo.html).
+- **Hou, W.**, Ji, Z.\*(2022). Spatially-aware color palette optimization for single-cell and spatial data. [Bioinformatics, June 01, 2022](https://doi.org/10.1093/bioinformatics/btac368). PMID/PMCID to be announced. [Software package: Palo](https://winnie09.github.io/Wenpin_Hou/pages/Palo.html).
 
 
 - **Hou, W.**, Ji, Z.\* (2022). Single-cell Unbiased Visualization with SCUBI.  [Cell Reports Methods, 100135, 2022](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00204-6). [Software package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html). 
