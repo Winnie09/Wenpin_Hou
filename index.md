@@ -34,7 +34,7 @@ Wenpin Hou, Ph.D. <br/>
 New York, NY 10032, USA
 
 
-<img src="images/envelope.svg" alt="Email logo" width="20"> [Email:]() <img src="images/email_address.png" alt="Email address" width="134"> <br/>
+<img src="images/envelope.svg" alt="Email logo" width="30"> [Email:]() <img src="images/email_address.png" alt="Email address" width="134"> <br/>
 <img src="images/github.svg" alt="GitHub logo" width="20"> [GitHub: `Winnie09`](https://github.com/Winnie09) <br/>
 <img src="images/scholar.svg" alt="Google Scholar logo" width="20"> [Google Scholar](https://scholar.google.com.hk/citations?user=1wVQpBUAAAAJ&hl=en) <br/>
 <img src="images/twitter.svg" alt="Twitter logo" width="20"> [Twitter: `@HWenpin`](https://twitter.com/HWenpin)
