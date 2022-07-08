@@ -29,7 +29,7 @@ Wenpin Hou, Ph.D. <br/>
 [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) <br/>
 [Mailman School of Public Health](https://www.publichealth.columbia.edu/) <br/>
 [Columbia University](https://www.columbia.edu/) <br/>
-722 West168th Street Rm 650 <br/>
+722 West168th Street Rm 614 <br/>
 New York, NY 10032, USA
 
 
