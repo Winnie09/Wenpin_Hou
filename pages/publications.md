@@ -10,17 +10,17 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### In Review/Submitted
 
+- Dykema, AG.,  Zhang, J., Zhang, B., Cheung, LS., Cherry. CM., Li, T., Caushi, JX., Nishimoto, M., Connor, S., Ji, Z., Munoz, AJ., **Hou, W.**, Zhan, W., Singh, D., Rashid, R., Mitchell-Flack, M., Bom, S., Tam, A., Ionta, N., Wang, Y., Sawosik, CA, Tirado, LE., Tomasovic, LM., VanDyke, D., Spangler, JB., Anagnostou, V., Yang, S., Spicer, J., Rayes, R., Taube, J., Brahmer, JR., Forde, PM., Yegnasubramanian, S., Ji, H., Pardoll, DM., Smith, KN. \* (2022) Lung tumor-infiltrating Treg subsets have divergent transcriptional profiles and function linked to checkpoint blockade response. *Submitted*.
+
 - **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2021) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). [Software package: Lamian](https://github.com/Winnie09/Lamian). In revision in Nature Methods (Guided Open Access). 
 
 - **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang, G., Liang, L., Ji, H., Saria, S., Wang, X.\* (2021)  A prospective birth cohort study of fetal exposure to cigarette smoking on child risk of obesity: concordance of self-report and maternal and cord blood biomarkers of cigarette smoking.  [Preprint in *Preprints*](https://www.preprints.org/manuscript/202110.0296/v1). *In Review*.
 
 
-
-### Published/To Appear
+### Published
 ##### Single-cell genomics
 
 - **Hou, W.**, Ji, Z.\* (2022). Palo: spatially-aware color palette optimization for single-cell and spatial data. [*Bioinformatics*, June 01, 2022](https://doi.org/10.1093/bioinformatics/btac368). [Software package: Palo](https://winnie09.github.io/Wenpin_Hou/pages/Palo.html). PMID: 35642896. 
-
 
 - **Hou, W.**, Ji, Z.\* (2022). Single-cell Unbiased Visualization with SCUBI.  [*Cell Reports Methods*, 100135, 2022](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00204-6). [Software package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html).  PMID: 35224531. PMCID: PMC8871596
 
