@@ -41,7 +41,7 @@ New York, NY 10032, USA
 </div>
 <div class="span3" markdown="1">
 
-<img src="images/wenpin.png" alt="Wenpin Hou photo" width="190">
+<img src="images/wenpin.png" alt="Wenpin Hou photo" width="380">
 
 </div>
 </div>
