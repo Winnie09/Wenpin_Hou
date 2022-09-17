@@ -27,6 +27,8 @@ title: Professional Activity
 
 - IEEE Transactions on Neural Networks and Learning Systems \(TransNNLS\)
 
+- Nature Methods
+
 - Nature Communications
 
 - Nature Portfolio (Nature Methods, Nature Communications, and Communications Biology together)
