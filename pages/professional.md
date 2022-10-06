@@ -25,7 +25,7 @@ title: Professional Activity
   
 - Genome Biology
 
-- Genomics, Proteomics \& Bioinformatics
+- Genomics, Proteomics & Bioinformatics
 
 - IEEE Transactions on Neural Networks and Learning Systems \(TransNNLS\)
 
