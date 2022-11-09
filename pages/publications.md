@@ -16,7 +16,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2021) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). [Software package: Lamian](https://github.com/Winnie09/Lamian). *In Revision*.
 
-- **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang, G., Liang, L., Ji, H., Saria, S., Wang, X.\* (2022)  A prospective birth cohort study of maternal prenatal cigarette smoking assessed by self-report and biomarkers on childhood risk of overweight or obesity.  To appear in *Precision Nutrition*.
+- **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang, G., Liang, L.,  Saria, S. and Ji, H. (2022)  A prospective birth cohort study of maternal prenatal cigarette smoking assessed by self-report and biomarkers on childhood risk of overweight or obesity.  To appear in *Precision Nutrition*.
 
 
 ### Published
