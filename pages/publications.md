@@ -16,8 +16,6 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2021) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). [Software package: Lamian](https://github.com/Winnie09/Lamian). *In Revision*.
 
-- **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang, G., Liang, L.,  Saria, S. and Ji, H. (2022)  A prospective birth cohort study of maternal prenatal cigarette smoking assessed by self-report and biomarkers on childhood risk of overweight or obesity.  To appear in *Precision Nutrition*.
-
 
 ### Published
 ##### Single-cell genomics
@@ -57,6 +55,9 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 
 ##### Obesity and maternal health
+
+- **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang, G., Xu, R., Liang, L.,  Saria, S. and Ji, H. (2022)  A prospective birth cohort study of maternal prenatal cigarette smoking assessed by self-report and biomarkers on childhood risk of overweight or obesity.  [*Precision Nutrition*, December 2022,  Volume 1,  Issue 3, p e00017](https://journals.lww.com/pn/Fulltext/2022/12000/A_prospective_birth_cohort_study_of_maternal.1.aspx?context=LatestArticles), doi: 10.1097/PN9.0000000000000017.
+
 
 - Huang, W., Igusa, T., Wang, G., Buckley, J.P., Hong, X., Bind, E., Steffens, A., Mukherjee, J., Haltmeier, D., Ji, Y., Xu, R., **Hou, W.**, Fan, Z., and Wang, X.\* (2022) In-utero co-exposure to toxic metals and micronutrients on childhood risk of overweight or obesity: new insight on micronutrients counteracting toxic metals. [Int J Obes (2022)](https://doi.org/10.1038/s41366-022-01127-x).
 
