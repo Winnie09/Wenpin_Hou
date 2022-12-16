@@ -59,7 +59,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang, G., Xu, R., Liang, L.,  Saria, S. and Ji, H. (2022)  A prospective birth cohort study of maternal prenatal cigarette smoking assessed by self-report and biomarkers on childhood risk of overweight or obesity.  [*Precision Nutrition*, 1(3), e00017](https://journals.lww.com/pn/Fulltext/2022/12000/A_prospective_birth_cohort_study_of_maternal.1.aspx?context=LatestArticles), doi: 10.1097/PN9.0000000000000017.
 
 
-- Huang, W., Igusa, T., Wang, G., Buckley, J.P., Hong, X., Bind, E., Steffens, A., Mukherjee, J., Haltmeier, D., Ji, Y., Xu, R., **Hou, W.**, Fan, Z., and Wang, X.\* (2022) In-utero co-exposure to toxic metals and micronutrients on childhood risk of overweight or obesity: new insight on micronutrients counteracting toxic metals. [*International Journal of Obesity*, 46, 1435–1445](https://doi.org/10.1038/s41366-022-01127-x).
+- Huang, W., Igusa, T., Wang, G., Buckley, J.P., Hong, X., Bind, E., Steffens, A., Mukherjee, J., Haltmeier, D., Ji, Y., Xu, R., **Hou, W.**, Fan, Z., and Wang, X.\* (2022) In-utero co-exposure to toxic metals and micronutrients on childhood risk of overweight or obesity: new insight on micronutrients counteracting toxic metals. [*International Journal of Obesity*, 46, 1435–1445](https://doi.org/10.1038/s41366-022-01127-x). PMID: 35589962. PMCID: PMC9329205.
 
 ##### Psychiatry
 
