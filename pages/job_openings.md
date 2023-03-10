@@ -5,7 +5,7 @@ title: Job Openings
 
 
 **I am looking for students and postdoctoral fellows to work together on exciting research projects**.  
-Welcome to contact me at wh2526@cumc.columbia.edu if your are interested. 
+Welcome to contact me at if your are interested. 
 
 **Students**: please contact me for more details. 
 
