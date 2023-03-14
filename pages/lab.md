@@ -19,6 +19,7 @@ Assistant Professor <br/>
 <img src="../images/wenpin.png" alt="images" width="175">
   
 </div>
+</div>
   
 **Wenhan Bao**<br/>
 MSc Student (theory and methods track), Department of Biostatistics <br/>
