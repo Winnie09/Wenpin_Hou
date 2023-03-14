@@ -18,7 +18,8 @@ Assistant Professor <br/>
 <div class="span3" markdown="1">
 <img src="../images/wenpin.png" alt="images" width="175">
   
-
+</div>
+  
 **Wenhan Bao**<br/>
 MSc Student (theory and methods track), Department of Biostatistics <br/>
 Interested in developing statistical machine learning models for predicting epigenomics data.<br/>
