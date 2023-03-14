@@ -22,15 +22,17 @@ Interested in developing statistical machine learning models for predicting epig
 > 
 
 <img src="../images/Tianchuan_Gao_headshot.png" alt="images" width="150">  
+  
 **Tianchuan Gao**, BSc. <br/>
 MSc student (theory and methods track), Department of Biostatistics <br/>
-Interested in developing statistical methods for analyzing high-dimensional genomics data, for example for discovery of biomarkers for complex diseases. <br/>
+Interested in developing statistical methods for analyzing high-dimensional genomics data, and discovery of biomarkers for complex diseases. <br/>
 
 > 
   
 <img src="../images/Jingyi_Yao_headshot.png" alt="images" width="150">
+  
 **Jingyi Yao**,  BSc. <br/>
 MSc Student (theory and methods track), Department of Biostatistics <br/>
-Ineterested in developing methods for integrative analysis of single-cell genomics and spatial transcriptomics data. 
+Ineterested in developing methods for integrative analysis of single-cell genomics and spatial transcriptomics data.  <br/>
 
 > 
