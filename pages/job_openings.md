@@ -7,22 +7,23 @@ title: Job Openings
 **I am looking for students and postdoctoral fellows to work together on exciting research projects**.  
 Welcome to contact me if you are interested. 
 
-**Students**: please contact me for more details. 
+**<span style="color: red;"> Students: </span>**
+Please contact me for more details. 
 
-**Postdoctoral Fellows** ([details](https://forms.stat.ufl.edu/statistics-jobs/entry/10434/)): Postdoctoral fellowship opening to work on developing statistical machine learning methods to tackle the challenges at the intersection of statistics and data science (data in single-cell genomics, epigenomics, spatial transcriptomics, and images). The successful candidate will take a leading role in developing the aforementioned methods and applying the methods to single-cell/single-nuclei/multi-omics/spatial transcriptomics sequencing /genomics images data from collaborative projects and publicly available databases in human/mouse to study the evolution of complex diseases.  Depending on the capacities, the postdoc will have the opportunity to work on NIH-funded projects, a large consortium project, and collaborative research at Columbia University, Johns Hopkins University, and New York University.  The postdoc will increase her/his methodological knowledge of statistical machine learning in genomics, and lead and co-author manuscript publications in both statistical methodology and genomics research. The postdoc will perform data analyses, and simulations, prepare manuscripts for submission to peer-reviewed journals and deliver presentations at scientific meetings. The postdoc will also be encouraged and advised to develop and write funding proposals if interested.
 
-Candidates must have a Ph.D. in Biostatistics, Computer Science, Statistics, Computational Biology, Mathematics/Applied Mathematics, Electrical Engineering,  Genomics or Genetics, or a related field. 
+**<span style="color: red;"> Postdoctoral Position in Computational Genomics at Columbia University </span>**
 
-Required experience: R/Python, basic Linux, and strong statistical and computational skills.  Candidates with experience in deep learning and in statistical machine learning modeling are especially welcome to apply. 
 
-Application review will begin upon posted and will be considered until the position is filled. The position can start as soon as possible. 
+**Job Title**: Postdoc.
 
-*To apply*, please email the following documents to Dr. Wenpin Hou at wh2526@cumc.columbia.edu:
-+ Cover letter addressing the candidate’s qualifications
-+ Curriculum vitae
-+ A statement of research interest
-+ Contact information of at least three references
+**Department**: Department of Biostatistics at Columbia University.
 
-Salary is competitive and commensurate with qualification.
+A postdoctoral position is available immediately in the research group of Dr. Wenpin Hou, an Assistant Professor, in the Department of Biostatistics at Columbia University.  The research group develops novel computational and statistical methods for analyzing complex data types in genomics and data science, such as single-cell genomics, epigenomics, and spatial transcriptomics, with the goal of understanding gene regulation and improve human health. We are looking for candidates with a strong background in deep learning and transformers, computational genomics, mathematical modeling of networks, or related fields, who are interested in applying their skills to solve challenging problems in genomics and health. The successful candidate will work closely with Dr. Hou and collaborators from Columbia University, Johns Hopkins University, and New York University on developing and applying cutting-edge methods to large-scale datasets from various sources, such as NIH-funded projects and a large consortium project. The candidate will have the opportunity to lead and co-author high-impact publications and present their work at prestigious conferences. The candidate will also gain valuable experience in statistical machine learning applied to single-cell genomics, multi-omics, and spatial transcriptomics, as well as mentorship on career development and grant writing (e.g., NIH K99/R00 Award).
 
-Benefits will be in accordance with Columbia University standard postdoctoral benefits.
+**Availability and Renewal**: The position is available immediately and is renewable annually based on performance and funding availability. 
+
+**Salary and Benefit**: Salary is competitive and commensurate with qualification. Benefits will be in accordance with Columbia University postdoctoral benefits.
+
+**Required Qualifications**: Applicants should have a PhD degree or equivalent in computer science, statistics, bioinformatics, or related fields. Applicants should also have excellent programming skills (e.g., Python, R) and communication skills (both written and oral).
+
+**How to Apply**: Please send a cover letter stating your research interests and qualifications, a CV, a representative publication, or preprint (if available), and contact information of three references to Dr. Wenpin Hou at wh2526@cumc.columbia.edu. Please use "Postdoc Application" as the email subject line.
