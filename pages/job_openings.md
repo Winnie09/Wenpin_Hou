@@ -4,14 +4,11 @@ title: Job Openings
 ---
 
 
-**I am looking for students and postdoctoral fellows to work together on exciting research projects**.  
+**I am looking for students and postdocs to work together on exciting research projects**.  
 Welcome to contact me if you are interested. 
 
-**<span style="color: red;"> Students: </span>**
-Please contact me for more details. 
 
-
-**<span style="color: red;"> Postdoctoral Position in Computational Genomics at Columbia University </span>**
+**<span style="color: blue;"> Postdoctoral Position in Computational Genomics at Columbia University </span>**
 
 
 **Job Title**: Postdoc.
