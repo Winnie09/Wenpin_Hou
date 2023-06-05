@@ -10,7 +10,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### Submitted
 
-- **Hou, W.** and Ji, Z., (2023). Reference-free and cost-effective automated cell type annotation with GPT-4 in single-cell RNA-seq analysis. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.04.16.537094v1). *In Journal Reviewers' Review*.
+- **Hou, W.** and Ji, Z., (2023). Reference-free and cost-effective automated cell type annotation with GPT-4 in single-cell RNA-seq analysis. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.04.16.537094v1). *In Journal Revision*.
 
 - **Hou, W.** and Ji, Z. (2023) GeneTuring tests GPT models in genomics. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v1). *In Journal Editor's Review*.
 
