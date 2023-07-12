@@ -8,9 +8,9 @@ title: Open Positions
 Welcome to contact me if you are interested. 
 
 
-**<span style="color: blue;"> Current MSc/PhD students: </span>**  please email me with your research interests and CV to discuss RA or GRA positions. 1-on-1 weekly meetings guaranteed. 
+**<span style="color: blue;"> Current PhD/MSc/MPH students: </span>**  please email me with your research interests and CV. GRA positions for PhD students are available immediately. RA positions for MSc/MPH students depend on qualifications. 
 
-**<span style="color: blue;"> Prospective PhD students: </span>**   our department has a PhD admission committee to handle PhD student applications. You are very welcome to put my name in your PhD application. You may email me as well.
+**<span style="color: blue;"> Prospective PhD students: </span>**   our department has a PhD admission committee to handle PhD student applications. You are very welcome to put my name in your PhD application. You may email me as well to let me know what you are interested in and how I can help.
 
 **<span style="color: blue;"> Postdoctoral Position in Computational Genomics at Columbia University </span>**
 
