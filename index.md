@@ -18,7 +18,7 @@ Award](http://edf.edaao.sysu.edu.cn/jzmx/jz03/cgzs02/index.htm) for academic exc
 I received my Ph.D. in [Mathematics](https://hkumath.hku.hk/web/index.php) with [University Postgraduate Fellowships (UPF)](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees) and [Postgraduate Scholarship (PGS)](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees) from [The University of Hong Kong](https://www.hku.hk/) under the supervision of [Dr. Wai-Ki Ching](https://hkumath.hku.hk/~wkc/) (2013-2017).
 
 
-**I am looking for ** **<span style="color: lightblue;"> students in all levels </span>**  **and**  **<span style="color: lightblue;"> two postdocs </span>**  **to work together on exciting research projects**. Welcome to contact me/put my name in your application if your are interested!!
+**I am looking for ** **<span style="color: royalblue;"> students in all levels </span>**  **and**  **<span style="color: royalblue;;"> two postdocs </span>**  **to work together on exciting research projects**. Welcome to contact me/put my name in your application if your are interested!!
 
 
 
