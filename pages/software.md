@@ -3,6 +3,9 @@ layout: page
 title: Software
 ---
 
+[GPTCelltype](https://winnie09.github.io/Wenpin_Hou/pages/gptcelltype.html): **Hou, W.**, Ji, Z.\*(2023). Reference-free and cost-effective automated cell type annotation with GPT-4 in single-cell RNA-seq analysis. [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.04.16.537094v1). PMID/PMCID to be announced. 
+
+
 [Paella](https://winnie09.github.io/Wenpin_Hou/pages/Paella.html): **Hou, W.**, Ji, Z.\*(2022). Decomposing spatial heterogeneity of cell development trajectories with Paella. [*bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.09.05.506682v1). PMID/PMCID to be announced. 
 
 [Palo](https://winnie09.github.io/Wenpin_Hou/pages/Palo.html): **Hou, W.**, Ji, Z.\*(2022). Spatially-aware color palette optimization for single-cell and spatial data. [*Bioinformatics*, June 01, 2022](https://doi.org/10.1093/bioinformatics/btac368). PMID: 35642896.
