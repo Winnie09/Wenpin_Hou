@@ -3,11 +3,11 @@ layout: page
 title: Teaching
 ---
 
-**Instructor**, [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics), [Columbia University](https://www.columbia.edu/), 1/2024-5/2025
+**Instructor**, [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics), [Columbia University](https://www.columbia.edu/)
 
 * **Courses**
 
-   * **P8131** Biostatistical Methods II 
+   * **P8131** Biostatistical Methods II (1/2024-5/2025)
 
 
 **Teaching Assistant**, [Department of Mathematics](https://hkumath.hku.hk/web/index.php), [The University of Hong Kong](https://www.hku.hk/), 10/2013-2/2017
