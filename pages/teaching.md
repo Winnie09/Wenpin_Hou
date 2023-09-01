@@ -5,6 +5,8 @@ title: Teaching
 
 **Instructor**, [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics), [Columbia University](https://www.columbia.edu/), 1/2024-5/2025
 
+* **Courses**
+
    * **P8131** Biostatistical Methods II 
 
 
@@ -14,7 +16,8 @@ title: Teaching
 
 * **Related Honors**:  *Excellent Teaching Award*, 2016
 
-* **Responsibility**: give supplement lectures, exercise & programming lessons twice per week
+% * **Responsibility**: give supplement lectures, exercise & programming lessons twice per week
+* **Courses**
 
    * **MATH 1011** University Mathematics \(*1* semester\) 
 
