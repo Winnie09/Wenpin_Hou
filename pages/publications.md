@@ -10,7 +10,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### Submitted
 
-- **Hou, W.** and Ji, Z., (2023). Reference-free and cost-effective automated cell type annotation with GPT-4 in single-cell RNA-seq analysis. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.04.16.537094v1). *In Journal Revision*.
+- **Hou, W.** and Ji, Z., (2023). Reference-free and cost-effective automated cell type annotation with GPT-4 in single-cell RNA-seq analysis. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.04.16.537094v1). [Software package: GPTCelltype](https://winnie09.github.io/Wenpin_Hou/pages/gptcelltype.html). *In Journal Revision*.
 
 - **Hou, W.** and Ji, Z. (2023) GeneTuring tests GPT models in genomics. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v1). *In Journal Editor's Review*.
 
@@ -32,7 +32,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - **Hou, W.**, Ji, Z., Ji, H.\* and Hicks, S.C.\*, (2020). A Systematic Evaluation of Single-cell RNA-sequencing Imputation Methods. [*Genome Biology* 21, 218 (2020)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02132-x), doi: 10.1186/s13059-020-02132-x. PMID: 32854757. PMCID: PMC7450705. Links to: [Code](https://github.com/Winnie09/imputationBenchmark), [Twitter](https://twitter.com/GenomeBiology/status/1298976169484681219).
 
-- Ji, Z., Zhou, W., **Hou, W.** and Ji, H.\*, (2020). SCATE: Single-cell ATAC-seq Signal Extraction and Enhancement. [*Genome Biology*, 21,161 (2020)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02075-3). doi: 10.1186/s13059-020-02075-3. PMID: 32620137. PMCID: PMC7333383. Links to: [Package: SCATE](https://github.com/Winnie09/SCATE), [Package: SCATEData](https://github.com/Winnie09/SCATEData).
+- Ji, Z., Zhou, W., **Hou, W.** and Ji, H.\*, (2020). SCATE: Single-cell ATAC-seq Signal Extraction and Enhancement. [*Genome Biology*, 21,161 (2020)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02075-3). doi: 10.1186/s13059-020-02075-3. PMID: 32620137. PMCID: PMC7333383. Links to: [Software package: SCATE](https://github.com/Winnie09/SCATE), [SCATEData](https://github.com/Winnie09/SCATEData).
 
 ##### Boolean networks
 - **Hou, W.**, Ruan, P., Ching, W.K. and Akutsu, T.\*, (2019). On the number of driver nodes for controlling a Boolean network when the targets are restricted to attractors. [*Journal of Theoretical Biology*, 463, pp.1-11](https://www.sciencedirect.com/science/article/pii/S0022519318306027). doi:10.1016/j.jtbi.2018.12.012.
