@@ -3,6 +3,11 @@ layout: page
 title: Teaching
 ---
 
+**Instructor**, [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics), [Columbia University](https://www.columbia.edu/), 1/2024-5/2015
+
+   * ** P8131** Biostatistical Methods II 
+
+
 **Teaching Assistant**, [Department of Mathematics](https://hkumath.hku.hk/web/index.php), [The University of Hong Kong](https://www.hku.hk/), 10/2013-2/2017
 
 * **Certificate**: *Certificate of Teaching and Learning in Higher Education (CTEL)* issued by Centre for the Enhancement of Teaching and Learning, The University of Hong Kong, 01/2014
