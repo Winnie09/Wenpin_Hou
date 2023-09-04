@@ -5,7 +5,7 @@ title: Grant
 
 We greatly appreciate the support from the following funding sources for our projects.
 
-**R35GM150887**, NIH/NIGMS, 9/2023-8/2028
+**[R35GM150887](https://reporter.nih.gov/search/Ym09DhMfd0-tUjFN97zw_w/project-details/10712174)**, NIH/NIGMS, 9/2023-8/2028
 
 * Title: Methods for inferring and analyzing gene regulatory networks using single-cell multiomics and spatial genomics data 
 
