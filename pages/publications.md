@@ -10,7 +10,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### Submitted
 
-- **Hou, W.** and Ji, Z., (2023). Reference-free and cost-effective automated cell type annotation with GPT-4 in single-cell RNA-seq analysis. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.04.16.537094v1). [Software package: GPTCelltype](https://winnie09.github.io/Wenpin_Hou/pages/gptcelltype.html). *In Journal Revision*.
+- **Hou, W.** and Ji, Z., (2023). Reference-free and cost-effective automated cell type annotation with GPT-4 in single-cell RNA-seq analysis. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.04.16.537094v1). [Software package: GPTCelltype](https://winnie09.github.io/Wenpin_Hou/pages/gptcelltype.html). In Revision for *Nature Methods*.
 
 - **Hou, W.** and Ji, Z. (2023) GeneTuring tests GPT models in genomics. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v1). *In Journal Review*.
 
@@ -18,7 +18,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - Dykema, AG.,  Zhang, J., Zhang, B., Cheung, LS., Cherry. CM., Li, T., Caushi, JX., Nishimoto, M., Connor, S., Ji, Z., Munoz, AJ., **Hou, W.**, Zhan, W., Singh, D., Rashid, R., Mitchell-Flack, M., Bom, S., Tam, A., Ionta, N., Wang, Y., Sawosik, CA, Tirado, LE., Tomasovic, LM., VanDyke, D., Spangler, JB., Anagnostou, V., Yang, S., Spicer, J., Rayes, R., Taube, J., Brahmer, JR., Forde, PM., Yegnasubramanian, S., Ji, H., Pardoll, DM., Smith, KN. \* (2022) Lung tumor-infiltrating Treg subsets have divergent transcriptional profiles and function linked to checkpoint blockade response. *In Journal Review*.
 
-- **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2021) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). [Software package: Lamian](https://github.com/Winnie09/Lamian). To appear in *Nature Communications*.
+- **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2021) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). [Software package: Lamian](https://github.com/Winnie09/Lamian). Accepted by *Nature Communications*.
 
 
 ### Published
