@@ -14,7 +14,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - **Hou, W.** and Ji, Z. (2023) GeneTuring tests GPT models in genomics. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v1). *In Journal Review*.
 
-- **Hou, W.** and Ji, Z. (2022) Decomposing spatial heterogeneity of cell trajectories with Paella. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.09.05.506682v1). [Software package: Paella](https://github.com/Winnie09/Paella). *In Journal Revision*.
+- **Hou, W.** and Ji, Z. (2022) Decomposing spatial heterogeneity of cell trajectories with Paella. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.09.05.506682v1). [Software package: Paella](https://github.com/Winnie09/Paella). *In Journal Review*.
 
 - Dykema, AG.,  Zhang, J., Zhang, B., Cheung, LS., Cherry. CM., Li, T., Caushi, JX., Nishimoto, M., Connor, S., Ji, Z., Munoz, AJ., **Hou, W.**, Zhan, W., Singh, D., Rashid, R., Mitchell-Flack, M., Bom, S., Tam, A., Ionta, N., Wang, Y., Sawosik, CA, Tirado, LE., Tomasovic, LM., VanDyke, D., Spangler, JB., Anagnostou, V., Yang, S., Spicer, J., Rayes, R., Taube, J., Brahmer, JR., Forde, PM., Yegnasubramanian, S., Ji, H., Pardoll, DM., Smith, KN. \* (2022) Lung tumor-infiltrating Treg subsets have divergent transcriptional profiles and function linked to checkpoint blockade response. *In Journal Review*.
 
