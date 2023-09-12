@@ -3,27 +3,27 @@ layout: page
 title: Open Positions 
 ---
 
-
 **I am looking for multiple highly-motivated students and postdocs to work together on exciting research projects**.  
 Welcome to contact me if you are interested. 
-
 
 **<span style="color: blue;"> Current PhD/MSc/MPH students: </span>**  GRA positions for PhD students are available immediately. RA positions for MSc/MPH students depend on qualifications; please email me with your research interests and CV. 
 
 **<span style="color: blue;"> Prospective PhD students: </span>**   our department has a PhD admission committee to handle PhD student applications. You are very welcome to put my name in your PhD application. You may email me as well to let me know what you are interested in and how I can help.
 
-**<span style="color: blue;"> Postdoctoral Position in Computational Genomics at Columbia University </span>**
+**<span style="color: blue;"> Postdoctoral Research Scientist Position in Computational Genomics 
+at Columbia University </span>**
 
-**Job Title**: Postdoc.
+**Job Title**: Postdoctoral Research Scientist.
 
 **Department**: Department of Biostatistics at Columbia University.
 
-A postdoctoral position is available immediately in the research group of Dr. Wenpin Hou, an Assistant Professor, in the Department of Biostatistics at Columbia University.  The research group develops novel computational and statistical methods for analyzing complex data types in genomics and data science, such as single-cell genomics, epigenomics, and spatial transcriptomics, with the goal of understanding gene regulation and improve human health. We are looking for candidates with a strong background in **deep learning and transformers, computational genomics, mixed-effects models, mathematical modeling of networks**, or related fields, who are interested in applying their skills to solve challenging problems in genomics and health. The successful candidate will work closely with Dr. Hou and collaborators from Columbia University, Johns Hopkins University, and New York University on developing and applying cutting-edge methods to large-scale datasets from various sources, such as NIH-funded projects and a large consortium project. The candidate will have the opportunity to lead and co-author high-impact publications and present their work at prestigious conferences. The candidate will also gain valuable experience in statistical machine learning applied to single-cell genomics, multi-omics, and spatial transcriptomics, as well as mentorship on career development and grant writing (e.g., NIH K99/R00 Award).
+A Postdoctoral Research Scientist position is now open in Dr. Wenpin Hou's research group within the Department of Biostatistics at Columbia University. Our team is at the forefront of developing innovative computational and statistical methods to analyze intricate data types in genomics and data science. This includes areas such as single-cell genomics, epigenomics, and spatial transcriptomics. Our ultimate aim is to deepen our understanding of gene regulation and enhance human health. We seek candidates who possess a solid foundation in **deep learning and transformers, computational genomics, network modeling, functional data analysis, spatiotemporal data modeling, time series analysis**, or related domains. Those eager to apply their expertise to address pressing challenges in genomics and health are particularly encouraged to apply. The selected individual will collaborate closely with Dr. Hou and esteemed colleagues from Columbia University, Johns Hopkins University, and New York University. They will be instrumental in devising and implementing state-of-the-art methods on expansive datasets from sources like NIH-funded initiatives and major consortium projects. This role offers the chance to spearhead and co-author influential publications, showcase findings at renowned conferences, and acquire invaluable experience in statistical machine learning as applied to single-cell genomics, multi-omics, and spatial transcriptomics. Additionally, the candidate will benefit from mentorship in career progression and grant writing, including guidance on securing awards like the NIH K99/R00.
 
 **Availability and Renewal**: The position is available immediately and is renewable annually based on performance and funding availability. 
 
 **Salary and Benefit**: Salary is competitive and commensurate with qualification. Benefits will be in accordance with Columbia University postdoctoral benefits.
 
-**Required Qualifications**: Applicants should have a PhD degree or equivalent in computer science, statistics, bioinformatics, or related fields. Applicants should also have excellent programming skills (e.g., Python, R) and communication skills (both written and oral).
+**Required Qualifications**: Applicants should have a PhD degree or equivalent in computer science, biostatistics, statistics, mathematics, biomedical engineering, or related fields. Applicants should also have excellent programming skills (e.g., R, Python) and communication skills.
 
-**How to Apply**: Please send a cover letter stating your research interests and qualifications, a CV, a representative publication, or preprint (if available), and contact information of three references to Dr. Wenpin Hou at wh2526@cumc.columbia.edu. Please use "Postdoc Application" as the email subject line.
+**How to Apply**: Please send a cover letter stating your research interests and qualifications, a CV, and contact information of three references to Dr. Wenpin Hou at wh2526@cumc.columbia.edu. Please use "Postdoc Application" as the email subject.
+
