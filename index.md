@@ -14,7 +14,7 @@ Dr. Hou received the [NIH Pathway to Independence Award (K99/R00)](https://grant
 In addition, she worked with [Dr. Suchi Saria](https://suchisaria.jhu.edu/) in the [Department of Computer Science](https://www.cs.jhu.edu/) and [Dr. Aravinda Chakravarti](https://aravindachakravartilab.org/) in the [Department of Molecular Biology and Genetics](https://mbg.jhmi.edu/) on gene regulatory network inference using longitudinal transcriptomics and chromatin accessibility data.  Dr. Hou received her Ph.D. in [Mathematics](https://hkumath.hku.hk/web/index.php) with [University Postgraduate Fellowships (UPF)](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees) and [Postgraduate Scholarship (PGS)](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees) from [The University of Hong Kong](https://www.hku.hk/) under the supervision of [Dr. Wai-Ki Ching](https://hkumath.hku.hk/~wkc/).
 
 
-**Dr. Hou is looking for** **<span style="color: royalblue;"> students in all levels </span>**  **and**  **<span style="color: royalblue;;"> two postdocs </span>**  **to work together on exciting research projects**. Welcome to contact her or put her name in your application if your are interested!!
+**Dr. Hou is looking for** **<span style="color: royalblue;"> students in all levels </span>**  **and**  **<span style="color: royalblue;;"> two postdocs </span>**  **to work together on exciting research projects**. Welcome to contact her or put her name in your application if your are interested.
 
 
 
