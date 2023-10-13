@@ -16,7 +16,6 @@ title: Teaching
 
 * **Related Honors**:  *Excellent Teaching Award*, 2016
 
-% * **Responsibility**: give supplement lectures, exercise & programming lessons twice per week
 * **Courses**
 
    * **MATH 1011** University Mathematics \(*1* semester\) 
