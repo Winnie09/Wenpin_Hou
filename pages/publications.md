@@ -16,11 +16,12 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - **Hou, W.** and Ji, Z. (2022) Decomposing spatial heterogeneity of cell trajectories with Paella. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.09.05.506682v1). [Software package: Paella](https://github.com/Winnie09/Paella). *In Journal Review*.
 
-- **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2021) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). [Software package: Lamian](https://github.com/Winnie09/Lamian). Accepted by *Nature Communications*.
-
 
 ### Published / Accepted 
 ##### Single-cell genomics
+
+- **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2023) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). [Software package: Lamian](https://github.com/Winnie09/Lamian). Accepted by *Nature Communications*.
+
 
 - Wang, Y., Wang, W., Liu, D., **Hou, W.**, Zhou, T.\*, Ji, Z.\* GeneSegNet: a deep learning framework for cell segmentation by integrating gene expression and imaging. [Genome Biol 24, 235 (2023)](https://doi.org/10.1186/s13059-023-03054-0).
 
