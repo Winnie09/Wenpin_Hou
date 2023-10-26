@@ -5,6 +5,8 @@ title: Professional Activity
 
 **Member**
 
+- [Institute of Mathematical Statistics](https://imstat.org/) \(IMS\), 2023-2024
+
 - [International Chinese Statistical Association](https://www.icsa.org/) \(ICSA\), 2023-2024
 
 - [American Statistical Association](https://www.amstat.org/) \(ASA\), 2021-2022
@@ -17,7 +19,7 @@ title: Professional Activity
 
 - [Society for Industrial and Applied Mathematics](https://www.siam.org/) \(SIAM\), 2014-2018
 
-**Reviewer**
+**Reviewer / Award Committee**
 
 *Journals*
 
@@ -43,6 +45,10 @@ title: Professional Activity
 
 *Conferences*
 
+ - [The 12th International Chinese Statistical Association Conference](https://www.icsa.org)\{ICSA2023\) 
+ 
+ - [International Conference on Health Policy Statistics](https://ww2.amstat.org/meetings/ichps/2023/travelawards.cfm)\{ICHPS 2023\)
+
 - The First CCF Bioinformatics Conference \(CBC 2016\)
 
 - IEEE International Conference on Bioinformatics and Biomedicine \(BIBM 2016\)
@@ -52,6 +58,8 @@ title: Professional Activity
 - The 10th International Conference on Systems Biology \(ISB 2016\)
 
 **Judge**
+
+- 2023 Columbia Biostatistics Annual Research Symposium, New York, USA, 09/26/2023
 
 - 2019 Women in STEM Symposium Poster Judge, Baltimore, USA, 04/06/2019
 
