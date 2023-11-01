@@ -27,3 +27,28 @@ A Postdoctoral Research Scientist position is now open in Dr. Wenpin Hou's resea
 
 **How to Apply**: Please send a cover letter stating your research interests and qualifications, a CV, and contact information of three references to Dr. Wenpin Hou at wh2526@cumc.columbia.edu. Please use "Postdoc Application" as the email subject.
 
+
+**<span style="color: blue;"> Post-doc Research Associate on Deep Learning in Medical Imaging,  Computational Genomics, and Multimodal Data Analysis (joint with [Dr. Ying Wei](https://yingweistat.com/) </span>**
+
+
+The Department of Biostatistics at Columbia University invites applications for a prestigious postdoctoral position at the intersection of deep learning, computational genomics, and multimodal data analysis. This role encompasses two exciting areas:
+
+* **Medical Image Analysis, Electronic Medical Records, and Multimodal Data Integration**: The selected candidate will delve into cutting-edge research projects aimed at revolutionizing our understanding of various medical conditions and developing innovative preventative interventions and care approaches.  
+* **Understanding the Mechanistic Basis of the Human Genome**: This facet of the position involves developing novel computational methods to elucidate gene regulation and its circuitry, dynamics, response to therapy, variability across populations, and applications across diverse fields, including cancer and immunotherapy, neuroscience, inflammatory processes, and evolution. Special attention will be given to the integration of multi-omics data to characterize time-varying developmental trajectories in tissue-spatial landscapes and to categorize spatial heterogeneity in gene regulation. 
+ 
+
+**Key Responsibilities**:
+
+1. Develop and implement advanced deep learning algorithms for medical image analysis, with a special focus on algorithms integrating mammographic images for precision breast cancer screening.
+
+2.Develop and implement advanced methods (deep learning, functional data analysis, Bayesian models, and network modeling) to characterize gene regulation across multiple samples and in spatially separated tissue regions using single-cell multi-omics and spatial genomics data.
+
+3.Devise and implement state-of-the-art methods on expansive datasets from sources like NIH-funded initiatives and major consortium projects.               
+
+4.Collaborate in the integration and analysis of multimodal data sources, combining imaging data, biobank,  electronic medical records, and multi-omics data.
+
+5.Contribute to the publication of research findings in high-impact journals and conferences.
+
+6.Collaborate closely with a multidisciplinary team, including epidemiologist, clinicians, data scientists, engineers, biologists, and physicians.
+
+7.Mentor graduate and undergraduate students in the research group.
