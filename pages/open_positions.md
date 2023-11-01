@@ -10,8 +10,7 @@ Welcome to contact me if you are interested.
 
 **<span style="color: blue;"> Prospective PhD students: </span>**   our department has a PhD admission committee to handle PhD student applications. You are very welcome to put my name in your PhD application. You may email me as well to let me know what you are interested in and how I can help.
 
-**<span style="color: blue;"> Postdoctoral Research Scientist Position in Computational Genomics 
-at Columbia University </span>**
+**<span style="color: blue;"> Postdoc Position 1: Postdoctoral Research Scientist Position in Computational Genomics </span>**
 
 **Job Title**: Postdoctoral Research Scientist.
 
@@ -28,8 +27,7 @@ A Postdoctoral Research Scientist position is now open in Dr. Wenpin Hou's resea
 **How to Apply**: Please send a cover letter stating your research interests and qualifications, a CV, and contact information of three references to Dr. Wenpin Hou at wh2526@cumc.columbia.edu. Please use "Postdoc Application" as the email subject.
 
 
-**<span style="color: blue;"> Post-doc Research Associate on Deep Learning in Medical Imaging,  Computational Genomics, and Multimodal Data Analysis (joint with [Dr. Ying Wei](https://yingweistat.com/) </span>**
-
+**<span style="color: blue;"> Postdoc Position 2: Post-doc Research Associate on Deep Learning in Medical Imaging, Computational Genomics, and Multimodal Data Analysis (joint with [Dr. Ying Wei](https://yingweistat.com/)) </span>**
 
 The Department of Biostatistics at Columbia University invites applications for a prestigious postdoctoral position at the intersection of deep learning, computational genomics, and multimodal data analysis. This role encompasses two exciting areas:
 
@@ -39,16 +37,19 @@ The Department of Biostatistics at Columbia University invites applications for 
 
 **Key Responsibilities**:
 
-1. Develop and implement advanced deep learning algorithms for medical image analysis, with a special focus on algorithms integrating mammographic images for precision breast cancer screening.
+* Develop and implement advanced deep learning algorithms for medical image analysis, with a special focus on algorithms integrating mammographic images for precision breast cancer screening.
 
-2.Develop and implement advanced methods (deep learning, functional data analysis, Bayesian models, and network modeling) to characterize gene regulation across multiple samples and in spatially separated tissue regions using single-cell multi-omics and spatial genomics data.
+* Develop and implement advanced methods (deep learning, functional data analysis, Bayesian models, and network modeling) to characterize gene regulation across multiple samples and in spatially separated tissue regions using single-cell multi-omics and spatial genomics data.
 
-3.Devise and implement state-of-the-art methods on expansive datasets from sources like NIH-funded initiatives and major consortium projects.               
+* Devise and implement state-of-the-art methods on expansive datasets from sources like NIH-funded initiatives and major consortium projects.               
 
-4.Collaborate in the integration and analysis of multimodal data sources, combining imaging data, biobank,  electronic medical records, and multi-omics data.
+* Collaborate in the integration and analysis of multimodal data sources, combining imaging data, biobank,  electronic medical records, and multi-omics data.
 
-5.Contribute to the publication of research findings in high-impact journals and conferences.
+* Contribute to the publication of research findings in high-impact journals and conferences.
 
-6.Collaborate closely with a multidisciplinary team, including epidemiologist, clinicians, data scientists, engineers, biologists, and physicians.
+* Collaborate closely with a multidisciplinary team, including epidemiologist, clinicians, data scientists, engineers, biologists, and physicians.
 
-7.Mentor graduate and undergraduate students in the research group.
+* Mentor graduate and undergraduate students in the research group.
+
+**How to Apply**: Please send a cover letter stating your research interests and qualifications, a CV, and contact information of three references to Dr. Wenpin Hou at wh2526@cumc.columbia.edu. Please use "Postdoc Application" as the email subject.
+
