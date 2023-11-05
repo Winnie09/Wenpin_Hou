@@ -18,6 +18,11 @@ MSc Student (Y2022-2024, Theory and Methods track) in Biostatistics developing m
 MSc Student (Y2023-2025, Public Health Data Science track) in Biostatistics developing statistical methods for multi-sample single-cell transcriptomics data. 
 
 
+<img src="../images/Yifei_Zhao.png" alt="images" width="150"> 
+
+**Yifei Zhao**, BSc.   <br/>
+MSc Student (Y2022-2024, Theory and Methods track) in Biostatistics developing machine learning models for gene expression and DNA methylation.
+
 >
 
 ### Alumni
