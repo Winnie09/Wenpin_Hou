@@ -17,17 +17,14 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - **Hou, W.** and Ji, Z. (2022) Decomposing spatial heterogeneity of cell trajectories with Paella. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.09.05.506682v1). [Software package: Paella](https://github.com/Winnie09/Paella). *In Journal Review*.
 
 
-### Published / Accepted 
+### Published
 ##### Single-cell genomics
 
-- **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* (2023) A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2021.07.10.451910v1.full.pdf+html). [Software package: Lamian](https://github.com/Winnie09/Lamian). Accepted by *Nature Communications*.
+- **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples.  [Nature Communications 14, 7286 (2023)](https://www.nature.com/articles/s41467-023-42841-y). [Software package: Lamian](https://github.com/Winnie09/Lamian). 
 
-
-- Wang, Y., Wang, W., Liu, D., **Hou, W.**, Zhou, T.\*, Ji, Z.\* GeneSegNet: a deep learning framework for cell segmentation by integrating gene expression and imaging. [Genome Biol 24, 235 (2023)](https://doi.org/10.1186/s13059-023-03054-0).
-
+- Wang, Y., Wang, W., Liu, D., **Hou, W.**, Zhou, T.\*, Ji, Z.\* GeneSegNet: a deep learning framework for cell segmentation by integrating gene expression and imaging. [Genome Biol 24, 235 (2023)](https://doi.org/10.1186/s13059-023-03054-0). [Software package: GeneSegNet](https://github.com/BoomStarcuc/GeneSegNet)
 
 - Dykema, A.G., Zhang, J., Cheung, L.S., Connor, S., Zhang, B., Zeng, Z., Cherry, C.M., Li, T., Caushi, J.X., Nishimoto, M., Munoz, A.J., Ji, Z., **Hou, W.**, Zhan, W., Singh, D., Zhang, T., Rashid, R., Mitchell-Flack, M., Bom, S., Tam, A., Ionta, N., Aye, T.H.K., Wang, Y., Sawosik, C.A., Tirado, L.E., Tomasovic, L.M., Spangler, J.B., Anagnostou, W., Yang, S., Spicer, J., Rayes, R., Taube, J., Brahmer, J.R., Forde, P.M., Yegnasubramanian, S.\*, Ji, H.\*, Pardoll, M.\*, and Smith K.N.\*(2023). Lung tumor–infiltrating Treg have divergent transcriptional profiles and function linked to checkpoint blockade response. [Science Immunology, 8(87)](https://www.science.org/doi/10.1126/sciimmunol.adg1487). PMID: 37713507. 
-
 
 - **Hou, W.**, Ji, Z.\* (2022). Palo: spatially-aware color palette optimization for single-cell and spatial data. [*Bioinformatics*, June 01, 2022](https://doi.org/10.1093/bioinformatics/btac368). [Software package: Palo](https://winnie09.github.io/Wenpin_Hou/pages/Palo.html). PMID: 35642896. PMCID: PMC9272793.
 
