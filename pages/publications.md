@@ -14,8 +14,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - **Hou, W.** and Ji, Z. (2023) GeneTuring tests GPT models in genomics. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v1). *In Journal Review*.
 
-- Jackson, C., Cherry, C., Bom, S., Dykema, A., Thompson, E., Zheng, M., Ji, Z., **Hou, W.**, Li, R., Zhang, H. and Choi, J., Rodriguez, F.,  Weingart, J., Yegnasubramanian, S., Lim, M., Bettegowda, C., Powell, J., Eliesseff, J., Ji, H., and Pardoll, D. 
-2023. Distinct myeloid derived suppressor cell populations promote tumor aggression in glioblastoma. [bioRxiv, 2023 Jan 1][https://www.biorxiv.org/content/10.1101/2023.03.26.534192v1]. *In Journal Review*. 
+- Jackson, C., Cherry, C., Bom, S., Dykema, A., Thompson, E., Zheng, M., Ji, Z., **Hou, W.**, Li, R., Zhang, H. and Choi, J., Rodriguez, F.,  Weingart, J., Yegnasubramanian, S., Lim, M., Bettegowda, C., Powell, J., Eliesseff, J., Ji, H., and Pardoll, D. 2023. Distinct myeloid derived suppressor cell populations promote tumor aggression in glioblastoma. [bioRxiv, 2023 Jan 1](https://www.biorxiv.org/content/10.1101/2023.03.26.534192v1). *In Journal Review*. 
 
 - **Hou, W.** and Ji, Z. (2022) Decomposing spatial heterogeneity of cell trajectories with Paella. [Preprint in *bioRxiv*](https://www.biorxiv.org/content/10.1101/2022.09.05.506682v1). [Software package: Paella](https://github.com/Winnie09/Paella). *In Journal Review*.
 
