@@ -12,7 +12,7 @@ We greatly appreciate the support from the following funding sources for our pro
 * Role: Principal Investigator 
 
 
-**[K99](https://reporter.nih.gov/search/wzGcGJKVAkSnArnbJrPa4w/project-details/10104023)/[R00HG011468](https://reporter.nih.gov/search/wzGcGJKVAkSnArnbJrPa4w/project-details/10679088)**, NIH/NHGRI, 3/2021-3/2026
+**[K99](https://reporter.nih.gov/search/wzGcGJKVAkSnArnbJrPa4w/project-details/10104023)/[R00HG011468](https://reporter.nih.gov/search/wzGcGJKVAkSnArnbJrPa4w/project-details/10679088)**, NIH/NHGRI, 3/2021-6/2025
 
 * Title: Computational methods for inferring single-cell DNA methylation and its spatial landscape 
 
