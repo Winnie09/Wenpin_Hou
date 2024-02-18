@@ -9,6 +9,13 @@ title: "People"
   
 <img src="../images/Jingyi_Yao.png" alt="images" width="150">
 
+
+**Won Eui Hong**,  Ph.D.    <br/>
+Postdoctoral Researcher specializing in modeling gene regulatory networks using single-cell multiomics data. Holds a Ph.D. in Mathematical Sciences from Carnegie Mellon University, focusing on asymptotic behaviors of dynamical systems, variational techniques, and optimizations. <br/>
+
+<img src="../images/woneuih11.jpg" alt="images" width="150">
+
+
 **Jingyi Yao**,  BSc.    <br/>
 MSc Student (Y2022-2024, Theory and Methods track) in Biostatistics developing methods for integrative analysis of single-cell genomics and spatial transcriptomics data. Tow Doctoral Scholars Pilot Program nominee.  <br/>
 
