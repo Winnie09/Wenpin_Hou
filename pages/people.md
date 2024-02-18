@@ -1,6 +1,3 @@
-To align the photo on the left and the description on the right, you can use HTML and CSS. Here's an updated version of your R Markdown file that should achieve this layout:
-
-```markdown
 ---
 layout: page
 title: "People"
@@ -46,5 +43,3 @@ title: "People"
 
 **Tianchuan Gao**, BSc. MSc.(Y2021-2023, Theory and Methods track). PhD student at Indiana University–Purdue University Indianapolis (IUPUI). <br/>
 ```
-
-This code uses a `div` element with `display: flex;` for each lab member, which aligns the image and the description side by side. The `align-items: center;` ensures that the image and text are vertically centered relative to each other, and `margin-right: 20px;` adds some space between the image and the description. You can adjust the `margin-bottom: 20px;` to control the space between each lab member entry.
