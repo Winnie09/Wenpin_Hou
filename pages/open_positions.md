@@ -10,7 +10,7 @@ Welcome to contact me if you are interested.
 
 **<span style="color: blue;"> Prospective PhD students: </span>**   our department has a PhD admission committee to handle PhD student applications. You are very welcome to put my name in your PhD application. You may email me as well to let me know what you are interested in and how I can help.
 
-**<span style="color: blue;"> Postdoc Position 1: Postdoctoral Research Scientist Position in Computational Genomics </span>**
+**<span style="color: blue;"> Postdoc Position: Postdoctoral Research Scientist Position in Computational Genomics </span>**
 
 **Job Title**: Postdoctoral Research Scientist.
 
@@ -25,31 +25,3 @@ A Postdoctoral Research Scientist position is now open in Dr. Wenpin Hou's resea
 **Required Qualifications**: Applicants should have a PhD degree or equivalent in  biostatistics, computer science, statistics, mathematics, biomedical engineering, or related fields. Applicants should also have excellent programming skills (e.g., R, Python) and communication skills.
 
 **How to Apply**: Please send a cover letter stating your research interests and qualifications, a CV, and contact information of three references to Dr. Wenpin Hou at wh2526@cumc.columbia.edu. Please use "Postdoc Application" as the email subject.
-
-
-**<span style="color: blue;"> Postdoc Position 2: Post-doc Research Associate on Deep Learning in Medical Imaging, Computational Genomics, and Multimodal Data Analysis (joint with [Dr. Ying Wei](https://yingweistat.com/)) </span>**
-
-The Department of Biostatistics at Columbia University invites applications for a prestigious postdoctoral position at the intersection of deep learning, computational genomics, and multimodal data analysis. This role encompasses two exciting areas:
-
-* **Medical Image Analysis, Electronic Medical Records, and Multimodal Data Integration**: The selected candidate will delve into cutting-edge research projects aimed at revolutionizing our understanding of various medical conditions and developing innovative preventative interventions and care approaches.  
-* **Understanding the Mechanistic Basis of the Human Genome**: This facet of the position involves developing novel computational methods to elucidate gene regulation and its circuitry, dynamics, response to therapy, variability across populations, and applications across diverse fields, including cancer and immunotherapy, neuroscience, inflammatory processes, and evolution. Special attention will be given to the integration of multi-omics data to characterize time-varying developmental trajectories in tissue-spatial landscapes and to categorize spatial heterogeneity in gene regulation. 
- 
-
-**Key Responsibilities**:
-
-* Develop and implement advanced deep learning algorithms for medical image analysis, with a special focus on algorithms integrating mammographic images for precision breast cancer screening.
-
-* Develop and implement advanced methods (deep learning, functional data analysis, Bayesian models, and network modeling) to characterize gene regulation across multiple samples and in spatially separated tissue regions using single-cell multi-omics and spatial genomics data.
-
-* Devise and implement state-of-the-art methods on expansive datasets from sources like NIH-funded initiatives and major consortium projects.               
-
-* Collaborate in the integration and analysis of multimodal data sources, combining imaging data, biobank,  electronic medical records, and multi-omics data.
-
-* Contribute to the publication of research findings in high-impact journals and conferences.
-
-* Collaborate closely with a multidisciplinary team, including epidemiologist, clinicians, data scientists, engineers, biologists, and physicians.
-
-* Mentor graduate and undergraduate students in the research group.
-
-**How to Apply**: Please send a cover letter stating your research interests and qualifications, a CV, and contact information of three references to Dr. Wenpin Hou at wh2526@cumc.columbia.edu. Please use "Postdoc Application" as the email subject.
-
