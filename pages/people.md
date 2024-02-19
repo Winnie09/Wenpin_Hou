@@ -9,7 +9,7 @@ title: "People"
   <img src="../images/woneuih11.jpg" alt="Won Eui Hong" style="width: 100px; margin-right: 20px;">
   <div>
     <strong>Won Eui Hong</strong>, Ph.D. <br/>
-    <strong>Postdoctoral Researcher</strong> specializing in modeling gene regulatory networks using single-cell multiomics data. Holds a Ph.D. in Mathematical Sciences from Carnegie Mellon University, focusing on asymptotic behaviors of dynamical systems, variational techniques, and optimizations. Jointly mentored with Dr. Ying Wei. 
+    <strong>Postdoctoral Research Scientist</strong> specializing in modeling gene regulatory networks using single-cell multiomics data. Holds a Ph.D. in Mathematical Sciences from Carnegie Mellon University, focusing on asymptotic behaviors of dynamical systems, variational techniques, and optimizations. Jointly mentored with Dr. Ying Wei. 
   </div>
 </div>
 
