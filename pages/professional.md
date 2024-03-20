@@ -23,25 +23,25 @@ title: Professional Activity
 
 *Journals*
 
-- Bioinformatics
+- Bioinformatics (4)
 
 - Communications Biology
   
-- Genome Biology
+- Genome Biology (3) 
 
 - Genomics, Proteomics & Bioinformatics
 
 - IEEE Transactions on Neural Networks and Learning Systems \(TransNNLS\)
 
-- Nature Methods
+- Nature Methods (2) 
 
-- Nature Communications
+- Nature Communications (9)
 
 - Nature Portfolio (Nature Methods, Nature Communications, and Communications Biology together)
 
 - Neurocomputing
 
-- PLOS Computational Biology
+- PLOS Computational Biology (4) 
 
 *Conferences*
 
