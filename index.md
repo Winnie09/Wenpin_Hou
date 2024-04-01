@@ -17,7 +17,8 @@ In addition, she worked with [Dr. Suchi Saria](https://suchisaria.jhu.edu/) in t
 
 
 [Lab page at Columbia University](https://www.publichealth.columbia.edu/research-labs/hou-lab)
-[Q\&A about Wenpin](https://www.publichealth.columbia.edu/news/mathematician-uses-ai-find-meaning-genomic-data)
+
+[Q&A about Wenpin](https://www.publichealth.columbia.edu/news/mathematician-uses-ai-find-meaning-genomic-data)
 
 
 ### Contact
