@@ -10,16 +10,17 @@ As an Assistant Professor (tenure-track) in the [Department of Biostatistics](ht
 - Application of Generative Pre-trained Transformer models in genomics.
 
 #### Awards and Recognition
-- [Maximizing Investigators’ Research Award (MIRA) for Early Stage Investigators](https://grants.nih.gov/grants/guide/pa-files/PAR-20-117.html) ([R35](https://reporter.nih.gov/search/Ym09DhMfd0-tUjFN97zw_w/project-details/10712174)) from [NIH/NIGMS](https://www.nigms.nih.gov/).
-- [NIH Pathway to Independence Award (K99/R00)](https://grants.nih.gov/grants/guide/pa-files/PA-20-188.html) ([1K99HG011468-01](https://reporter.nih.gov/search/cHJfn5jyOUy-E1JZ1vBQlg/project-details/10104023)) from [NIH/NHGRI](https://www.genome.gov/).
+- [Maximizing Investigators’ Research Award (MIRA) for Early Stage Investigators](https://grants.nih.gov/grants/guide/pa-files/PAR-20-117.html) ([R35](https://reporter.nih.gov/search/Ym09DhMfd0-tUjFN97zw_w/project-details/10712174)) from [NIH/NIGMS](https://www.nigms.nih.gov/) in September 2023.
+- [NIH Pathway to Independence Award (K99/R00)](https://grants.nih.gov/grants/guide/pa-files/PA-20-188.html) ([1K99HG011468-01](https://reporter.nih.gov/search/cHJfn5jyOUy-E1JZ1vBQlg/project-details/10104023)) from [NIH/NHGRI](https://www.genome.gov/) in March 2021.
 
 #### Collaborations
-Dr. Hou collaborates across diverse fields, including cancer, immunology, infectious diseases, and more. She is part of the [ENCODE4](https://www.encodeproject.org/) consortium and has worked with esteemed researchers like Dr. Stephanie Hicks, Dr. Hongkai Ji, Dr. Andy Feinberg, and Dr. Aravinda Chakravarti.
+Dr. Hou collaborates across diverse fields, including cancer, immunology, infectious diseases, and more. She is part of the [ENCODE4](https://www.encodeproject.org/) consortium and has worked with esteemed researchers like Dr. Stephanie Hicks, Dr. Hongkai Ji, Dr. Andy Feinberg, and 
 
-#### Education and Mentorship
-Dr. Hou earned her Ph.D. in Mathematics from The University of Hong Kong, where she was a recipient of [University Postgraduate Fellowships (UPF)](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees) and [Postgraduate Scholarship (PGS)](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees). She is currently seeking students and postdoctoral fellows to join her in exploring exciting research projects.
+#### Education and Training
+Dr. Hou earned her Ph.D. in Mathematics from The University of Hong Kong, where she was a recipient of [University Postgraduate Fellowships (UPF)](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees) and [Postgraduate Scholarship (PGS)](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees). Before joining Columbia, she was a postdoctoral fellow at Johns Hopkins University in the Department of Computer Science mentored by Drs. Aravinda Chakravarti and Suchi Saria, and Department of Biostatistics, mentored by Drs. Stephanie Hicks, Hongkai Ji, Andy Feinberg, focusing on developing computational methods for inferring single-cell DNA methylation and its spatial landscape.
 
-For inquiries or to apply, please feel free to [contact Dr. Hou](mailto:wh2526@cumc.columbia.edu) or mention her name in your application.
+#### For Prospective Students / Postdocs
+She is currently seeking students and postdoctoral fellows to join her in exploring exciting research projects.  For inquiries or to apply, please feel free to [contact Dr. Hou](mailto:wh2526@cumc.columbia.edu) or mention her name in your application.
 
 [Lab page at Columbia University](https://www.publichealth.columbia.edu/research-labs/hou-lab)
 
