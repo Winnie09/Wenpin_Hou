@@ -11,7 +11,7 @@ As an Assistant Professor (tenure-track) in the [Department of Biostatistics](ht
 
 #### Awards and Recognition
 - [Maximizing Investigators’ Research Award (MIRA) for Early Stage Investigators](https://grants.nih.gov/grants/guide/pa-files/PAR-20-117.html) ([R35](https://reporter.nih.gov/search/Ym09DhMfd0-tUjFN97zw_w/project-details/10712174)) from [NIH/NIGMS](https://www.nigms.nih.gov/) in September 2023.
-- [NIH Pathway to Independence Award (K99/R00)](https://grants.nih.gov/grants/guide/pa-files/PA-20-188.html) ([1K99HG011468-01](https://reporter.nih.gov/search/cHJfn5jyOUy-E1JZ1vBQlg/project-details/10104023)) from [NIH/NHGRI](https://www.genome.gov/) in March 2021.
+- [NIH Pathway to Independence Award (K99/R00)](https://grants.nih.gov/grants/guide/pa-files/PA-20-188.html) from [NIH/NHGRI](https://www.genome.gov/) in March 2021.
 
 #### Collaborations
 Dr. Hou collaborates across diverse fields, including cancer, immunology, infectious diseases, and more. She is part of the [ENCODE4](https://www.encodeproject.org/) consortium and has worked with esteemed researchers like Dr. Stephanie Hicks, Dr. Hongkai Ji, Dr. Andy Feinberg, and 
