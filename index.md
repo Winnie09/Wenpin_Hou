@@ -3,9 +3,6 @@ title: "Wenpin Hou"
 layout: page
 ---
 
-
-### About
-
 #### Research Interests
 As an Assistant Professor (tenure-track) in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) and an affiliated member of the [Data Science Institute](https://datascience.columbia.edu/people/wenpin-hou/) at [Columbia University](https://www.columbia.edu/), Dr. Wenpin Hou is dedicated to advancing statistical machine learning methods. Her research focuses on:
 - Single-cell genomics, epigenomics, and spatial transcriptomics.
