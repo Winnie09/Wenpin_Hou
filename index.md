@@ -14,7 +14,7 @@ As an Assistant Professor (tenure-track) in the [Department of Biostatistics](ht
 - [NIH Pathway to Independence Award (K99/R00)](https://grants.nih.gov/grants/guide/pa-files/PA-20-188.html) from [NIH/NHGRI](https://www.genome.gov/) in March 2021.
 
 #### Collaborations
-Dr. Hou collaborates across diverse fields, including cancer, immunology, infectious diseases, and more. She is part of the [ENCODE4](https://www.encodeproject.org/) consortium and has worked with esteemed researchers like Dr. Stephanie Hicks, Dr. Hongkai Ji, Dr. Andy Feinberg, and 
+Dr. Hou collaborates across diverse fields, including cancer, immunology, infectious diseases, and more. She is part of the [ENCODE4](https://www.encodeproject.org/) consortium and is contributing to single-cell analysis.
 
 #### Education and Training
 Dr. Hou earned her Ph.D. in Mathematics from The University of Hong Kong, where she was a recipient of [University Postgraduate Fellowships (UPF)](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees) and [Postgraduate Scholarship (PGS)](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees). Before joining Columbia, she was a postdoctoral fellow at Johns Hopkins University in the Department of Computer Science mentored by Drs. Aravinda Chakravarti and Suchi Saria, and Department of Biostatistics, mentored by Drs. Stephanie Hicks, Hongkai Ji, Andy Feinberg, focusing on developing computational methods for inferring single-cell DNA methylation and its spatial landscape.
