@@ -17,7 +17,7 @@ As an Assistant Professor (tenure-track) in the [Department of Biostatistics](ht
 - [NIH Pathway to Independence Award (K99/R00)](https://grants.nih.gov/grants/guide/pa-files/PA-20-188.html) ([1K99HG011468-01](https://reporter.nih.gov/search/cHJfn5jyOUy-E1JZ1vBQlg/project-details/10104023)) from [NIH/NHGRI](https://www.genome.gov/).
 
 #### Collaborations
-Dr. Hou collaborates across diverse fields, including cancer, immunology, infectious diseases, and more. She is part of the [ENCODE4](https://www.encodeproject.org/) consortium and has worked with esteemed researchers like Dr. Stephanie Hicks, Dr. Hongkai Ji, and Dr. Aravinda Chakravarti.
+Dr. Hou collaborates across diverse fields, including cancer, immunology, infectious diseases, and more. She is part of the [ENCODE4](https://www.encodeproject.org/) consortium and has worked with esteemed researchers like Dr. Stephanie Hicks, Dr. Hongkai Ji, Dr. Andy Feinberg, and Dr. Aravinda Chakravarti.
 
 #### Education and Mentorship
 Dr. Hou earned her Ph.D. in Mathematics from The University of Hong Kong, where she was a recipient of [University Postgraduate Fellowships (UPF)](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees) and [Postgraduate Scholarship (PGS)](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees). She is currently seeking students and postdoctoral fellows to join her in exploring exciting research projects.
