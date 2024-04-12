@@ -20,7 +20,7 @@ Dr. Hou collaborates across diverse fields, including cancer, immunology, infect
 Dr. Hou earned her Ph.D. in Mathematics from The University of Hong Kong, where she was a recipient of [University Postgraduate Fellowships](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees) and [Postgraduate Scholarship](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees). Before joining Columbia, she was a postdoctoral fellow at Johns Hopkins University in the Department of Computer Science mentored by Drs. Aravinda Chakravarti and Suchi Saria, and Department of Biostatistics, mentored by Drs. Stephanie Hicks, Hongkai Ji, Andy Feinberg, focusing on developing computational methods for inferring single-cell DNA methylation and its spatial landscape.
 
 #### For Prospective Students
-She is currently seeking students and postdoctoral fellows to join her in exploring exciting research projects.  For inquiries or to apply, please feel free to contact her or mention her name in your application.
+She is currently seeking students and postdoctoral fellows eager to contribute to innovative research projects.  For inquiries or to apply, please feel free to contact her or mention her name in your application.
 
 [Lab page at Columbia University](https://www.publichealth.columbia.edu/research-labs/hou-lab)
 
