@@ -1,5 +1,5 @@
 ---
-title: "Wenpin Hou"
+title: "Wenpin Hou ([CV](https://github.com/Winnie09/Wenpin_Hou/blob/gh-pages/pages/Wenpin_Hou_CV.pdf))"
 layout: page
 ---
 #### Research Interests
@@ -25,7 +25,6 @@ She is currently seeking students and postdoctoral fellows eager to contribute t
 
 [Q&A about Wenpin](https://www.publichealth.columbia.edu/news/mathematician-uses-ai-find-meaning-genomic-data)
 
-[CV](https://github.com/Winnie09/Wenpin_Hou/blob/gh-pages/pages/Wenpin_Hou_CV.pdf)
 
 ### Contact
 
