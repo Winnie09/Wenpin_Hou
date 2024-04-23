@@ -2,7 +2,6 @@
 title: "Wenpin Hou"
 layout: page
 ---
-
 #### Research Interests
 As an Assistant Professor (tenure-track) in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) and an affiliated member of the [Data Science Institute](https://datascience.columbia.edu/people/wenpin-hou/) at [Columbia University](https://www.columbia.edu/), Dr. Wenpin Hou is dedicated to advancing statistical machine learning methods. Her research focuses on:
 - Single-cell genomics, epigenomics, and spatial transcriptomics.
@@ -20,12 +19,13 @@ Dr. Hou collaborates across diverse fields, including cancer, immunology, infect
 Dr. Hou earned her Ph.D. in Mathematics from The University of Hong Kong, where she was a recipient of [University Postgraduate Fellowships](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees) and [Postgraduate Scholarship](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees). Before joining Columbia, she was a postdoctoral fellow at Johns Hopkins University in the Department of Computer Science mentored by Drs. Aravinda Chakravarti and Suchi Saria, and Department of Biostatistics, mentored by Drs. Stephanie Hicks, Hongkai Ji, Andy Feinberg, focusing on developing computational methods for inferring single-cell DNA methylation and its spatial landscape.
 
 #### For Prospective Students
-She is currently seeking students and postdoctoral fellows eager to contribute to innovative research projects.  For inquiries or to apply, please feel free to contact her or mention her name in your application.
+She is currently seeking students and postdoctoral fellows eager to contribute to innovative research projects on genomics.  For inquiries or to apply, please feel free to contact her or mention her name in your application.
 
 [Lab page at Columbia University](https://www.publichealth.columbia.edu/research-labs/hou-lab)
 
 [Q&A about Wenpin](https://www.publichealth.columbia.edu/news/mathematician-uses-ai-find-meaning-genomic-data)
 
+[CV](https://github.com/Winnie09/Wenpin_Hou/blob/gh-pages/pages/Wenpin_Hou_CV.pdf)
 
 ### Contact
 
