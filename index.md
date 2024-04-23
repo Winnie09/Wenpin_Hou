@@ -1,5 +1,5 @@
 ---
-title: "Wenpin Hou ([CV](https://github.com/Winnie09/Wenpin_Hou/blob/gh-pages/pages/Wenpin_Hou_CV.pdf))"
+title: "Wenpin Hou" ([CV](https://github.com/Winnie09/Wenpin_Hou/blob/gh-pages/pages/Wenpin_Hou_CV.pdf))
 layout: page
 ---
 #### Research Interests
