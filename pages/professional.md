@@ -25,6 +25,8 @@ title: Professional Activity
 
 - Bioinformatics (4)
 
+- Biometrics 
+
 - Communications Biology
   
 - Genome Biology (3) 
@@ -35,7 +37,7 @@ title: Professional Activity
 
 - Nature Methods (2) 
 
-- Nature Communications (9)
+- Nature Communications (11)
 
 - Nature Portfolio (Nature Methods, Nature Communications, and Communications Biology together)
 
