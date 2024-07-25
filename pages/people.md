@@ -14,14 +14,6 @@ title: "People"
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-   <img src="../images/Jingyi_Yao.png" alt="Jingyi Yao" style="width: 100px; margin-right: 20px;">
-  <div>
-    <strong>Jingyi Yao</strong>, BSc. <br/>
-    <strong>MSc Student</strong> (Y2022-2024, Theory and Methods track) in Biostatistics developing methods for integrative analysis of single-cell genomics and spatial transcriptomics data. Tow Doctoral Scholars Pilot Program nominee.
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/Aiying_Huang.png" alt="Aiying Huang" style="width: 100px; margin-right: 20px;">
   <div>
     <strong>Aiying Huang</strong>, BSc. <br/>
@@ -30,14 +22,18 @@ title: "People"
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/Yifei_Zhao.png" alt="Yifei Zhao" style="width: 100px; margin-right: 20px;">
+  <img src="../images/Lehan_Zou.png" alt="Aiying Huang" style="width: 100px; margin-right: 20px;">
   <div>
-    <strong>Yifei Zhao</strong>, BSc. <br/>
-    <strong>MSc Student</strong> (Y2022-2024, Theory and Methods track) in Biostatistics developing machine learning models for gene expression and DNA methylation data.
+    <strong>Lehan Zou</strong>, BSc. <br/>
+    <strong>MSc Student</strong> (Y2023-2025, Public Health Data Science track) in Biostatistics department interested in developing statistical methods in single-cell genomics and single-cell ATAC-seq data.
   </div>
 </div>
 
 ### Alumni
+
+**Yifei Zhao**, BSc. MSc. (Y2022-2024, Theory and Methods track). Computer Engineer at DISH.<br/>
+
+**Jingyi Yao**, BSc. MSc. (Y2022-2024, Theory and Methods track). PhD student at Boston University.<br/>
 
 **Wenhan Bao**, BSc. MSc. (Y2021-2023, Theory and Methods track). PhD student at Florida University.<br/>
 
