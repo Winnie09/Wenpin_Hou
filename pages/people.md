@@ -21,14 +21,6 @@ title: "People"
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/Lehan_Zou.png" alt="Aiying Huang" style="width: 100px; margin-right: 20px;">
-  <div>
-    <strong>Lehan Zou</strong>, BSc. <br/>
-    <strong>MSc Student</strong> (Y2023-2025, Public Health Data Science track) in Biostatistics department interested in developing statistical methods in single-cell genomics and single-cell ATAC-seq data.
-  </div>
-</div>
-
 ### Alumni
 
 **Yifei Zhao**, BSc. MSc. (Y2022-2024, Theory and Methods track). Computer Engineer at DISH.<br/>
