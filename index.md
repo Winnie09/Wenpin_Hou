@@ -31,6 +31,9 @@ She is currently seeking students and postdoctoral fellows eager to contribute t
 
 [[CV](https://github.com/Winnie09/Wenpin_Hou/blob/gh-pages/pages/Wenpin_Hou_CV.pdf)]
 
+ <p>CV <a href="https://github.com/Winnie09/Wenpin_Hou/blob/gh-pages/pages/Wenpin_Hou_CV.pdf" target="_blank">here</a>.</p>
+
+
 
 ### Contact
 
