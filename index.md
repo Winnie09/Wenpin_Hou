@@ -29,10 +29,7 @@ She is currently seeking students and postdoctoral fellows eager to contribute t
 
 [Columbia News about Wenpin](https://www.publichealth.columbia.edu/news/mathematician-uses-ai-find-meaning-genomic-data)
 
-[[CV](https://github.com/Winnie09/Wenpin_Hou/blob/gh-pages/pages/Wenpin_Hou_CV.pdf)]
-
- <embed src="https://winnie09.github.io/Wenpin_Hou/pages/Wenpin_Hou_CV.pdf" type="application/pdf" width="100%" height="100%" />
-
+[CV](https://winnie09.github.io/Wenpin_Hou/pages/Wenpin_Hou_CV.pdf)
 
 
 ### Contact
