@@ -37,6 +37,8 @@ title: Professional Activity
 
 - Nature Communications (11)
 
+- Nature Genetics
+
 - Nature Portfolio (Nature Methods, Nature Communications, and Communications Biology together)
 
 - Neurocomputing
