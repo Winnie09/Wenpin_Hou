@@ -9,7 +9,7 @@ title: Professional Activity
 
 - [International Chinese Statistical Association](https://www.icsa.org/) \(ICSA\), 2023-2024
 
-- [American Statistical Association](https://www.amstat.org/) \(ASA\), 2021-2022
+- [American Statistical Association](https://www.amstat.org/) \(ASA\), 2021-2024
   
 - [Eastern North American Region](https://www.enar.org/) \(ENAR\), 2019-2020
   
@@ -35,7 +35,7 @@ title: Professional Activity
 
 - Nature Methods (2) 
 
-- Nature Communications (11)
+- Nature Communications (12)
 
 - Nature Genetics
 
