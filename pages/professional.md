@@ -21,7 +21,7 @@ title: Professional Activity
 
 *Journals*
 
-- Bioinformatics (4)
+- Bioinformatics (5)
 
 - Biometrics 
 
@@ -35,7 +35,7 @@ title: Professional Activity
 
 - Nature Methods (2) 
 
-- Nature Communications (12)
+- Nature Communications (13)
 
 - Nature Genetics
 
