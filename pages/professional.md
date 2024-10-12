@@ -19,6 +19,11 @@ title: Professional Activity
 
 **Reviewer / Award Committee**
 
+
+*Grants*
+
+- NIH Genomics, Computational Biology and Technology Study Section (GCAT), 2024
+
 *Journals*
 
 - Bioinformatics (5)
