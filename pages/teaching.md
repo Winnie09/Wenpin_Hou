@@ -7,7 +7,7 @@ title: Teaching
 
 * **Courses**
 
-   * **P8131** Biostatistical Methods II (1/2024-5/2025)
+   * **P8131** Biostatistical Methods II (2024 Spring, 2025 Spring)
 
 
 
