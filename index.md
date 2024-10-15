@@ -19,10 +19,13 @@ As an Assistant Professor (tenure-track) in the [Department of Biostatistics](ht
 Dr. Hou collaborates across diverse fields, including cancer, immunology, infectious diseases, and more. She is part of the [ENCODE4](https://www.encodeproject.org/) consortium and is contributing to single-cell analysis.
 
 #### Education and Training
-Dr. Hou earned her Ph.D. in Mathematics from The University of Hong Kong, where she was a recipient of [University Postgraduate Fellowships](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees) and [Postgraduate Scholarship](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees). Before joining Columbia, she was a postdoctoral fellow at Johns Hopkins University in the Department of Computer Science mentored by Drs. Aravinda Chakravarti and Suchi Saria, and Department of Biostatistics, mentored by Drs. Stephanie Hicks, Hongkai Ji, Andy Feinberg, focusing on developing computational methods for inferring single-cell DNA methylation and its spatial landscape.
+Dr. Hou earned her Ph.D. in Mathematics from The University of Hong Kong, where she was a recipient of [University Postgraduate Fellowships](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees) and [Postgraduate Scholarship](https://gradsch.hku.hk/gradsch/prospective-students/scholarship-funding-and-fees). Before joining Columbia, she was a postdoctoral fellow at Johns Hopkins University in the Department of Biostatistics, mentored by Drs. Stephanie Hicks, Hongkai Ji, Andy Feinberg, focusing on developing computational methods for inferring single-cell DNA methylation and its spatial landscape, and Department of Computer Science mentored by Drs. Aravinda Chakravarti and Suchi Saria.
 
 #### For Prospective Students
-She is currently seeking students and postdoctoral fellows eager to contribute to innovative research projects on genomics.  For inquiries or to apply, please feel free to contact her or mention her name in your application.
+
+She is currently seeking **PhD students** eager to contribute to innovative research projects on genomics. If you are interested, please directly apply through [SOPHAS Application System](https://www.publichealth.columbia.edu/become-student/how-apply) and list her name as your preferred mentor.  All applications will be reviewed. You will be invited for an interview if the committee thinks you could be a good fit for the department's program. 
+
+If you are interested in a research position (e.g. research assistant, visiting student, practicum), please send her your CV and research interest. 
 
 
 #### More
