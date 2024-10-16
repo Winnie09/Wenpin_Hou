@@ -9,18 +9,6 @@ title: Teaching
 
    * **P8131** Biostatistical Methods II (2024 Spring, 2025 Spring)
 
-
-
-
-[Cox Model Lecture]()
-[Cox Model Slides]()
-
-
-
-
-
-
-
 **Teaching Assistant**, [Department of Mathematics](https://hkumath.hku.hk/web/index.php), [The University of Hong Kong](https://www.hku.hk/), 10/2013-2/2017
 
 * **Certificate**: *Certificate of Teaching and Learning in Higher Education (CTEL)* issued by Centre for the Enhancement of Teaching and Learning, The University of Hong Kong, 01/2014
