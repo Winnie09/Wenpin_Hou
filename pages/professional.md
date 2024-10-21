@@ -38,7 +38,7 @@ title: Professional Activity
 
 - IEEE Transactions on Neural Networks and Learning Systems \(TransNNLS\)
 
-- Nature Methods (2) 
+- Nature Methods (4) 
 
 - Nature Communications (13)
 
