@@ -35,6 +35,15 @@ title: "People"
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="../images/xu_liao.jpg" alt="Xu Liao" style="width: 80px; margin-right: 20px;">
+  <div>
+    <strong>Xu Liao</strong>, Ph.D. <br/>
+    <strong>Postdoctoral Research Scientist</strong> (incoming) focusing on RNA velocity, multi-modal modelling, representation learning and deep generative models. She employs advanced statistical and deep learning methods to model complex biological datasets, particularly in single and spatial omics data. Holds a Ph.D. in Biostatistics and Health Data Science from National University of Singapore.
+    <a href="https://liao-xu.github.io/" target="_blank">[homepage]</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/Aiying_Huang.png" alt="Aiying Huang" style="width: 80px; margin-right: 20px;">
   <div>
     <strong>Aiying Huang</strong>, BSc. <br/>
