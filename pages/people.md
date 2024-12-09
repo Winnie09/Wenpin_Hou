@@ -8,6 +8,11 @@ title: "People"
 
 
 
+<div style="text-align: center; margin: 40px 0;">
+  <img src="../images/group_20241209.jpeg" alt="Group Photo" 
+       style="width: 50%; height: auto; display: block; margin: 0 auto; border: 2px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+</div>
+
 
 <!-- Lab Member Section -->
 
@@ -65,15 +70,6 @@ title: "People"
 </div>
 
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/group_20241209.jpeg" alt="Group Photo" style="width: 120px; margin-right: 20px;">
-</div>
-
-
-<div style="text-align: center; margin: 40px 0;">
-  <img src="../images/group_20241209.jpeg" alt="Group Photo" 
-       style="width: 50%; height: auto; display: block; margin: 0 auto; border: 2px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-</div>
 
 
 
