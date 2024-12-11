@@ -10,7 +10,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### Preprint / Submitted
 
-- **Hou, W.**, and Ji, Z., 2024. A systematic evaluation of large language models for generating programming code. [Preprint in arXiv, 2024 March 1](https://arxiv.org/abs/2403.00894). In Journal Review. 
+
 
 - **Hou, W.**, and Ji, Z., 2024. GPT-4V exhibits human-like performance in biomedical image classification. [Preprint in bioRxiv, 2024 January 1](https://www.biorxiv.org/content/10.1101/2023.12.31.573796v1). In Journal Review. 
 
@@ -23,8 +23,12 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### Published / Accepted
 
-##### Single-cell genomics
 
+##### Application of GPT models
+
+- **Hou, W.**, and Ji, Z., 2024. A systematic evaluation of large language models for generating programming code. [Preprint in arXiv, 2024 March 1](https://arxiv.org/abs/2403.00894). Accepted for publication in *Advanced Science*.
+
+##### Single-cell genomics
 
 
 - Montagne, J.M., Mitchell, J.T., Tandurella, J.A.,  Christenson, E.S., Danilova, L.V.,  Deshpande, A., Melanie L., Sidiropoulos, D.N., Davis-Marcisak, E.,Bergman, D.R., Zhu, Q., Wang, H., Kagohara, L.T., Engle, L.L., Green, B.F., Favorov, A.V., Ho, W.J., Lim, S.J., Zhang, R., Li, P., Gai, J.,  Mo, G., Mitchell, S., Wang, R., Vaghasia, A.,  **Hou, W.**, Xu, Y., Zimmerman, J.W., Elisseeff, J.H., Yegnasubramanian, S.,  Anders, R.A., Jaffee, E.M., Zheng, L. and Fertig, E.J.\* CD137 agonism enhances anti-PD1 induced activation of clonally expanded CD8+ T cells in a neoadjuvant pancreatic cancer clinical trial. To appear in *iScience* (2024). 
