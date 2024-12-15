@@ -11,10 +11,9 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 ### Preprint / Submitted
 
 
-
 - **Hou, W.**, and Ji, Z., 2024. GPT-4V exhibits human-like performance in biomedical image classification. [Preprint in bioRxiv, 2024 January 1](https://www.biorxiv.org/content/10.1101/2023.12.31.573796v1). In Journal Review. 
 
-- **Hou, W.** and Ji, Z., 2023 GeneTuring tests GPT models in genomics. [Preprint in *bioRxiv*, 2023 March 13](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v1). *In Journal Review*.
+- **Hou, W.**, and Ji, Z., 2023 GeneTuring tests GPT models in genomics. [Preprint in *bioRxiv*, 2023 March 13](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v1). *In Journal Review*.
 
 - Jackson, C., Cherry, C., Bom, S., Dykema, A., Thompson, E., Zheng, M., Ji, Z., **Hou, W.**, Li, R., Zhang, H. and Choi, J., Rodriguez, F.,  Weingart, J., Yegnasubramanian, S., Lim, M., Bettegowda, C., Powell, J., Eliesseff, J., Ji, H., and Pardoll, D., 2023. Distinct myeloid derived suppressor cell populations promote tumor aggression in glioblastoma. [Preprint in *bioRxiv*, 2023 Jan 1](https://www.biorxiv.org/content/10.1101/2023.03.26.534192v1). *In Journal Review*. 
 
@@ -28,16 +27,17 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - **Hou, W.**, and Ji, Z., 2024. A systematic evaluation of large language models for generating programming code. [Preprint in arXiv, 2024 March 1](https://arxiv.org/abs/2403.00894). Accepted for publication in *Advanced Science*.
 
-##### Single-cell genomics
-
-
-- Montagne, J.M., Mitchell, J.T., Tandurella, J.A.,  Christenson, E.S., Danilova, L.V.,  Deshpande, A., Melanie L., Sidiropoulos, D.N., Davis-Marcisak, E.,Bergman, D.R., Zhu, Q., Wang, H., Kagohara, L.T., Engle, L.L., Green, B.F., Favorov, A.V., Ho, W.J., Lim, S.J., Zhang, R., Li, P., Gai, J.,  Mo, G., Mitchell, S., Wang, R., Vaghasia, A.,  **Hou, W.**, Xu, Y., Zimmerman, J.W., Elisseeff, J.H., Yegnasubramanian, S.,  Anders, R.A., Jaffee, E.M., Zheng, L. and Fertig, E.J.\* CD137 agonism enhances anti-PD1 induced activation of clonally expanded CD8+ T cells in a neoadjuvant pancreatic cancer clinical trial. To appear in *iScience* (2024). 
-
-
 - **Hou, W.**\* and Ji, Z.\*, Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis. [Nature Methods, 2024 March 25](https://link.springer.com/article/10.1038/s41592-024-02235-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240325&utm_content=10.1038/s41592-024-02235-4). [Software package: GPTCelltype](https://winnie09.github.io/Wenpin_Hou/pages/gptcelltype.html). 
 	- <small> Note 1: Featured in [Columbia News Spotlight](https://us7.campaign-archive.com/?e=__test_email__&u=cc26d8788ee7d6f98dd0af14e&id=6dd610b0a9), [Columbia MSPH News](https://www.publichealth.columbia.edu/news/gpt-4-ai-outperforms-experts-identification-cell-types?utm_source=newsletter&utm_medium=email&utm_campaign=040124spotlight), [Science Daily](https://www.sciencedaily.com/releases/2024/03/240325172422.htm), [The Medical News](https://www.news-medical.net/news/20240326/GPT-4-shows-expert-level-accuracy-in-annotating-cell-types.aspx), [Health Tech World](https://www.htworld.co.uk/news/gpt-4-for-identifying-cell-types-in-single-cells-matches/), and 6 other news outlets.  </small>
 	- <small> Note 2: Reviewed in Nature Methods [Embedding AI in biology](https://www.nature.com/articles/s41592-024-02391-7) and [Toward learning a foundational representation of cells and genes](https://www.nature.com/articles/s41592-024-02367-7).</small>
 	- <small> Note 3:  As of May/June 2024 , this highly cited paper received enough citations to place it in the **top 1%** of the academic field of Biology & Biochemistry based on a highly cited threshold for the field and publication year. With the Altmetric Attention Score 284, it ranked the top #1 when comparing to 75 others from the same source and published within six weeks.. </small>
+	
+##### Single-cell genomics
+
+
+- Montagne, J.M., Mitchell, J.T., Tandurella, J.A.,  Christenson, E.S., Danilova, L.V.,  Deshpande, A., Melanie L., Sidiropoulos, D.N., Davis-Marcisak, E.,Bergman, D.R., Zhu, Q., Wang, H., Kagohara, L.T., Engle, L.L., Green, B.F., Favorov, A.V., Ho, W.J., Lim, S.J., Zhang, R., Li, P., Gai, J.,  Mo, G., Mitchell, S., Wang, R., Vaghasia, A.,  **Hou, W.**, Xu, Y., Zimmerman, J.W., Elisseeff, J.H., Yegnasubramanian, S.,  Anders, R.A., Jaffee, E.M., Zheng, L. and Fertig, E.J.\* CD137 agonism enhances anti-PD1 induced activation of clonally expanded CD8+ T cells in a neoadjuvant pancreatic cancer clinical trial.  [iScience](https://www.cell.com/iscience/fulltext/S2589-0042(24)02796-2). 
+
+
 	
 - **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples.  [Nature Communications 14, 7286 (2023)](https://www.nature.com/articles/s41467-023-42841-y). [Software package: Lamian](https://github.com/Winnie09/Lamian). 
 
