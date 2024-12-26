@@ -10,9 +10,9 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### Preprint / Submitted
 
-- Zhuang, H., Gai, X., Zhang, A.R., **Hou, W.**, Ji, Z. and Shi, P., 2024. Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity. [bioRxiv, pp.2024-09](https://www.biorxiv.org/content/10.1101/2024.09.14.613024v1).
+- Zhuang, H., Gai, X., Zhang, A.R., **Hou, W.**, Ji, Z. and Shi, P., 2024. Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity. [bioRxiv, pp.2024-09](https://www.biorxiv.org/content/10.1101/2024.09.14.613024v1). *In Journal Review*.
 
-- **Hou, W.**, and Ji, Z., 2024. GPT-4V exhibits human-like performance in biomedical image classification. [Preprint in bioRxiv, 2024 January 1](https://www.biorxiv.org/content/10.1101/2023.12.31.573796v1). In Journal Review. 
+- **Hou, W.**, and Ji, Z., 2024. GPT-4V exhibits human-like performance in biomedical image classification. [Preprint in bioRxiv, 2024 January 1](https://www.biorxiv.org/content/10.1101/2023.12.31.573796v1). *In Journal Revision*. 
 
 - **Hou, W.**, and Ji, Z., 2023 GeneTuring tests GPT models in genomics. [Preprint in *bioRxiv*, 2023 March 13](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v1). *In Journal Review*.
 
