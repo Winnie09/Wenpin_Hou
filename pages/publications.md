@@ -10,26 +10,16 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### Preprint / Submitted
 
----
-title: "References"
-output: pdf_document
----
-
-- **Hou, W.**\*, **Shang, X.**, and Ji, Z.\*, 2025. Benchmarking large language models for genomic knowledge with GeneTuring.  
-[**bioRxiv**, 2025 January 5](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v2). In Journal Review.
+- **Hou, W.**\*, **Shang, X.**, and Ji, Z.\*, 2025. Benchmarking large language models for genomic knowledge with GeneTuring.   [bioRxiv, 2025 January 5](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v2). In Journal Review.
 
 
-- **Hou, W.**\*, **Liu, Q.**, Ma, H., Qu, Y., and Ji, Z.\*, 2024. Assessing large multimodal models for one-shot learning and interpretability in biomedical image classification.  
-[**bioRxiv**, 2025 January 4](https://www.biorxiv.org/content/10.1101/2023.12.31.573796v3). In Journal Review.
+- **Hou, W.**\*, **Liu, Q.**, Ma, H., Qu, Y., and Ji, Z.\*, 2024. Assessing large multimodal models for one-shot learning and interpretability in biomedical image classification.   [bioRxiv, 2025 January 4](https://www.biorxiv.org/content/10.1101/2023.12.31.573796v3). In Journal Review.
 
-- Zhuang, H., Gai, X., Zhang, A.R., **Hou, W.**, Ji, Z., and Shi, P.\*, 2024. Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity.  
-[**bioRxiv**, pp.2024-09](https://www.biorxiv.org/content/10.1101/2024.09.14.613024v1). In Journal Review.
+- Zhuang, H., Gai, X., Zhang, A.R., **Hou, W.**, Ji, Z., and Shi, P.\*, 2024. Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity.   [bioRxiv, pp.2024-09](https://www.biorxiv.org/content/10.1101/2024.09.14.613024v1). In Journal Review.
 
-- Jackson, C.\*, Cherry, C., Bom, S., Dykema, A., Thompson, E., Zheng, M., Ji, Z., **Hou, W.**, Li, R., Zhang, H., Choi, J., Rodriguez, F., Weingart, J., Yegnasubramanian, S., Lim, M., Bettegowda, C.\*, Powell, J.\*, Eliesseff, J.\*, Ji, H.\*, and Pardoll, D.\*, 2023. Distinct myeloid-derived suppressor cell populations promote tumor aggression in glioblastoma.  
-[**bioRxiv**, 2023 January 1](https://www.biorxiv.org/content/10.1101/2023.03.26.534192v1). In Journal Review.
+- Jackson, C.\*, Cherry, C., Bom, S., Dykema, A., Thompson, E., Zheng, M., Ji, Z., **Hou, W.**, Li, R., Zhang, H., Choi, J., Rodriguez, F., Weingart, J., Yegnasubramanian, S., Lim, M., Bettegowda, C.\*, Powell, J.\*, Eliesseff, J.\*, Ji, H.\*, and Pardoll, D.\*, 2023. Distinct myeloid-derived suppressor cell populations promote tumor aggression in glioblastoma.   [bioRxiv, 2023 January 1](https://www.biorxiv.org/content/10.1101/2023.03.26.534192v1). In Journal Review.
 
-- **Hou, W.**\* and Ji, Z.\*, 2022. Decomposing spatial heterogeneity of cell trajectories with Paella.  
-[**bioRxiv**, pp.2022-09](https://www.biorxiv.org/content/10.1101/2022.09.05.506682v1). Software package: [Paella](https://github.com/Winnie09/Paella).
+- **Hou, W.**\* and Ji, Z.\*, 2022. Decomposing spatial heterogeneity of cell trajectories with Paella.   [bioRxiv, pp.2022-09](https://www.biorxiv.org/content/10.1101/2022.09.05.506682v1). Software package: [Paella](https://github.com/Winnie09/Paella).
 
 ### Published / Accepted
 
