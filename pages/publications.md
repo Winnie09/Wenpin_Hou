@@ -19,7 +19,7 @@ output: pdf_document
 [**bioRxiv**, 2025 January 5](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v2).
 
 
-- **Hou, W.**$^\\ddagger$, **_Liu, Q._**, Ma, H., Qu, Y., and Ji, Z.$^\\ddagger$, 2024. Assessing large multimodal models for one-shot learning and interpretability in biomedical image classification.  
+- **Hou, W.**\\\ddagger, **_Liu, Q._**, Ma, H., Qu, Y., and Ji, Z.^\\ddagger, 2024. Assessing large multimodal models for one-shot learning and interpretability in biomedical image classification.  
 [**bioRxiv**, 2025 January 4](https://www.biorxiv.org/content/10.1101/2023.12.31.573796v3).
 
 - Zhuang, H., Gai, X., Zhang, A.R., **Hou, W.**, Ji, Z., and Shi, P., 2024. Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity.  
