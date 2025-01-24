@@ -17,3 +17,12 @@ We greatly appreciate the support from the following funding sources for our pro
 * Title: Computational methods for inferring single-cell DNA methylation and its spatial landscape 
 
 * Role: Principal Investigator
+
+ 
+**[DSI Seed Fund](https://datascience.columbia.edu/research/seed-fund-program/)**, Columbia, 7/2025-6/2026
+
+* Title: TRANSFORM-AD: A Pilot Transformer-based AI Platform for Personalized Alzheimer’s Disease Progression Forecasting and Intervention Learning
+
+* Role: Multiple Principal Investigator (w/ Drs. Ying Wei, James Noble)
+
+
