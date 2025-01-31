@@ -8,7 +8,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 
 
-### Preprint / Submitted
+### Preprint 
 
 - **Hou, W.**\*, **Shang, X.**, and Ji, Z.\*, 2025. Benchmarking large language models for genomic knowledge with GeneTuring.   [bioRxiv, 2025 January 5](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v2). In Journal Review.
 
@@ -20,7 +20,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 - **Hou, W.**\* and Ji, Z.\*, 2022. Decomposing spatial heterogeneity of cell trajectories with Paella.   [bioRxiv, pp.2022-09](https://www.biorxiv.org/content/10.1101/2022.09.05.506682v1). Software package: [Paella](https://github.com/Winnie09/Paella).
 
-### Published / Accepted
+### Published 
 
 
 ##### Application of GPT models
