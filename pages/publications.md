@@ -36,7 +36,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 	
 ##### Single-cell genomics
 
-- Jackson, C., Cherry, C., Bom, S., Dykema, A., Wang, R., Thompson, E., Zhang, M., Li, R., Ji, Z., \textbf{Hou, W.}, Li, R., Zhang, H. and Choi, J., Rodriguez, F.,  Weingart, J., Yegnasubramanian, S., Lim, M., Bettegowda, C., Powell, J., Eliesseff, J., Ji, H., and Pardoll, D. 
+- Jackson, C., Cherry, C., Bom, S., Dykema, A., Wang, R., Thompson, E., Zhang, M., Li, R., Ji, Z., **Hou, W.**, Li, R., Zhang, H. and Choi, J., Rodriguez, F.,  Weingart, J., Yegnasubramanian, S., Lim, M., Bettegowda, C., Powell, J., Eliesseff, J., Ji, H., and Pardoll, D. 
 2025. Distinct myeloid derived suppressor cell populations promote tumor aggression in glioblastoma. [Science, 387(6713)](https://www.science.org/doi/10.1126/science.abm5214). 
 
 
