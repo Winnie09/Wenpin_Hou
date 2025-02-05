@@ -5,9 +5,6 @@ title: "People"
 
 ### Lab Members
 
-
-
-
 <div style="text-align: center; margin: 40px 0;">
   <img src="../images/group_20241209.jpeg" alt="Group Photo" 
        style="width: 50%; height: auto; display: block; margin: 0 auto; border: 2px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
@@ -39,7 +36,7 @@ title: "People"
   <img src="../images/xu_liao.jpg" alt="Xu Liao" style="width: 80px; margin-right: 20px;">
   <div>
     <strong>Xu Liao</strong>, Ph.D. <br/>
-    <strong>Postdoctoral Research Scientist</strong> (incoming) focusing on RNA velocity, multi-modal modelling, representation learning and deep generative models. She employs advanced statistical and deep learning methods to model complex biological datasets, particularly in single and spatial omics data. Holds a Ph.D. in Biostatistics and Health Data Science from Duke-NUS.
+    <strong>Postdoctoral Research Scientist</strong> focusing on RNA velocity, multi-modal modelling, representation learning and deep generative models. She employs advanced statistical and deep learning methods to model complex biological datasets, particularly in single and spatial omics data. Holds a Ph.D. in Biostatistics and Health Data Science from Duke-NUS.
     <a href="https://liao-xu.github.io/" target="_blank">[homepage]</a>
   </div>
 </div>
@@ -68,7 +65,6 @@ title: "People"
     <strong>MSc Student</strong> (Y2023-2025, Theory and Methods track) in Biostatistics, focusing on evaluating GPT models and developing statistical methods for spatial transcriptomics data.
   </div>
 </div>
-
 
 
 
