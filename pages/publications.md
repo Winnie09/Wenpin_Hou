@@ -11,9 +11,6 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 ### Preprint 
 
 
-https://www.biorxiv.org/content/10.1101/2025.02.05.636730v1
-
-
 - Huang, X., **Liu, Q.**, **Zhao, Y.**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2025. MethylProphet: A Generalized Gene-Contextual Model for Inferring
 Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.biorxiv.org/content/10.1101/2025.02.05.636730v1). Model: [Methlprophet](https://github.com/xk-huang/methylprophet/).
 
