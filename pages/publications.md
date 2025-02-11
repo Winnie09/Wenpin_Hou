@@ -12,7 +12,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 
 - Wu, J., Wan, C., Ji, Z.\*, Zhou, Y.\* and **Hou, W.**\* 2025. 
-EpiFoundation: A Foundation Model for Single-Cell ATAC-seq via Peak-to-Gene Alignment. [2025 February 8](https://winnie09.github.io/Wenpin_Hou/pages/epiFoundation.pdf). Model: [EpiFoundation](https://github.com/UCSC-VLAA/EpiFoundation). 
+EpiFoundation: A Foundation Model for Single-Cell ATAC-seq via Peak-to-Gene Alignment. [bioRxiv, 2025 February 8](https://winnie09.github.io/Wenpin_Hou/pages/epiFoundation.pdf). Model: [EpiFoundation](https://github.com/UCSC-VLAA/EpiFoundation). 
 
 - Huang, X., **Liu, Q.**, **Zhao, Y.**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2025. MethylProphet: A Generalized Gene-Contextual Model for Inferring
 Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.biorxiv.org/content/10.1101/2025.02.05.636730v1). Model: [Methlprophet](https://github.com/xk-huang/methylprophet/).
