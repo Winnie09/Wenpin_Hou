@@ -43,8 +43,7 @@ Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.b
 	
 ##### Single-cell genomics
 
-- Jackson, C., Cherry, C., Bom, S., Dykema, A., Wang, R., Thompson, E., Zhang, M., Li, R., Ji, Z., **Hou, W.**, Li, R., Zhang, H. and Choi, J., Rodriguez, F.,  Weingart, J., Yegnasubramanian, S., Lim, M., Bettegowda, C., Powell, J., Eliesseff, J., Ji, H., and Pardoll, D. 
-2025. Distinct myeloid derived suppressor cell populations promote tumor aggression in glioblastoma. [Science, 387(6713)](https://www.science.org/doi/10.1126/science.abm5214). 
+- Jackson, C., Cherry, C., Bom, S., Dykema, A., Wang, R., Thompson, E., Zhang, M., Li, R., Ji, Z., **Hou, W.**, Li, R., Zhang, H. and Choi, J., Rodriguez, F.,  Weingart, J., Yegnasubramanian, S., Lim, M., Bettegowda, C., Powell, J., Eliesseff, J., Ji, H., and Pardoll, D.  2025. Distinct myeloid derived suppressor cell populations promote tumor aggression in glioblastoma. [Science, 387(6713)](https://www.science.org/doi/10.1126/science.abm5214). 
 
 
 - Montagne, J.M., Mitchell, J.T., Tandurella, J.A.,  Christenson, E.S., Danilova, L.V.,  Deshpande, A., Melanie L., Sidiropoulos, D.N., Davis-Marcisak, E.,Bergman, D.R., Zhu, Q., Wang, H., Kagohara, L.T., Engle, L.L., Green, B.F., Favorov, A.V., Ho, W.J., Lim, S.J., Zhang, R., Li, P., Gai, J.,  Mo, G., Mitchell, S., Wang, R., Vaghasia, A.,  **Hou, W.**, Xu, Y., Zimmerman, J.W., Elisseeff, J.H., Yegnasubramanian, S.,  Anders, R.A., Jaffee, E.M., Zheng, L. and Fertig, E.J.\* CD137 agonism enhances anti-PD1 induced activation of clonally expanded CD8+ T cells in a neoadjuvant pancreatic cancer clinical trial.  [iScience](https://www.cell.com/iscience/fulltext/S2589-0042(24)02796-2). 
