@@ -71,7 +71,7 @@ title: "People"
   <img src="../images/zitao_zhang.png" alt="Zitao Zhang" style="width: 80px; margin-right: 20px;">
   <div>
    <strong>Zitao Zhang</strong>, BSc. <br/>
-    <strong>MSc Student (Y2024-2026, Theory and Methods track) in Biostatistics, focusing on modelling the temporal gene expression using single-cell RNA sequencing data and its applications in cancer immunotherapy.
+    <strong>MSc Student </strong> (Y2024-2026, Theory and Methods track) in Biostatistics, focusing on modelling the temporal gene expression using single-cell RNA sequencing data and its applications in cancer immunotherapy.
   </div>
 </div>
 
