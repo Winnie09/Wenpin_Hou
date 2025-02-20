@@ -22,7 +22,11 @@ title: Professional Activity
 
 *Grants*
 
-- NIH Genomics, Computational Biology and Technology Study Section ([GCAT](https://public.era.nih.gov/pubroster/preRosIndex.era?AGENDA=516582&CID=102581)), 2024
+
+
+- NIH Maximizing Investigators’ Research Award - F Study Section ([MRAF](https://public.era.nih.gov/pubroster/preRosIndex.era?AGENDA=530342&CID=105454)), 2/2025 
+
+- NIH Genomics, Computational Biology and Technology Study Section ([GCAT](https://public.era.nih.gov/pubroster/preRosIndex.era?AGENDA=516582&CID=102581)), 10/2024
 
 *Journals*
 
