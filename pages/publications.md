@@ -19,6 +19,7 @@ Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.b
 
 - **Hou, W.**\*, **Shang, X.**, and Ji, Z.\*, 2025. Benchmarking large language models for genomic knowledge with GeneTuring.   [bioRxiv, 2025 January 5](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v2). In Journal Review.
 
+- Zhuang, H., **Shang, X.**, **Hou, W.**\* and Ji, Z.\*, 2024. Identifying cell-type-specific spatially variable genes with ctSVG. [Research Square, 2024 Dec 19](https://pubmed.ncbi.nlm.nih.gov/39764138/). In Journal Review.
 
 - Lo, E.K., Idrizi, A., Tryggvadottir, R., Zhou, W., **Hou, W.**, Ji, H., Cahan, P. and Feinberg, A.P. 2024. DNA methylation memory of pancreatic acinar-ductal metaplasia transition state altering Kras-downstream PI3K and Rho GTPase signaling in the absence of Kras mutation. [bioRxiv, pp.2024-10](https://www.biorxiv.org/content/10.1101/2024.10.26.620414v1).
 
