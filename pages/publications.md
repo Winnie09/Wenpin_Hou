@@ -15,16 +15,16 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - Wu, J., Wan, C., Ji, Z.\*, Zhou, Y.\* and **Hou, W.**\* 2025. 
 EpiFoundation: A Foundation Model for Single-Cell ATAC-seq via Peak-to-Gene Alignment. [bioRxiv, 2025 February 8](https://winnie09.github.io/Wenpin_Hou/pages/epiFoundation.pdf). Model: [EpiFoundation](https://github.com/UCSC-VLAA/EpiFoundation). 
 
-- Huang, X., $\underline{**Liu, Q.**}$, **Zhao, Y.**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2025. MethylProphet: A Generalized Gene-Contextual Model for Inferring
+- Huang, X., <u>**Liu, Q.**</u>, **Zhao, Y.**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2025. MethylProphet: A Generalized Gene-Contextual Model for Inferring
 Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.biorxiv.org/content/10.1101/2025.02.05.636730v1). Model: [Methylprophet](https://github.com/xk-huang/methylprophet/).
 
-- **Hou, W.**\*, **$\underline{Shang, X.}$**, and Ji, Z.\*, 2025. Benchmarking large language models for genomic knowledge with GeneTuring.   [bioRxiv, 2025 January 5](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v2). In Journal Review.
+- **Hou, W.**\*, <u>**Shang, X.}**</u>, and Ji, Z.\*, 2025. Benchmarking large language models for genomic knowledge with GeneTuring.   [bioRxiv, 2025 January 5](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v2). In Journal Review.
 
-- Zhuang, H., **\underline{Shang, X.}**, **Hou, W.**\* and Ji, Z.\*, 2024. Identifying cell-type-specific spatially variable genes with ctSVG. [Research Square, 2024 Dec 19](https://pubmed.ncbi.nlm.nih.gov/39764138/). In Journal Review.
+- Zhuang, H., <u>**Shang, X.**</u>, **Hou, W.**\* and Ji, Z.\*, 2024. Identifying cell-type-specific spatially variable genes with ctSVG. [Research Square, 2024 Dec 19](https://pubmed.ncbi.nlm.nih.gov/39764138/). In Journal Review.
 
 - Lo, E.K., Idrizi, A., Tryggvadottir, R., Zhou, W., **Hou, W.**, Ji, H., Cahan, P. and Feinberg, A.P. 2024. DNA methylation memory of pancreatic acinar-ductal metaplasia transition state altering Kras-downstream PI3K and Rho GTPase signaling in the absence of Kras mutation. [bioRxiv, pp.2024-10](https://www.biorxiv.org/content/10.1101/2024.10.26.620414v1).
 
-- **Hou, W.**\*, **Liu, Q.**, Ma, H., Qu, Y., and Ji, Z.\*, 2024. Assessing large multimodal models for one-shot learning and interpretability in biomedical image classification.   [bioRxiv, 2025 January 4](https://www.biorxiv.org/content/10.1101/2023.12.31.573796v3). In Journal Review.
+- **Hou, W.**\*, <u>**Liu, Q.**</u>, Ma, H., Qu, Y., and Ji, Z.\*, 2024. Assessing large multimodal models for one-shot learning and interpretability in biomedical image classification.   [bioRxiv, 2025 January 4](https://www.biorxiv.org/content/10.1101/2023.12.31.573796v3). In Journal Review.
 
 - Zhuang, H., Gai, X., Zhang, A.R., **Hou, W.**, Ji, Z., and Shi, P.\*, 2024. Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity.   [bioRxiv, pp.2024-09](https://www.biorxiv.org/content/10.1101/2024.09.14.613024v1). In Journal Review.
 
