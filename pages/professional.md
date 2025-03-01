@@ -9,7 +9,7 @@ title: Professional Activity
 
 - [International Chinese Statistical Association](https://www.icsa.org/) \(ICSA\), 2023-2024
 
-- [American Statistical Association](https://www.amstat.org/) \(ASA\), 2021-2024
+- [American Statistical Association](https://www.amstat.org/) \(ASA\), 2021-2025
   
 - [Eastern North American Region](https://www.enar.org/) \(ENAR\), 2019-2020
   
@@ -22,7 +22,7 @@ title: Professional Activity
 
 *Grants*
 
-
+NCI Special Emphasis Panel: Development of Informatics Technologies for Cancer Research U01-U24 Review ([ZCA1 TCRB-9 (M1)](https://public.era.nih.gov/pubroster/preSepIndex.era?AGENDA=527736&CID=100456) &3/2025
 
 - NIH Maximizing Investigators’ Research Award - F Study Section ([MRAF](https://public.era.nih.gov/pubroster/preRosIndex.era?AGENDA=530342&CID=105454)), 2/2025 
 
