@@ -6,6 +6,7 @@ title: Publications
 <!--Key publications are described in more detail on the [Research](research.html) page.--> 
 For a complete list of publications, see also [Google Scholar](https://scholar.google.com.hk/citations?user=1wVQpBUAAAAJ&hl=en).
 
+<small><em>Symbols indicate mentees (<u>&nbsp;&nbsp;&nbsp;&nbsp;</u>), and senior authors (<strong>*</strong>).</em></small>
 
 
 ### Preprint 
@@ -14,7 +15,7 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - Wu, J., Wan, C., Ji, Z.\*, Zhou, Y.\* and **Hou, W.**\* 2025. 
 EpiFoundation: A Foundation Model for Single-Cell ATAC-seq via Peak-to-Gene Alignment. [bioRxiv, 2025 February 8](https://winnie09.github.io/Wenpin_Hou/pages/epiFoundation.pdf). Model: [EpiFoundation](https://github.com/UCSC-VLAA/EpiFoundation). 
 
-- Huang, X., **Liu, Q.**, **Zhao, Y.**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2025. MethylProphet: A Generalized Gene-Contextual Model for Inferring
+- Huang, X., $\underline{**Liu, Q.**}$, **Zhao, Y.**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2025. MethylProphet: A Generalized Gene-Contextual Model for Inferring
 Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.biorxiv.org/content/10.1101/2025.02.05.636730v1). Model: [Methylprophet](https://github.com/xk-huang/methylprophet/).
 
 - **Hou, W.**\*, **Shang, X.**, and Ji, Z.\*, 2025. Benchmarking large language models for genomic knowledge with GeneTuring.   [bioRxiv, 2025 January 5](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v2). In Journal Review.
@@ -111,6 +112,3 @@ Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.b
 - Causal gene regulatory network construction using single-cell RNA-seq and single-cell ATAC-seq data, [11th annual RECOMB/ISCB Conference on Regulatory & Systems Genomics  with DREAM Challenges](https://www.iscb.org/recomb-regsysgen2018), New York University, New York, USA, Dec 8-10, 2018.
 
 - On orthogonal feature extraction model with applications in cancer prediction, University of Cadiz, Cadiz, Spain, May 18, 2016.
-
-
-##### \* Corresponding author.
