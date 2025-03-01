@@ -11,7 +11,6 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### Preprint 
 
-
 - Wu, J., Wan, C., Ji, Z.\*, Zhou, Y.\* and **Hou, W.**\* 2025. 
 EpiFoundation: A Foundation Model for Single-Cell ATAC-seq via Peak-to-Gene Alignment. [bioRxiv, 2025 February 8](https://winnie09.github.io/Wenpin_Hou/pages/epiFoundation.pdf). Model: [EpiFoundation](https://github.com/UCSC-VLAA/EpiFoundation). 
 
@@ -24,7 +23,7 @@ Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.b
 
 - Lo, E.K., Idrizi, A., Tryggvadottir, R., Zhou, W., **Hou, W.**, Ji, H., Cahan, P. and Feinberg, A.P. 2024. DNA methylation memory of pancreatic acinar-ductal metaplasia transition state altering Kras-downstream PI3K and Rho GTPase signaling in the absence of Kras mutation. [bioRxiv, pp.2024-10](https://www.biorxiv.org/content/10.1101/2024.10.26.620414v1).
 
-- **Hou, W.**\*, <u>**Liu, Q.**</u>, Ma, H., Qu, Y., and Ji, Z.\*, 2024. Assessing large multimodal models for one-shot learning and interpretability in biomedical image classification.   [bioRxiv, 2025 January 4](https://www.biorxiv.org/content/10.1101/2023.12.31.573796v3). In Journal Review.
+- **Hou, W.**\*, **<u>Liu, Q.</u>**, Ma, H., Qu, Y., and Ji, Z.\*, 2024. Assessing large multimodal models for one-shot learning and interpretability in biomedical image classification.   [bioRxiv, 2025 January 4](https://www.biorxiv.org/content/10.1101/2023.12.31.573796v3). In Journal Review.
 
 - Zhuang, H., Gai, X., Zhang, A.R., **Hou, W.**, Ji, Z., and Shi, P.\*, 2024. Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity.   [bioRxiv, pp.2024-09](https://www.biorxiv.org/content/10.1101/2024.09.14.613024v1). In Journal Review.
 
