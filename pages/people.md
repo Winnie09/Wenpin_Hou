@@ -36,7 +36,7 @@ title: "People"
   <img src="../images/xu_liao.jpg" alt="Xu Liao" style="width: 80px; margin-right: 20px;">
   <div>
     <strong>Xu Liao</strong>, Ph.D. <br/>
-    <strong>Postdoctoral Research Scientist</strong> focusing on RNA velocity, multi-modal modelling, representation learning and deep generative models. She employs advanced statistical and deep learning methods to model complex biological datasets, particularly in single and spatial omics data. Holds a Ph.D. in Biostatistics and Health Data Science from Duke-NUS.
+    <strong>Postdoctoral Research Scientist</strong> focusing on multi-modal modelling, representation learning and deep generative models. Holds a Ph.D. in Biostatistics and Health Data Science from Duke-NUS,  specializing in developing statistical and deep learning methods for RNA velocity and integrative analysis of single and spatial omics data. 
     <a href="https://liao-xu.github.io/" target="_blank">[homepage]</a>
   </div>
 </div>
