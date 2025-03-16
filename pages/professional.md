@@ -42,6 +42,8 @@ title: Professional Activity
 
 - IEEE Transactions on Neural Networks and Learning Systems \(TransNNLS\)
 
+- Journal of the American Statistical Association
+
 - Nature Methods (4) 
 
 - Nature Communications (15)
