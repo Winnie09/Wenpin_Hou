@@ -58,9 +58,9 @@ title: Professional Activity
 
 *Conferences*
 
- - [The 12th International Chinese Statistical Association Conference](https://www.icsa.org)\{ICSA2023\) 
+ - [The 12th International Chinese Statistical Association Conference](https://www.icsa.org)\(ICSA2023\) 
  
- - [International Conference on Health Policy Statistics](https://ww2.amstat.org/meetings/ichps/2023/travelawards.cfm)\{ICHPS 2023\)
+ - [International Conference on Health Policy Statistics](https://ww2.amstat.org/meetings/ichps/2023/travelawards.cfm)\(ICHPS 2023\)
 
 - The First CCF Bioinformatics Conference \(CBC 2016\)
 
