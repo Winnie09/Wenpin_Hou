@@ -35,7 +35,7 @@ Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.b
 
 ##### Application of GPT models
 
-- **Hou, W.**\*, **<u>Liu, Q.</u>**, Ma, H., Qu, Y., and Ji, Z.\*, 2024. Assessing large multimodal models for one-shot learning and interpretability in biomedical image classification.   [bioRxiv, 2025 January 4](https://www.biorxiv.org/content/10.1101/2023.12.31.573796v3). Accepted in *Advanced Intelligent Systems*.
+- **Hou, W.**\*, **<u>Liu, Q.</u>**, Ma, H., Qu, Y., and Ji, Z.\*, 2024. Assessing large multimodal models for one-shot learning and interpretability in biomedical image classification.   [Advanced Intelligent Systems, April 6, 2025](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202400947). 
 
 - **Hou, W.**\*, and Ji, Z.\*, 2024. A systematic evaluation of large language models for generating programming code.  [Advanced Science, 30 December 2024](https://onlinelibrary.wiley.com/doi/10.1002/advs.202412279).
 
