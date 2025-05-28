@@ -62,7 +62,7 @@ Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.b
 
 ** New processed database**
 
-- Wan, C., Qu, Y., Ye, Z., Zhang, T., Ma, H., Chen, M., **Hou, W.** and Ji, Z., 2025. Comparative analysis of gene regulation in single cells using Compass. [Cell Reports Methods, 5 (5), 101035] (https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00071-2)
+- Wan, C., Qu, Y., Ye, Z., Zhang, T., Ma, H., Chen, M., **Hou, W.** and Ji, Z., 2025. Comparative analysis of gene regulation in single cells using Compass. [Cell Reports Methods, 5 (5), 101035](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00071-2)
 
 ** New scientific findings**
 
