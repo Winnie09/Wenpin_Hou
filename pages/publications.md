@@ -46,7 +46,7 @@ Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.b
 	
 ##### Single-cell genomics
 
-** New methods **
+** New methods**
 
 - **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples.  [Nature Communications 14, 7286 (2023)](https://www.nature.com/articles/s41467-023-42841-y). [Software package: Lamian](https://github.com/Winnie09/Lamian). 
 
@@ -60,11 +60,11 @@ Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.b
 
 - Ji, Z., Zhou, W., **Hou, W.** and Ji, H.\*, (2020). SCATE: Single-cell ATAC-seq Signal Extraction and Enhancement. [*Genome Biology*, 21,161 (2020)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02075-3). doi: 10.1186/s13059-020-02075-3. PMID: 32620137. PMCID: PMC7333383. Links to: [Software package: SCATE](https://github.com/Winnie09/SCATE), [SCATEData](https://github.com/Winnie09/SCATEData).
 
-** New processed database **
+** New processed database**
 
 - Wan, C., Qu, Y., Ye, Z., Zhang, T., Ma, H., Chen, M., **Hou, W.** and Ji, Z., 2025. Comparative analysis of gene regulation in single cells using Compass. [Cell Reports Methods, 5 (5), 101035] (https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00071-2)
 
-** New scientific findings **
+** New scientific findings**
 
 - Jackson, C., Cherry, C., Bom, S., Dykema, A., Wang, R., Thompson, E., Zhang, M., Li, R., Ji, Z., **Hou, W.**, Li, R., Zhang, H. and Choi, J., Rodriguez, F.,  Weingart, J., Yegnasubramanian, S., Lim, M., Bettegowda, C., Powell, J., Eliesseff, J., Ji, H., and Pardoll, D.  2025. Distinct myeloid derived suppressor cell populations promote tumor aggression in glioblastoma. [Science, 387(6713)](https://www.science.org/doi/10.1126/science.abm5214). 
 
