@@ -46,28 +46,33 @@ Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.b
 	
 ##### Single-cell genomics
 
-- Jackson, C., Cherry, C., Bom, S., Dykema, A., Wang, R., Thompson, E., Zhang, M., Li, R., Ji, Z., **Hou, W.**, Li, R., Zhang, H. and Choi, J., Rodriguez, F.,  Weingart, J., Yegnasubramanian, S., Lim, M., Bettegowda, C., Powell, J., Eliesseff, J., Ji, H., and Pardoll, D.  2025. Distinct myeloid derived suppressor cell populations promote tumor aggression in glioblastoma. [Science, 387(6713)](https://www.science.org/doi/10.1126/science.abm5214). 
+** New methods **
 
-
-- Montagne, J.M., Mitchell, J.T., Tandurella, J.A.,  Christenson, E.S., Danilova, L.V.,  Deshpande, A., Melanie L., Sidiropoulos, D.N., Davis-Marcisak, E.,Bergman, D.R., Zhu, Q., Wang, H., Kagohara, L.T., Engle, L.L., Green, B.F., Favorov, A.V., Ho, W.J., Lim, S.J., Zhang, R., Li, P., Gai, J.,  Mo, G., Mitchell, S., Wang, R., Vaghasia, A.,  **Hou, W.**, Xu, Y., Zimmerman, J.W., Elisseeff, J.H., Yegnasubramanian, S.,  Anders, R.A., Jaffee, E.M., Zheng, L. and Fertig, E.J.\* CD137 agonism enhances anti-PD1 induced activation of clonally expanded CD8+ T cells in a neoadjuvant pancreatic cancer clinical trial.  [iScience](https://www.cell.com/iscience/fulltext/S2589-0042(24)02796-2). 
-
-
-	
 - **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples.  [Nature Communications 14, 7286 (2023)](https://www.nature.com/articles/s41467-023-42841-y). [Software package: Lamian](https://github.com/Winnie09/Lamian). 
 
 - Wang, Y., Wang, W., Liu, D., **Hou, W.**, Zhou, T.\*, Ji, Z.\* GeneSegNet: a deep learning framework for cell segmentation by integrating gene expression and imaging. [Genome Biology 24, 235 (2023)](https://doi.org/10.1186/s13059-023-03054-0). [Software package: GeneSegNet](https://github.com/BoomStarcuc/GeneSegNet)
-
-- Dykema, A.G., Zhang, J., Cheung, L.S., Connor, S., Zhang, B., Zeng, Z., Cherry, C.M., Li, T., Caushi, J.X., Nishimoto, M., Munoz, A.J., Ji, Z., **Hou, W.**, Zhan, W., Singh, D., Zhang, T., Rashid, R., Mitchell-Flack, M., Bom, S., Tam, A., Ionta, N., Aye, T.H.K., Wang, Y., Sawosik, C.A., Tirado, L.E., Tomasovic, L.M., Spangler, J.B., Anagnostou, W., Yang, S., Spicer, J., Rayes, R., Taube, J., Brahmer, J.R., Forde, P.M., Yegnasubramanian, S.\*, Ji, H.\*, Pardoll, M.\*, and Smith K.N.\*(2023). Lung tumor–infiltrating Treg have divergent transcriptional profiles and function linked to checkpoint blockade response. [Science Immunology, 8(87)](https://www.science.org/doi/10.1126/sciimmunol.adg1487). PMID: 37713507. 
 
 - **Hou, W.**, Ji, Z.\* (2022). Palo: spatially-aware color palette optimization for single-cell and spatial data. [*Bioinformatics*, June 01, 2022](https://doi.org/10.1093/bioinformatics/btac368). [Software package: Palo](https://winnie09.github.io/Wenpin_Hou/pages/Palo.html). PMID: 35642896. PMCID: PMC9272793.
 
 - **Hou, W.**, Ji, Z.\* (2022). Single-cell Unbiased Visualization with SCUBI.  [*Cell Reports Methods*, 100135, 2022](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(21)00204-6). [Software package: scubi](https://winnie09.github.io/Wenpin_Hou/pages/SCUBI.html).  PMID: 35224531. PMCID: PMC8871596
 
-- Caushi, J.X., Zhang, J.,  Ji, Z., Vaghasia, A., Zhang, B., Hsiue, E., Mog, B., **Hou, W.**, Justesen, S., Blosser, R., Tam, A., Anagnostou, V., Cottrell, T.R., Guo, H., Chan, H.,  Singh, D., Thapa, S., Dykema, A., Choudhury, C., Aparicio, L., Cheung, L., Lanis, M., Belcaid, Z., Asmar, M.E., Illei, P.,  Brock, M., Ha, J., Bush, E., Park, B.,  Bott, M.,  Naidoo, J., Marrone, K.A., Reuss, J.E., Velculescu, V.E., Chaft, J.E., Kinzler, K.W., Zhou, S., Vogelstein, B., Taube, J.M., Merghoub, T., Brahmer, J.R., Hellmann, M.D., Forde, P.M., Yegnasubramanian, S.\*, Ji, H.\*, Pardoll, D.M.\*,  Smith, K.N.\* (2021). Transcriptional programs of neoantigen-specific TIL in anti-PD-1-treated lung cancers. [*Nature*, July 21, 2021](https://www.nature.com/articles/s41586-021-03752-4#citeas). PMID: 34290408 PMCID: PMC8338555.
-
 - **Hou, W.**, Ji, Z., Ji, H.\* and Hicks, S.C.\*, (2020). A Systematic Evaluation of Single-cell RNA-sequencing Imputation Methods. [*Genome Biology* 21, 218 (2020)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02132-x), doi: 10.1186/s13059-020-02132-x. PMID: 32854757. PMCID: PMC7450705. Links to: [Code](https://github.com/Winnie09/imputationBenchmark), [Twitter](https://twitter.com/GenomeBiology/status/1298976169484681219).
 
 - Ji, Z., Zhou, W., **Hou, W.** and Ji, H.\*, (2020). SCATE: Single-cell ATAC-seq Signal Extraction and Enhancement. [*Genome Biology*, 21,161 (2020)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02075-3). doi: 10.1186/s13059-020-02075-3. PMID: 32620137. PMCID: PMC7333383. Links to: [Software package: SCATE](https://github.com/Winnie09/SCATE), [SCATEData](https://github.com/Winnie09/SCATEData).
+
+** New processed database **
+
+- Wan, C., Qu, Y., Ye, Z., Zhang, T., Ma, H., Chen, M., **Hou, W.** and Ji, Z., 2025. Comparative analysis of gene regulation in single cells using Compass. [Cell Reports Methods, 5 (5), 101035] (https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00071-2)
+
+** New scientific findings **
+
+- Jackson, C., Cherry, C., Bom, S., Dykema, A., Wang, R., Thompson, E., Zhang, M., Li, R., Ji, Z., **Hou, W.**, Li, R., Zhang, H. and Choi, J., Rodriguez, F.,  Weingart, J., Yegnasubramanian, S., Lim, M., Bettegowda, C., Powell, J., Eliesseff, J., Ji, H., and Pardoll, D.  2025. Distinct myeloid derived suppressor cell populations promote tumor aggression in glioblastoma. [Science, 387(6713)](https://www.science.org/doi/10.1126/science.abm5214). 
+
+- Montagne, J.M., Mitchell, J.T., Tandurella, J.A.,  Christenson, E.S., Danilova, L.V.,  Deshpande, A., Melanie L., Sidiropoulos, D.N., Davis-Marcisak, E.,Bergman, D.R., Zhu, Q., Wang, H., Kagohara, L.T., Engle, L.L., Green, B.F., Favorov, A.V., Ho, W.J., Lim, S.J., Zhang, R., Li, P., Gai, J.,  Mo, G., Mitchell, S., Wang, R., Vaghasia, A.,  **Hou, W.**, Xu, Y., Zimmerman, J.W., Elisseeff, J.H., Yegnasubramanian, S.,  Anders, R.A., Jaffee, E.M., Zheng, L. and Fertig, E.J.\* CD137 agonism enhances anti-PD1 induced activation of clonally expanded CD8+ T cells in a neoadjuvant pancreatic cancer clinical trial.  [iScience](https://www.cell.com/iscience/fulltext/S2589-0042(24)02796-2). 
+
+- Dykema, A.G., Zhang, J., Cheung, L.S., Connor, S., Zhang, B., Zeng, Z., Cherry, C.M., Li, T., Caushi, J.X., Nishimoto, M., Munoz, A.J., Ji, Z., **Hou, W.**, Zhan, W., Singh, D., Zhang, T., Rashid, R., Mitchell-Flack, M., Bom, S., Tam, A., Ionta, N., Aye, T.H.K., Wang, Y., Sawosik, C.A., Tirado, L.E., Tomasovic, L.M., Spangler, J.B., Anagnostou, W., Yang, S., Spicer, J., Rayes, R., Taube, J., Brahmer, J.R., Forde, P.M., Yegnasubramanian, S.\*, Ji, H.\*, Pardoll, M.\*, and Smith K.N.\*(2023). Lung tumor–infiltrating Treg have divergent transcriptional profiles and function linked to checkpoint blockade response. [Science Immunology, 8(87)](https://www.science.org/doi/10.1126/sciimmunol.adg1487). PMID: 37713507. 
+
+- Caushi, J.X., Zhang, J.,  Ji, Z., Vaghasia, A., Zhang, B., Hsiue, E., Mog, B., **Hou, W.**, Justesen, S., Blosser, R., Tam, A., Anagnostou, V., Cottrell, T.R., Guo, H., Chan, H.,  Singh, D., Thapa, S., Dykema, A., Choudhury, C., Aparicio, L., Cheung, L., Lanis, M., Belcaid, Z., Asmar, M.E., Illei, P.,  Brock, M., Ha, J., Bush, E., Park, B.,  Bott, M.,  Naidoo, J., Marrone, K.A., Reuss, J.E., Velculescu, V.E., Chaft, J.E., Kinzler, K.W., Zhou, S., Vogelstein, B., Taube, J.M., Merghoub, T., Brahmer, J.R., Hellmann, M.D., Forde, P.M., Yegnasubramanian, S.\*, Ji, H.\*, Pardoll, D.M.\*,  Smith, K.N.\* (2021). Transcriptional programs of neoantigen-specific TIL in anti-PD-1-treated lung cancers. [*Nature*, July 21, 2021](https://www.nature.com/articles/s41586-021-03752-4#citeas). PMID: 34290408 PMCID: PMC8338555.
 
 ##### Boolean networks
 - **Hou, W.**, Ruan, P., Ching, W.K. and Akutsu, T.\*, (2019). On the number of driver nodes for controlling a Boolean network when the targets are restricted to attractors. [*Journal of Theoretical Biology*, 463, pp.1-11](https://www.sciencedirect.com/science/article/pii/S0022519318306027). doi:10.1016/j.jtbi.2018.12.012.
