@@ -12,21 +12,16 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 ### Preprint 
 
 - Wu, J., Wan, C., Ji, Z.\*, Zhou, Y.\* and **Hou, W.**\* 2025. 
-EpiFoundation: A Foundation Model for Single-Cell ATAC-seq via Peak-to-Gene Alignment. [bioRxiv, 2025 February 8](https://winnie09.github.io/Wenpin_Hou/pages/epiFoundation.pdf). Model: [EpiFoundation](https://github.com/UCSC-VLAA/EpiFoundation). 
+EpiFoundation: A Foundation Model for Single-Cell ATAC-seq via Peak-to-Gene Alignment. [bioRxiv, 2025 February 8](https://winnie09.github.io/Wenpin_Hou/pages/epiFoundation.pdf). Model: [EpiFoundation](https://github.com/UCSC-VLAA/EpiFoundation).  In Review.
 
 - Huang, X., **<u>Liu, Q.</u>**, **<u>Zhao, Y.</u>**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2025. MethylProphet: A Generalized Gene-Contextual Model for Inferring
-Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.biorxiv.org/content/10.1101/2025.02.05.636730v1). Model: [Methylprophet](https://github.com/xk-huang/methylprophet/).
+Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.biorxiv.org/content/10.1101/2025.02.05.636730v1). Model: [Methylprophet](https://github.com/xk-huang/methylprophet/). In Review.
 
-- **Hou, W.**\*, **<u>Shang, X.</u>**, and Ji, Z.\*, 2025. Benchmarking large language models for genomic knowledge with GeneTuring.   [bioRxiv, 2025 January 5](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v2). In Journal Review.
+- **<u>Shang, X.</u>**, Ji, Z. and **Hou, W.**\*, 2025. Benchmarking large language models for genomic knowledge with GeneTuring.   [bioRxiv, 2025 January 5](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v2). In Journal Revision. [Genetic Alignment BLAST (GPT-s App)](https://chatgpt.com/g/g-67c52efdc210819190a9532f264ec9c0-genetic-alignment-blast)
 
-- Zhuang, H., **<u>Shang, X.</u>**, **Hou, W.**\* and Ji, Z.\*, 2024. Identifying cell-type-specific spatially variable genes with ctSVG. [Research Square, 2024 Dec 19](https://pubmed.ncbi.nlm.nih.gov/39764138/). In Journal Review.
-
-- Lo, E.K., Idrizi, A., Tryggvadottir, R., Zhou, W., **Hou, W.**, Ji, H., Cahan, P. and Feinberg, A.P. 2024. DNA methylation memory of pancreatic acinar-ductal metaplasia transition state altering Kras-downstream PI3K and Rho GTPase signaling in the absence of Kras mutation. [bioRxiv, pp.2024-10](https://www.biorxiv.org/content/10.1101/2024.10.26.620414v1).
-
-
+- Zhuang, H., **<u>Shang, X.</u>**, **Hou, W.**\* and Ji, Z.\*, 2024. Identifying cell-type-specific spatially variable genes with ctSVG. [Research Square, 2024 Dec 19](https://pubmed.ncbi.nlm.nih.gov/39764138/). In Journal Revision.
 
 - Zhuang, H., Gai, X., Zhang, A.R., **Hou, W.**, Ji, Z., and Shi, P.\*, 2024. Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity.   [bioRxiv, pp.2024-09](https://www.biorxiv.org/content/10.1101/2024.09.14.613024v1). In Journal Review.
-
 
 - **Hou, W.**\* and Ji, Z.\*, 2022. Decomposing spatial heterogeneity of cell trajectories with Paella.   [bioRxiv, pp.2022-09](https://www.biorxiv.org/content/10.1101/2022.09.05.506682v1). Software package: [Paella](https://github.com/Winnie09/Paella).
 
@@ -66,6 +61,8 @@ Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.b
 
 ** New scientific findings**
 
+- Lo, E.K., Idrizi, A., Tryggvadottir, R., Zhou, W., **Hou, W.**, Ji, H., Cahan, P. and Feinberg, A.P., 2025. DNA methylation memory of pancreatic acinar-ductal metaplasia transition state altering Kras-downstream PI3K and Rho GTPase signaling in the absence of Kras mutation. [Genome Medicine, 17(1), p.32](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-025-01452-6).
+
 - Jackson, C., Cherry, C., Bom, S., Dykema, A., Wang, R., Thompson, E., Zhang, M., Li, R., Ji, Z., **Hou, W.**, Li, R., Zhang, H. and Choi, J., Rodriguez, F.,  Weingart, J., Yegnasubramanian, S., Lim, M., Bettegowda, C., Powell, J., Eliesseff, J., Ji, H., and Pardoll, D.  2025. Distinct myeloid derived suppressor cell populations promote tumor aggression in glioblastoma. [Science, 387(6713)](https://www.science.org/doi/10.1126/science.abm5214). 
 
 - Montagne, J.M., Mitchell, J.T., Tandurella, J.A.,  Christenson, E.S., Danilova, L.V.,  Deshpande, A., Melanie L., Sidiropoulos, D.N., Davis-Marcisak, E.,Bergman, D.R., Zhu, Q., Wang, H., Kagohara, L.T., Engle, L.L., Green, B.F., Favorov, A.V., Ho, W.J., Lim, S.J., Zhang, R., Li, P., Gai, J.,  Mo, G., Mitchell, S., Wang, R., Vaghasia, A.,  **Hou, W.**, Xu, Y., Zimmerman, J.W., Elisseeff, J.H., Yegnasubramanian, S.,  Anders, R.A., Jaffee, E.M., Zheng, L. and Fertig, E.J.\* CD137 agonism enhances anti-PD1 induced activation of clonally expanded CD8+ T cells in a neoadjuvant pancreatic cancer clinical trial.  [iScience](https://www.cell.com/iscience/fulltext/S2589-0042(24)02796-2). 
@@ -101,7 +98,6 @@ Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.b
 ##### Obesity and maternal health
 
 - **Hou, W.**\*, Zhang, M., Ji, Y., Hong, X., Wang, G., Xu, R., Liang, L.,  Saria, S. and Ji, H. (2022)  A prospective birth cohort study of maternal prenatal cigarette smoking assessed by self-report and biomarkers on childhood risk of overweight or obesity.  [*Precision Nutrition*, 1(3), e00017](https://journals.lww.com/pn/Fulltext/2022/12000/A_prospective_birth_cohort_study_of_maternal.1.aspx?context=LatestArticles), doi: 10.1097/PN9.0000000000000017.
-
 
 - Huang, W., Igusa, T., Wang, G., Buckley, J.P., Hong, X., Bind, E., Steffens, A., Mukherjee, J., Haltmeier, D., Ji, Y., Xu, R., **Hou, W.**, Fan, Z., and Wang, X.\* (2022) In-utero co-exposure to toxic metals and micronutrients on childhood risk of overweight or obesity: new insight on micronutrients counteracting toxic metals. [*International Journal of Obesity*, 46, 1435–1445](https://doi.org/10.1038/s41366-022-01127-x). PMID: 35589962. PMCID: PMC9329205.
 
