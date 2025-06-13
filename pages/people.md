@@ -61,7 +61,7 @@ title: "People"
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/xinyi_shang.jpg" alt="Xinyi Shang" style="width: 80px; margin-right: 20px;">
   <div>
-   <strong>Xinyi Shang</strong>, BSc.      <strong>[Chair's Award]</strong> <br/>
+   <strong>Xinyi Shang</strong>, BSc.      <strong>[Chair's Award for research excellence]</strong> <br/>
     <strong>MSc Student</strong> (Y2023-2025, Theory and Methods track) in Biostatistics, focusing on evaluating GPT models and developing statistical methods for spatial transcriptomics data.
   </div>
 </div>
