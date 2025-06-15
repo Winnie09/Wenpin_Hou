@@ -6,10 +6,12 @@ layout: page
 
 
 #### Research Interests
-As an Assistant Professor (tenure-track) in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) and an affiliated member of the [Data Science Institute](https://datascience.columbia.edu/people/wenpin-hou/) at [Columbia University](https://www.columbia.edu/), Dr. Wenpin Hou is dedicated to advancing statistical machine learning methods. Her research focuses on:
-- Single-cell genomics, epigenomics, and spatial transcriptomics.
-- Mathematical modeling of gene regulatory networks.
-- Application of Generative Pre-trained Transformer models in genomics.
+As an Assistant Professor (tenure-track) in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) and an affiliated member of the [Data Science Institute](https://datascience.columbia.edu/people/wenpin-hou/) at [Columbia University](https://www.columbia.edu/), Dr. Wenpin Hou is dedicated to developing AI and statistical methods to decode gene regulatory programs from single-cell and spatial multiomics data, with the goal of characterizing developmental processes, pinpointing regulatory alterations in complex human diseases, and identifying external intervention strategies for targeted therapy. Her group focuses on developing: 
+
+- Statistical models for studying temporal and spatial patterns in single-cell and spatial omics data
+- Computational methods to infer DNA methylation and its spatial landscape
+- Foundation models for gene regulatory activities
+- Application of Generative Pre-trained Transformer models in genomics
 
 #### Awards and Recognition
 - [Maximizing Investigators’ Research Award (MIRA) for Early Stage Investigators](https://grants.nih.gov/grants/guide/pa-files/PAR-20-117.html) ([R35](https://reporter.nih.gov/search/Ym09DhMfd0-tUjFN97zw_w/project-details/10712174)) from [NIH/NIGMS](https://www.nigms.nih.gov/) in September 2023.
