@@ -32,7 +32,7 @@ title: Professional Activity
 
 - Bioinformatics (5)
 
-- Biometrics 
+- Biometrics (2)
 
 - Communications Biology
   
@@ -46,7 +46,7 @@ title: Professional Activity
 
 - Nature Methods (4) 
 
-- Nature Communications (15)
+- Nature Communications (16)
 
 - Nature Genetics
 
