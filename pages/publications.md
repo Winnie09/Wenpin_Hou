@@ -32,7 +32,8 @@ Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.b
 
 - **Hou, W.**\*, **<u>Liu, Q.</u>**, Ma, H., Qu, Y., and Ji, Z.\*, 2024. Assessing large multimodal models for one-shot learning and interpretability in biomedical image classification.   [Advanced Intelligent Systems, April 6, 2025](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202400947). 
 
-- **Hou, W.**\*, and Ji, Z.\*, 2024. A systematic evaluation of large language models for generating programming code.  [Advanced Science, 30 December 2024](https://onlinelibrary.wiley.com/doi/10.1002/advs.202412279).
+- **Hou, W.**\*, and Ji, Z.\*, 2024. Comparing Large Language Models and Human
+Programmers for Generating Programming Code.  [Advanced Science, 30 December 2024](https://onlinelibrary.wiley.com/doi/10.1002/advs.202412279).
 
 - **Hou, W.**\* and Ji, Z.\*, Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis. [Nature Methods, 2024 March 25](https://link.springer.com/article/10.1038/s41592-024-02235-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240325&utm_content=10.1038/s41592-024-02235-4). [Software package: GPTCelltype](https://winnie09.github.io/Wenpin_Hou/pages/gptcelltype.html). 
 	- <small> Note 1: Featured in [Columbia News Spotlight](https://us7.campaign-archive.com/?e=__test_email__&u=cc26d8788ee7d6f98dd0af14e&id=6dd610b0a9), [Columbia MSPH News](https://www.publichealth.columbia.edu/news/gpt-4-ai-outperforms-experts-identification-cell-types?utm_source=newsletter&utm_medium=email&utm_campaign=040124spotlight), [Science Daily](https://www.sciencedaily.com/releases/2024/03/240325172422.htm), [The Medical News](https://www.news-medical.net/news/20240326/GPT-4-shows-expert-level-accuracy-in-annotating-cell-types.aspx), [Health Tech World](https://www.htworld.co.uk/news/gpt-4-for-identifying-cell-types-in-single-cells-matches/), and 6 other news outlets.  </small>
@@ -41,7 +42,7 @@ Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.b
 	
 ##### Single-cell genomics
 
-** New methods**
+**New methods**
 
 - **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\* A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples.  [Nature Communications 14, 7286 (2023)](https://www.nature.com/articles/s41467-023-42841-y). [Software package: Lamian](https://github.com/Winnie09/Lamian). 
 
@@ -55,11 +56,11 @@ Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.b
 
 - Ji, Z., Zhou, W., **Hou, W.** and Ji, H.\*, (2020). SCATE: Single-cell ATAC-seq Signal Extraction and Enhancement. [*Genome Biology*, 21,161 (2020)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02075-3). doi: 10.1186/s13059-020-02075-3. PMID: 32620137. PMCID: PMC7333383. Links to: [Software package: SCATE](https://github.com/Winnie09/SCATE), [SCATEData](https://github.com/Winnie09/SCATEData).
 
-** New processed database**
+**New processed database**
 
 - Wan, C., Qu, Y., Ye, Z., Zhang, T., Ma, H., Chen, M., **Hou, W.** and Ji, Z., 2025. Comparative analysis of gene regulation in single cells using Compass. [Cell Reports Methods, 5 (5), 101035](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00071-2)
 
-** New scientific findings**
+**New scientific findings**
 
 - Lo, E.K., Idrizi, A., Tryggvadottir, R., Zhou, W., **Hou, W.**, Ji, H., Cahan, P. and Feinberg, A.P., 2025. DNA methylation memory of pancreatic acinar-ductal metaplasia transition state altering Kras-downstream PI3K and Rho GTPase signaling in the absence of Kras mutation. [Genome Medicine, 17(1), p.32](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-025-01452-6).
 
