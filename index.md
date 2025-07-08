@@ -11,7 +11,7 @@ As an Assistant Professor (tenure-track) in the [Department of Biostatistics](ht
 - Statistical models for studying temporal and spatial patterns in single-cell and spatial omics data
 - Computational methods to infer DNA methylation and its spatial landscape
 - Foundation models for gene regulatory activities
-- Application of Generative Pre-trained Transformer models in genomics
+- Application of Generative Pre-trained Transformer models in biomedical research (e.g. image classification, genomics Q&A)
 
 #### Awards and Recognition
 - [Maximizing Investigators’ Research Award (MIRA) for Early Stage Investigators](https://grants.nih.gov/grants/guide/pa-files/PAR-20-117.html) ([R35](https://reporter.nih.gov/search/Ym09DhMfd0-tUjFN97zw_w/project-details/10712174)) from [NIH/NIGMS](https://www.nigms.nih.gov/) in September 2023.
