@@ -41,6 +41,16 @@ title: "People"
   </div>
 </div>
 
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="../images/chhiring.png" alt="Aiying Huang" style="width: 80px; margin-right: 20px;">
+  <div>
+    <strong>Chhiring Y. Lama</strong>, BSc. <br/>
+    <strong>PhD Student</strong> (Y2024-Present) of Biostatistics focusing on developing statistical and mathematical framework for analyzing genetic and genomic data. Prior to graduate school, she was a Computational Research Technician at Weill Cornell Medicine, analyzing scMultiomic data to study genotype–phenotype relationships in myeloproliferative neoplasm and classic Hodgkin lymphoma. She holds a B.A. in Biochemistry and Statistical & Data Science.
+  </div>
+</div>
+
+
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/Aiying_Huang.png" alt="Aiying Huang" style="width: 80px; margin-right: 20px;">
   <div>
