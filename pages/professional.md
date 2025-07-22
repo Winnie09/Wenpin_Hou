@@ -22,6 +22,8 @@ title: Professional Activity
 
 *Grants*
 
+- Special emphasis panel (SEP) COBRE Phase 1 ZRG1 MGG-M (40) P, 7/2025
+
 -  NCI Special Emphasis Panel: Development of Informatics Technologies for Cancer Research U01-U24 Review ([ZCA1 TCRB-9 (M1)](https://public.era.nih.gov/pubroster/preSepIndex.era?AGENDA=527736&CID=100456), 4/2025
 
 - NIH Maximizing Investigators’ Research Award - F Study Section ([MRAF](https://public.era.nih.gov/pubroster/preRosIndex.era?AGENDA=530342&CID=105454)), 2/2025 
