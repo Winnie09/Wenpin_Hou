@@ -36,6 +36,8 @@ title: Professional Activity
 
 - Biometrics (2)
 
+- Briefings in bioinformatics
+
 - Communications Biology
   
 - Genome Biology (3) 
