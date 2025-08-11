@@ -17,8 +17,6 @@ EpiFoundation: A Foundation Model for Single-Cell ATAC-seq via Peak-to-Gene Alig
 - Huang, X., **<u>Liu, Q.</u>**, **<u>Zhao, Y.</u>**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2025. MethylProphet: A Generalized Gene-Contextual Model for Inferring
 Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.biorxiv.org/content/10.1101/2025.02.05.636730v1). Model: [Methylprophet](https://github.com/xk-huang/methylprophet/). In Review.
 
-- **<u>Shang, X.</u>**, **<u>Liao, X.</u>**, Ji, Z. and **Hou, W.**\*, 2025. Benchmarking large language models for genomic knowledge with GeneTuring.   [bioRxiv, 2025 January 5](https://www.biorxiv.org/content/10.1101/2023.03.11.532238v2). In Journal Revision. [SeqSnap (GPT-s App)](https://chatgpt.com/g/g-67c52efdc210819190a9532f264ec9c0-seqsnap)
-
 - Zhuang, H., **<u>Shang, X.</u>**, **Hou, W.**\* and Ji, Z.\*, 2024. Identifying cell-type-specific spatially variable genes with ctSVG. [Research Square, 2024 Dec 19](https://pubmed.ncbi.nlm.nih.gov/39764138/). In Journal Revision.
 
 - Zhuang, H., Gai, X., Zhang, A.R., **Hou, W.**, Ji, Z., and Shi, P.\*, 2024. Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity.   [bioRxiv, pp.2024-09](https://www.biorxiv.org/content/10.1101/2024.09.14.613024v1). In Journal Review.
@@ -28,6 +26,8 @@ Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.b
 ### Published 
 
 ##### Application of GPT models
+
+- **<u>Shang, X.</u>**, **<u>Liao, X.</u>**, Ji, Z. and **Hou, W.**\*, 2025. Benchmarking large language models for genomic knowledge with GeneTuring.   Software (GPT-s App): [SeqSnap](https://chatgpt.com/g/g-67c52efdc210819190a9532f264ec9c0-seqsnap). Accepted for publication in **Briefings in Bioinformatics**.
 
 - **Hou, W.**\*, **<u>Liu, Q.</u>**, Ma, H., Qu, Y., and Ji, Z.\*, 2024. Assessing large multimodal models for one-shot learning and interpretability in biomedical image classification.   [Advanced Intelligent Systems, April 6, 2025](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202400947). 
 
