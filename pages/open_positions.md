@@ -3,8 +3,11 @@ layout: page
 title: Open Positions 
 ---
 
-**I am looking for multiple highly-motivated students to work together on exciting research projects**.  
+**I am looking for multiple highly-motivated students and postdoc to work together on exciting research projects**.  
 Welcome to contact me if you are interested. 
+
+
+**<span style="color: blue;"> Postdoctoral scientist position: </span>**  One position is available immediately on relevant research directions. Please email me with your research interests and CV. 
 
 **<span style="color: blue;"> Current PhD/MSc/MPH students: </span>**  GRA positions for PhD students are available immediately. RA positions for MSc/MPH students depend on qualifications; please email me with your research interests and CV. 
 
