@@ -79,7 +79,7 @@ title: "People"
 
 ### Alumni
 
-**Xinyi Shang**, MSc. (Y2023-2025, Theory and Methods track). Chair's Award for research excellence.  Future PhD student at UMass Amherst.
+**Xinyi Shang**, MSc. (Y2023-2025, Theory and Methods track). [Chair's Award for Outstanding Master's Student](https://www.publichealth.columbia.edu/file/17750/download?token=1syJuaxU).  PhD student at UMass Amherst.
 
 **Aiying Huang**, MSc. (Y2023-2025, Public Health Data Science track). <br/>
 
