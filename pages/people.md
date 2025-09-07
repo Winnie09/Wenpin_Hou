@@ -62,9 +62,19 @@ title: "People"
   <img src="../images/xun_sun.png" alt="Xun Sun" style="width: 80px; margin-right: 20px;">
   <div>
    <strong>Xun Sun</strong>, BSc.  <br/> 
-    <strong>MSc Student </strong> MSc Student (Y2024-2026, Public Health Data Science track) in Biostatistics, focusing on deep learning and large language models for emotion-aware natural language processing.
+    <strong>MSc Student </strong> (Y2024-2026, Public Health Data Science track) in Biostatistics, focusing on deep learning and large language models for emotion-aware natural language processing.
   </div>
 </div>
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="../images/qingyu_xiong.png" alt="Qinyu Xiong" style="width: 80px; margin-right: 20px;">
+  <div>
+   <strong>Qinyu Xiong</strong>, BSc.  <br/> 
+    <strong>MA Student </strong> (Y2024-2026, Advanced Machine Learning track) in Statistics, focusing on statistical modeling and large language models for fine-grained, emotion-aware sentiment analysis.
+  </div>
+</div>
+
 
 
 ### Alumni
