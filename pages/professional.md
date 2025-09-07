@@ -5,13 +5,13 @@ title: Professional Activity
 
 **Member**
 
+- [American Statistical Association](https://www.amstat.org/) \(ASA\), 2021-2026
+
+- [Eastern North American Region](https://www.enar.org/) \(ENAR\), 2019-2020, 2025
+
 - [Institute of Mathematical Statistics](https://imstat.org/) \(IMS\), 2023-2024
 
 - [International Chinese Statistical Association](https://www.icsa.org/) \(ICSA\), 2023-2024
-
-- [American Statistical Association](https://www.amstat.org/) \(ASA\), 2021-2025
-  
-- [Eastern North American Region](https://www.enar.org/) \(ENAR\), 2019-2020
   
 - [International Society for Computational Biology](https://www.iscb.org/) \(ISCB\), 2018-2019
 
