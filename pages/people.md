@@ -25,7 +25,7 @@ title: "People"
   <img src="../images/qi_liu.jpg" alt="Qi Liu" style="width: 80px; margin-right: 20px;">
   <div>
     <strong>Qi Liu</strong>, Ph.D. <br/>
-    <strong>Postdoctoral Research Scientist</strong> focusing on developing AI applications for healthcare and biomedical fields. Holds a Ph.D. in Electrical Engineering from City University of Hong Kong, specializing in utilizing structure-based models to achieve robustness and generalization in healthcare AI algorithms. Jointly mentored with Dr. Ying Wei (TRAIL).
+    <strong>Postdoctoral Research Scientist</strong> focusing on developing AI applications for healthcare and biomedical fields. Holds a Ph.D. in Electrical Engineering from City University of Hong Kong, specializing in utilizing structure-based models to achieve robustness and generalization in healthcare AI algorithms. Currently focusing on modeling Alzheimer’s disease trajectories and spatial omics data. Jointly mentored with Dr. Ying Wei (TRAIL).
     <a href="https://www.qi-liu.com/" target="_blank">[homepage]</a>
   </div>
 </div>
@@ -54,6 +54,15 @@ title: "People"
   <div>
    <strong>Zitao Zhang</strong>, BSc.  <strong>[Research Internship Program, GEMS, at MSK]</strong> <br/> 
     <strong>MSc Student </strong> (Y2024-2026, Theory and Methods track) in Biostatistics, focusing on modelling the temporal gene expression using single-cell RNA sequencing data and its applications in cancer immunotherapy.
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="../images/xun_sun.png" alt="Xun Sun" style="width: 80px; margin-right: 20px;">
+  <div>
+   <strong>Xun Sun</strong>, BSc.  <br/> 
+    <strong>MSc Student </strong> MSc Student (Y2024-2026, Public Health Data Science track) in Biostatistics, focusing on deep learning and large language models for emotion-aware natural language processing.
   </div>
 </div>
 
