@@ -4,7 +4,6 @@ layout: page
 ---
 
 
-
 #### Research Interests
 As an Assistant Professor (tenure-track) in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) and an affiliated member of the [Data Science Institute](https://datascience.columbia.edu/people/wenpin-hou/) at [Columbia University](https://www.columbia.edu/), Dr. Wenpin Hou is dedicated to developing AI and statistical methods to decode gene regulatory programs from single-cell and spatial multiomics data, with the goal of characterizing developmental processes, pinpointing regulatory alterations in complex human diseases, and identifying external intervention strategies for targeted therapy. Her group focuses on developing: 
 
@@ -31,6 +30,8 @@ If you are interested in a research position (e.g. research assistant, visiting 
 
 
 #### More
+
+[Wenpin's Official Website at Columbia](https://www.publichealth.columbia.edu/profile/wenpin-hou-phd)
 
 [Columbia News about Wenpin](https://www.publichealth.columbia.edu/news/mathematician-uses-ai-find-meaning-genomic-data)
 
