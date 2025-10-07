@@ -76,6 +76,15 @@ title: "People"
 </div>
 
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="../images/lixia_chen_wu.png" alt="Lixia Chen Wu" style="width: 80px; margin-right: 20px;">
+  <div>
+   <strong>Lixia Chen Wu</strong>, BA  <br/> 
+    <strong> MSc student (Y2025–2026, Computational Biology Track) in Computer Science, focusing on integrating deep learning models with single-cell and spatial multi-omics data for genetic analyses and disease biomarker discovery.
+  </div>
+</div>
+
+
 
 ### Alumni
 
