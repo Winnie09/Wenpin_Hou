@@ -60,6 +60,8 @@ title: Professional Activity
 
 - PLOS Computational Biology (4) 
 
+- The Annals of Applied Statistics
+
 *Conferences*
 
  - [The 12th International Chinese Statistical Association Conference](https://www.icsa.org)\(ICSA2023\) 
