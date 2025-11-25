@@ -26,9 +26,6 @@ Identifying cell-type-specific spatially variable genes with ctSVG. [Research Sq
 - Zhuang, H., Gai, X., Zhang, A.R., **Hou, W.**, Ji, Z., and Shi, P.\*, 2024. 
 Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity.   [bioRxiv, pp.2024-09](https://www.biorxiv.org/content/10.1101/2024.09.14.613024v1). In Journal Review.
 
-- **Hou, W.**\* and Ji, Z.\*, 2022. 
-Decomposing spatial heterogeneity of cell trajectories with Paella.   [bioRxiv, pp.2022-09](https://www.biorxiv.org/content/10.1101/2022.09.05.506682v1). Software package: [Paella](https://github.com/Winnie09/Paella).
-
 ### Published 
 
 ##### Application of GPT models
