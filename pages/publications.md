@@ -11,6 +11,8 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### Preprint 
 
+- **Hou, W.**^{*}, <u>Hong, W.</u> and Ji, Z.^{*}, 2025. SpatialCD resolves spatiotemporal heterogeneity via continuous spatial domains. [SSRN (Cell Press Preprint), 1 May 2025](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5235997). Software: [SpatialCD](https://github.com/Winnie09/SpatialCD). In Revision.
+
 - Wu, J., Wan, C., Ji, Z.\*, Zhou, Y.\* and **Hou, W.**\* 2025. 
 EpiFoundation: A Foundation Model for Single-Cell ATAC-seq via Peak-to-Gene Alignment. [bioRxiv, 2025 February 8](https://winnie09.github.io/Wenpin_Hou/pages/epiFoundation.pdf). Model: [EpiFoundation](https://github.com/UCSC-VLAA/EpiFoundation).  In Review.
 
