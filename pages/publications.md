@@ -11,6 +11,9 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 
 ### Preprint 
 
+
+- Song, Y., Tang, M., **<u>Liu, Q.</u>**, Wang, H., Qian, L., Zou, F.\* and **Hou, W.**\*, 2025. GPTAnno: Ontology-tree-guided hierarchical cell type annotation based on GPT models for single-cell data. [bioRxiv, pp.2025-11](https://www.biorxiv.org/content/10.1101/2025.11.27.690951v1).
+
 - **Hou, W.**\*, **<u>Hong, W.</u>** and Ji, Z.\*, 2025. SpatialCD resolves spatiotemporal heterogeneity via continuous spatial domains. [SSRN (Cell Press Preprint), 1 May 2025](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5235997). Software: [SpatialCD](https://github.com/Winnie09/SpatialCD). In Revision.
 
 - Wu, J., Wan, C., Ji, Z.\*, Zhou, Y.\* and **Hou, W.**\* 2025. 
