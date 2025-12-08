@@ -23,15 +23,13 @@ EpiFoundation: A Foundation Model for Single-Cell ATAC-seq via Peak-to-Gene Alig
 MethylProphet: A Generalized Gene-Contextual Model for Inferring
 Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.biorxiv.org/content/10.1101/2025.02.05.636730v1). Model: [Methylprophet](https://github.com/xk-huang/methylprophet/). In Review.
 
-- Zhuang, H., **<u>Shang, X.</u>**, **Hou, W.**\* and Ji, Z.\*, 2024. 
-Identifying cell-type-specific spatially variable genes with ctSVG. [Research Square, 2024 Dec 19](https://pubmed.ncbi.nlm.nih.gov/39764138/). In Journal Revision.
 
 - Zhuang, H., Gai, X., Zhang, A.R., **Hou, W.**, Ji, Z., and Shi, P.\*, 2024. 
 Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity.   [bioRxiv, pp.2024-09](https://www.biorxiv.org/content/10.1101/2024.09.14.613024v1). In Journal Review.
 
 ### Published 
 
-##### Application of GPT models
+##### GPT models in genomics, biomedical imaging, and programming
 
 - **<u>Shang, X.</u>**, **<u>Liao, X.</u>**, Ji, Z. and **Hou, W.**\*, 2025. 
 Benchmarking large language models for genomic knowledge with GeneTuring. [Briefings in Bioinformatics, 26(5), 2025, bbaf492](https://academic.oup.com/bib/article/26/5/bbaf492/8261762?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email). Software (GPT-s App): [SeqSnap](https://chatgpt.com/g/g-67c52efdc210819190a9532f264ec9c0-seqsnap). 
@@ -49,9 +47,11 @@ Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis. [Natur
 	- <small> Note 2: Reviewed in Nature Methods [Embedding AI in biology](https://www.nature.com/articles/s41592-024-02391-7) and [Toward learning a foundational representation of cells and genes](https://www.nature.com/articles/s41592-024-02367-7).</small>
 	- <small> Note 3:  As of May/June 2024 , this highly cited paper received enough citations to place it in the **top 1%** of the academic field of Biology & Biochemistry based on a highly cited threshold for the field and publication year. With the Altmetric Attention Score 284, it ranked the top #1 when comparing to 75 others from the same source and published within six weeks.. </small>
 	
-##### Single-cell genomics
+##### Single-cell genomics: temporal and spatial patterns
 
 **New methods**
+
+- Zhuang, H., **<u>Shang, X.</u>**, **Hou, W.**\* and Ji, Z.\*, 2025. Identifying cell-type-specific spatially variable genes with ctSVG. [Genome Biol 26, 416 (2025)](https://doi.org/10.1186/s13059-025-03870-6).
 
 - **Hou, W.**, Ji, Z., Chen, Z., Wherry, E.J., Hicks, S.\*, and Ji, H.\*, 2023.
 A statistical framework for differential pseudotime analysis with multiple single-cell RNA-seq samples.  [Nature Communications 14, 7286 (2023)](https://www.nature.com/articles/s41467-023-42841-y). [Software package: Lamian](https://github.com/Winnie09/Lamian). 
