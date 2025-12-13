@@ -6,7 +6,7 @@ title: "People"
 ### Lab Members
 
 <div style="text-align: center; margin: 40px 0;">
-  <img src="../images/group_20241209.jpeg" alt="Group Photo" 
+  <img src="../images/group_2025.jpg" alt="Group Photo" 
        style="width: 50%; height: auto; display: block; margin: 0 auto; border: 2px solid #ccc; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </div>
 
