@@ -26,14 +26,12 @@ Dr. Hou earned her Ph.D. in Mathematics from The University of Hong Kong, where 
 
 #### For Prospective Students
 
-She is currently seeking **PhD students** eager to contribute to innovative research projects on genomics. If you are interested, please directly apply through [SOPHAS Application System](https://www.publichealth.columbia.edu/become-student/how-apply) and list her name as your preferred mentor.  All applications will be reviewed. You will be invited for an interview if the committee thinks you could be a good fit for the department's program. 
+She is currently seeking **PhD students** eager to contribute to innovative research projects on genomics. If you are interested, please directly apply and list her name as your preferred mentor.  All applications will be reviewed. You will be invited for an interview if the committee thinks you could be a good fit for the department's program. 
 
 If you are interested in a research position (e.g. research assistant, visiting student, practicum), please send her your CV and research interest. 
 
 
 #### More
-
-[Wenpin's Official Website at Columbia](https://www.publichealth.columbia.edu/profile/wenpin-hou-phd)
 
 [Columbia News about Wenpin](https://www.publichealth.columbia.edu/news/mathematician-uses-ai-find-meaning-genomic-data)
 
@@ -51,7 +49,7 @@ Hock Plaza, 2424 Erwin Rd <br/>
 Durham, NC 27705, USA
 
 
-<img src="images/envelope.svg" alt="Email logo" width="20"> [Email:]() <img src="images/email_address.png" alt="Email address" width="200"> <br/>
+<img src="images/envelope.svg" alt="Email logo" width="20"> [Email:]() <img src="images/email_address.png" alt="Email address" width="160"> <br/>
 <img src="images/github.svg" alt="GitHub logo" width="20"> [GitHub: `Winnie09`](https://github.com/Winnie09) <br/>
 <img src="images/scholar.svg" alt="Google Scholar logo" width="20"> [Google Scholar](https://scholar.google.com.hk/citations?user=1wVQpBUAAAAJ&hl=en) <br/>
 <img src="images/twitter.svg" alt="Twitter logo" width="20"> [Twitter: `@HWenpin`](https://twitter.com/HWenpin)
