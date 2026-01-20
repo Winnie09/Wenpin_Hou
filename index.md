@@ -5,12 +5,14 @@ layout: page
 
 
 #### Research Interests
-As an Assistant Professor (tenure-track) in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) and an affiliated member of the [Data Science Institute](https://datascience.columbia.edu/people/wenpin-hou/) at [Columbia University](https://www.columbia.edu/), Dr. Wenpin Hou is dedicated to developing AI and statistical methods to decode gene regulatory programs from single-cell and spatial multiomics data, with the goal of characterizing developmental processes, pinpointing regulatory alterations in complex human diseases, and identifying external intervention strategies for targeted therapy. Her group focuses on developing: 
+As an Assistant Professor (tenure-track) in the [Department of Biostatistics and Bioinformatics](https://biostat.duke.edu/) at [Duke University](https://www.duke.edu/) [School of Medicine](https://medschool.duke.edu/), Dr. Wenpin Hou is dedicated to developing AI and statistical methods to decode gene regulatory programs from single-cell and spatial multiomics data, with the goal of characterizing developmental processes, pinpointing regulatory alterations in complex human diseases, and identifying external intervention strategies for targeted therapy. Her group focuses on developing: 
 
 - Statistical models for studying temporal and spatial patterns in single-cell and spatial omics data
 - Computational methods to infer DNA methylation and its spatial landscape
 - Foundation models for gene regulatory activities
 - Application of Generative Pre-trained Transformer models in biomedical research (e.g. image classification, genomics Q&A)
+
+Dr. Hou was an assistant professor (tenure-track) at [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) and an affiliated member of the [Data Science Institute](https://datascience.columbia.edu/people/wenpin-hou/) at [Columbia University](https://www.columbia.edu/) before joining Duke.
 
 #### Awards and Recognition
 - [Maximizing Investigators’ Research Award (MIRA) for Early Stage Investigators](https://grants.nih.gov/grants/guide/pa-files/PAR-20-117.html) ([R35](https://reporter.nih.gov/search/Ym09DhMfd0-tUjFN97zw_w/project-details/10712174)) from [NIH/NIGMS](https://www.nigms.nih.gov/) in September 2023.
@@ -42,11 +44,11 @@ If you are interested in a research position (e.g. research assistant, visiting 
 <div class="span6" markdown="1">
 
 Wenpin Hou, Ph.D. <br/>
-[Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) <br/>
-[Mailman School of Public Health](https://www.publichealth.columbia.edu/) <br/>
-[Columbia University](https://www.columbia.edu/) <br/>
-722 West 168th Street <br/>
-New York, NY 10032, USA
+[Department of Biostatistics and Bioinformatics](https://biostat.duke.edu/) <br/>
+[School of Medicine](https://medschool.duke.edu/) <br/>
+[Duke University](https://www.duke.edu/) <br/>
+Hock Plaza, 2424 Erwin Rd <br/>
+Durham, NC 27705, USA
 
 
 <img src="images/envelope.svg" alt="Email logo" width="20"> [Email:]() <img src="images/email_address.png" alt="Email address" width="200"> <br/>

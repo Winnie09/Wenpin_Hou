@@ -22,6 +22,8 @@ title: Professional Activity
 
 *Grants*
 
+- Fellowships: Genes, Genomes, and Genetics: ZRG1 F08-L (20), 1/2026
+
 - Special emphasis panel (SEP) COBRE Phase 1 ZRG1 MGG-M (40) P, 7/2025
 
 -  NCI Special Emphasis Panel: Development of Informatics Technologies for Cancer Research U01-U24 Review ([ZCA1 TCRB-9 (M1)](https://public.era.nih.gov/pubroster/preSepIndex.era?AGENDA=527736&CID=100456), 4/2025
@@ -34,13 +36,15 @@ title: Professional Activity
 
 - Bioinformatics (5)
 
-- Biometrics (2)
+- Biometrics (3)
 
-- Briefings in bioinformatics
+- Briefings in bioinformatics (2)
 
 - Communications Biology
   
 - Genome Biology (3) 
+
+- Environment & Health
 
 - Genomics, Proteomics & Bioinformatics
 
@@ -50,7 +54,7 @@ title: Professional Activity
 
 - Nature Methods (4) 
 
-- Nature Communications (16)
+- Nature Communications (17)
 
 - Nature Genetics
 
