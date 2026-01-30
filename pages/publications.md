@@ -19,17 +19,19 @@ For a complete list of publications, see also [Google Scholar](https://scholar.g
 - Wu, J., Wan, C., Ji, Z.\*, Zhou, Y.\* and **Hou, W.**\* 2025. 
 EpiFoundation: A Foundation Model for Single-Cell ATAC-seq via Peak-to-Gene Alignment. [bioRxiv, 2025 February 8](https://winnie09.github.io/Wenpin_Hou/pages/epiFoundation.pdf). Model: [EpiFoundation](https://github.com/UCSC-VLAA/EpiFoundation).  In Review.
 
-- Huang, X., **<u>Liu, Q.</u>**, **<u>Zhao, Y.</u>**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2025. 
-MethylProphet: A Generalized Gene-Contextual Model for Inferring
-Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.biorxiv.org/content/10.1101/2025.02.05.636730v1). Model: [Methylprophet](https://github.com/xk-huang/methylprophet/). In Review.
+
 
 
 - Zhuang, H., Gai, X., Zhang, A.R., **Hou, W.**, Ji, Z., and Shi, P.\*, 2024. 
 Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity.   [bioRxiv, pp.2024-09](https://www.biorxiv.org/content/10.1101/2024.09.14.613024v1). In Journal Review.
 
-### Published 
+### Published / Accepted
 
-##### GPT models in genomics, biomedical imaging, and programming
+##### GPT models in genomics, epigenomics, biomedical imaging, and programming
+
+- Huang, X., **<u>Liu, Q.</u>**, **<u>Zhao, Y.</u>**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2025. 
+MethylProphet: A Generalized Gene-Contextual Model for Inferring
+Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.biorxiv.org/content/10.1101/2025.02.05.636730v1). Model: [Methylprophet](https://github.com/xk-huang/methylprophet/).  Accepted by [ICLR 2026](https://iclr.cc/).
 
 - **<u>Shang, X.</u>**, **<u>Liao, X.</u>**, Ji, Z. and **Hou, W.**\*, 2025. 
 Benchmarking large language models for genomic knowledge with GeneTuring. [Briefings in Bioinformatics, 26(5), 2025, bbaf492](https://academic.oup.com/bib/article/26/5/bbaf492/8261762?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email). Software (GPT-s App): [SeqSnap](https://chatgpt.com/g/g-67c52efdc210819190a9532f264ec9c0-seqsnap). 
