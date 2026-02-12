@@ -6,8 +6,7 @@ title: Open Positions
 **I am looking for multiple highly-motivated students and postdoc to work together on exciting research projects**.  
 Welcome to contact me if you are interested. 
 
-
-**<span style="color: blue;"> Postdoctoral scientist position: </span>**  One position is available immediately on relevant research directions. We collaborate across Columbia University, Duke University, UC Santa Cruz, and Johns Hopkins to advance understanding of gene regulation, cellular mechanisms, and human health. Dr. Hou’s group has designated access to high-performance computing (H100 GPUs).
+**<span style="color: blue;"> Postdoctoral scientist position: </span>**  One position is available immediately on relevant research directions. We collaborate across Duke University, Columbia University, UC Santa Cruz, and Johns Hopkins to advance understanding of gene regulation, cellular mechanisms, and human health. Dr. Hou’s group has designated access to high-performance computing (H100 and H200 GPUs).
 
 **Role & Impact**: We are recruiting a creative, rigorous Postdoctoral Research Scientist to design and deploy new methods on large-scale datasets (e.g., NIH-funded and consortia resources). You will:
 
@@ -23,9 +22,10 @@ Welcome to contact me if you are interested.
 - Strong programming in R and/or Python; best practices in reproducible research
 - Excellent communication, independence, and collaboration skills
 
-The candidate should hold a PhD (or equivalent) in Computer Science, Biostatistics/Statistics, Mathematics, Biomedical Engineering, or a related field by the start date.
+The candidate should hold a PhD (or equivalent) in Computer Science, Biostatistics/Statistics, Mathematics, Biomedical Engineering, Computational Biology, or a related field by the start date.
 
-
+**Application Instructions:**
+Please apply through Duke Career at [https://careers.duke.edu/job/Durham-POSTDOCTORAL-ASSOCIATE-NC-27710/1360702800/](https://careers.duke.edu/job/Durham-POSTDOCTORAL-ASSOCIATE-NC-27710/1360702800/). You can also email the following materials directory to Dr. Hou with the subject line “Postdoc Application” for a quick chat: (a) Cover letter describing research interests, fit, and relevant experience; (b) CV; and (c) Contact information for three references.
 
 **<span style="color: blue;"> Current PhD/MSc/MPH students: </span>**  GRA positions for PhD students are available immediately. RA positions for MSc/MPH students depend on qualifications; please email me with your research interests and CV. 
 
