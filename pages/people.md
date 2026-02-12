@@ -13,15 +13,6 @@ title: "People"
 <!-- Lab Member Section -->
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/woneuih11.jpg" alt="Won Eui Hong" style="width: 80px; margin-right: 20px;">
-  <div>
-    <strong>Won Eui Hong</strong>, Ph.D. <br/>
-    <strong>Postdoctoral Research Scientist</strong> focusing on modeling gene regulatory networks using single-cell multiomics data. Holds a Ph.D. in Mathematical Sciences from Carnegie Mellon University, specializing in asymptotic behaviors of dynamical systems, variational techniques, and optimizations. Jointly mentored with Dr. Ying Wei. 
-  </div>
-</div>
-
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/qi_liu.jpg" alt="Qi Liu" style="width: 80px; margin-right: 20px;">
   <div>
     <strong>Qi Liu</strong>, Ph.D. <br/>
@@ -68,15 +59,6 @@ title: "People"
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/qingyu_xiong.png" alt="Qinyu Xiong" style="width: 80px; margin-right: 20px;">
-  <div>
-   <strong>Qinyu Xiong</strong>, BSc.  <br/> 
-    <strong>MA Student </strong> (Y2024-2026, Advanced Machine Learning track) in Statistics, focusing on statistical modeling and large language models for fine-grained, emotion-aware sentiment analysis.
-  </div>
-</div>
-
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/lixia_chen_wu.png" alt="Lixia Chen Wu" style="width: 80px; margin-right: 20px;">
   <div>
    <strong>Lixia Chen Wu</strong>, BA  <br/> 
@@ -85,11 +67,13 @@ title: "People"
 </div>
 
 
-
-
 ### Alumni
 
-**Xinyi Shang**, MSc. (Y2023-2025, Theory and Methods track). [Chair's Award for Outstanding Master's Student](https://www.publichealth.columbia.edu/file/17750/download?token=1syJuaxU).  PhD student at UMass Amherst.
+**Won Eui Hong**, Ph.D. (Y2024-2026), current postdoc at Columbia University. <br/>
+
+**Qinyu Xiong**, MSc.  (Y2024-2026, Advanced Machine Learning track). <br/>
+
+**Xinyi Shang**, MSc. (Y2023-2025, Theory and Methods track). [Chair's Award for Outstanding Master's Student](https://www.publichealth.columbia.edu/file/17750/download?token=1syJuaxU).  PhD student at UMass Amherst. <br/>
 
 **Aiying Huang**, MSc. (Y2023-2025, Public Health Data Science track). <br/>
 
