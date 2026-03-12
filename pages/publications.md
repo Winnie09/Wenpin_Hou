@@ -31,7 +31,7 @@ Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq 
 
 - Huang, X., **<u>Liu, Q.</u>**, **<u>Zhao, Y.</u>**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2025. 
 MethylProphet: A Generalized Gene-Contextual Model for Inferring
-Whole-Genome DNA Methylation Landscape. [bioRxiv, 2025 February 8](https://www.biorxiv.org/content/10.1101/2025.02.05.636730v1). Model: [Methylprophet](https://github.com/xk-huang/methylprophet/).  Accepted by [ICLR 2026](https://iclr.cc/).
+Whole-Genome DNA Methylation Landscape. Model: [Methylprophet](https://github.com/xk-huang/methylprophet/).  Accepted by [ICLR 2026](https://iclr.cc/). [OpenReview](https://openreview.net/forum?id=8wQ7Oc08vo).
 
 - **<u>Shang, X.</u>**, **<u>Liao, X.</u>**, Ji, Z. and **Hou, W.**\*, 2025. 
 Benchmarking large language models for genomic knowledge with GeneTuring. [Briefings in Bioinformatics, 26(5), 2025, bbaf492](https://academic.oup.com/bib/article/26/5/bbaf492/8261762?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email). Software (GPT-s App): [SeqSnap](https://chatgpt.com/g/g-67c52efdc210819190a9532f264ec9c0-seqsnap). 
@@ -45,9 +45,10 @@ Programmers for Generating Programming Code.  [Advanced Science, 30 December 202
 
 - **Hou, W.**\* and Ji, Z.\*, 2024. 
 Assessing GPT-4 for cell type annotation in single-cell RNA-seq analysis. [Nature Methods, 2024 March 25](https://link.springer.com/article/10.1038/s41592-024-02235-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240325&utm_content=10.1038/s41592-024-02235-4). [Software package: GPTCelltype](https://winnie09.github.io/Wenpin_Hou/pages/gptcelltype.html). 
-	- <small> Note 1: Featured in [Columbia News Spotlight](https://us7.campaign-archive.com/?e=__test_email__&u=cc26d8788ee7d6f98dd0af14e&id=6dd610b0a9), [Columbia MSPH News](https://www.publichealth.columbia.edu/news/gpt-4-ai-outperforms-experts-identification-cell-types?utm_source=newsletter&utm_medium=email&utm_campaign=040124spotlight), [Science Daily](https://www.sciencedaily.com/releases/2024/03/240325172422.htm), [The Medical News](https://www.news-medical.net/news/20240326/GPT-4-shows-expert-level-accuracy-in-annotating-cell-types.aspx), [Health Tech World](https://www.htworld.co.uk/news/gpt-4-for-identifying-cell-types-in-single-cells-matches/), and 6 other news outlets.  </small>
+	- <small> Note 1: Featured in 11 news outlets, such as [Columbia News Spotlight](https://us7.campaign-archive.com/?e=__test_email__&u=cc26d8788ee7d6f98dd0af14e&id=6dd610b0a9), [Columbia MSPH News](https://www.publichealth.columbia.edu/news/gpt-4-ai-outperforms-experts-identification-cell-types?utm_source=newsletter&utm_medium=email&utm_campaign=040124spotlight), [Science Daily](https://www.sciencedaily.com/releases/2024/03/240325172422.htm), [The Medical News](https://www.news-medical.net/news/20240326/GPT-4-shows-expert-level-accuracy-in-annotating-cell-types.aspx), [Health Tech World](https://www.htworld.co.uk/news/gpt-4-for-identifying-cell-types-in-single-cells-matches/), etc. </small>
 	- <small> Note 2: Reviewed in Nature Methods [Embedding AI in biology](https://www.nature.com/articles/s41592-024-02391-7) and [Toward learning a foundational representation of cells and genes](https://www.nature.com/articles/s41592-024-02367-7).</small>
-	- <small> Note 3:  As of May/June 2024 , this highly cited paper received enough citations to place it in the **top 1%** of the academic field of Biology & Biochemistry based on a highly cited threshold for the field and publication year. With the Altmetric Attention Score 284, it ranked the top #1 when comparing to 75 others from the same source and published within six weeks.. </small>
+	- <small> Note 3:  As of May/June 2024 , this highly cited paper received enough citations to place it in the **top 1%** of the academic field of Biology & Biochemistry based on a highly cited threshold for the field and publication year. 
+	- <small> Note 4: As of March 2026, with the **Altmetric Attention Score 292**, this article is in the 99th percentile (ranked 2,136th) of the 363,987 tracked articles of a similar age in all journals and the 97th percentile (ranked 2nd) of the 99 tracked articles of a similar age in *Nature Methods*.
 	
 ##### Single-cell genomics: temporal and spatial patterns
 
