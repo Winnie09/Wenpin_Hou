@@ -6,7 +6,7 @@ title: Publications
 <!--Key publications are described in more detail on the [Research](research.html) page.--> 
 For a complete list of publications, see also [Google Scholar](https://scholar.google.com.hk/citations?user=1wVQpBUAAAAJ&hl=en).
 
-<small><em>Symbols indicate mentees (<u>&nbsp;&nbsp;&nbsp;&nbsp;</u>), and senior authors (<strong>*</strong>).</em></small>
+<small><em>Symbols indicate mentees (<u>&nbsp;&nbsp;&nbsp;&nbsp;</u>),  senior authors (<strong>*</strong>), and contributed equally (<strong>\dag</strong>).</em></small>
 
 
 ### Preprint 
@@ -29,7 +29,7 @@ Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq 
 
 ##### GPT models in genomics, epigenomics, biomedical imaging, and programming
 
-- Huang, X., **<u>Liu, Q.</u>**, **<u>Zhao, Y.</u>**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2025. 
+- Huang, X.\dag, **<u>Liu, Q.</u>**\dag, **<u>Zhao, Y.</u>**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2025. 
 MethylProphet: A Generalized Gene-Contextual Model for Inferring
 Whole-Genome DNA Methylation Landscape. Model: [Methylprophet](https://github.com/xk-huang/methylprophet/).  Accepted by [ICLR 2026](https://iclr.cc/). [OpenReview](https://openreview.net/forum?id=8wQ7Oc08vo).
 
