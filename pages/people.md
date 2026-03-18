@@ -39,6 +39,14 @@ title: "People"
   </div>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="../images/Haotian_Zhuang.jpg" alt="Haotian Zhuang" style="width: 80px; margin-right: 20px;">
+  <div>
+    <strong>Haotian Zhuang</strong>, BSc. <br/>
+    <strong>PhD Student</strong> (Y2022-Present) in Biostatistics and Bioinformatics focusing on developing statistical methods and computational tools for single-cell and spatial transcriptomics data.
+  </div>
+</div>
+
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/zitao_zhang.png" alt="Zitao Zhang" style="width: 80px; margin-right: 20px;">
