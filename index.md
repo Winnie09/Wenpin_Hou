@@ -5,15 +5,18 @@ layout: page
 
 
 #### Research Interests
-As an Assistant Professor (tenure-track) in the [Department of Biostatistics and Bioinformatics](https://biostat.duke.edu/) at [Duke University](https://www.duke.edu/) [School of Medicine](https://medschool.duke.edu/), Dr. Wenpin Hou is dedicated to developing AI and statistical methods to decode gene regulatory programs from single-cell and spatial multiomics data, with the goal of characterizing developmental processes, pinpointing regulatory alterations in complex human diseases, and identifying external intervention strategies for targeted therapy. Her group focuses on developing: 
+As an Assistant Professor (tenure-track) in the [Department of Biostatistics and Bioinformatics](https://biostat.duke.edu/) at [School of Medicine](https://medschool.duke.edu/), Dr. Wenpin Hou develops AI and statistical methods to decode gene regulatory programs from single-cell and spatial multiomics data. Her research aims to characterize developmental processes, uncover regulatory alterations in complex human diseases, and identify actionable targets for therapeutic intervention.
 
-- Statistical models for studying temporal and spatial patterns in single-cell and spatial omics data
-- Computational methods to infer DNA methylation and its spatial landscape
-- Foundation models for gene regulatory activities
-- Application of Generative Pre-trained Transformer models in biomedical research (e.g. image classification, genomics Q&A)
+Her group focuses on developing:
+- Statistical models for temporal and spatial dynamics in single-cell and spatial omics data  
+- Computational methods for inferring DNA methylation and its spatial landscape  
+- Foundation models for modeling gene regulatory activity  
+- Generative pre-trained transformer approaches for biomedical applications (e.g., image analysis, genomics Q&A)
 
-Dr. Hou was an assistant professor (tenure-track) at [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) and an affiliated member of the [Data Science Institute](https://datascience.columbia.edu/people/wenpin-hou/) at [Columbia University](https://www.columbia.edu/) before joining Duke.
+Prior to joining Duke, Dr. Hou was an Assistant Professor (tenure-track) in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) and an affiliated member of the [Data Science Institute](https://datascience.columbia.edu/people/wenpin-hou/). She currently maintains an academic affiliation with Columbia.
 
+
+=====
 #### Awards and Recognition
 - [Maximizing Investigators’ Research Award (MIRA) for Early Stage Investigators](https://grants.nih.gov/grants/guide/pa-files/PAR-20-117.html) ([R35](https://reporter.nih.gov/search/Ym09DhMfd0-tUjFN97zw_w/project-details/10712174)) from [NIH/NIGMS](https://www.nigms.nih.gov/) in September 2023.
 - [NIH Pathway to Independence Award (K99/R00)](https://grants.nih.gov/grants/guide/pa-files/PA-20-188.html) from [NIH/NHGRI](https://www.genome.gov/) in March 2021.
