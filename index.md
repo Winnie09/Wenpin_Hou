@@ -34,9 +34,11 @@ If you are interested in a research position (e.g. research assistant, visiting 
 
 #### More
 
-[Columbia News about Wenpin](https://www.publichealth.columbia.edu/news/mathematician-uses-ai-find-meaning-genomic-data)
+[Columbia News about Wenpin: A Mathematician Uses AI to Find Meaning in Genomic Data](https://www.publichealth.columbia.edu/news/mathematician-uses-ai-find-meaning-genomic-data)
 
-[Wenpin was Awarded 2025 Mentor of the Year](https://www.irvinginstitute.columbia.edu/news/2025-mentor-year)
+[Columbia News about Wenpin's Work: AI Comes of Age] AI](https://www.publichealth.columbia.edu/news/ai-comes-age)
+
+[Wenpin was Awarded 2025 Mentor of the Year at Columbia University Irving Medical Center](https://www.irvinginstitute.columbia.edu/news/2025-mentor-year)
 
 ### Contact
 
