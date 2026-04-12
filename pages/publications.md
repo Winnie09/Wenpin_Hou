@@ -22,12 +22,14 @@ EpiFoundation: A Foundation Model for Single-Cell ATAC-seq via Peak-to-Gene Alig
 
 
 
-- Zhuang, H., Gai, X., Zhang, A.R., **Hou, W.**, Ji, Z., and Shi, P.\*, 2024. 
-Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity.   [bioRxiv, pp.2024-09](https://www.biorxiv.org/content/10.1101/2024.09.14.613024v1). In Journal Review.
 
 ### Published / Accepted
 
 ##### GPT models in genomics, epigenomics, biomedical imaging, and programming
+
+- Zhuang, H., Gai, X., Zhang, A.R., **Hou, W.**, Ji, Z., and Shi, P.\*, 2024. 
+Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity.   [bioRxiv, pp.2024-09](https://www.biorxiv.org/content/10.1101/2024.09.14.613024v1). Accepted by Bioinformatics. 
+
 
 - Huang, X.\dag, **<u>Liu, Q.</u>**\dag, **<u>Zhao, Y.</u>**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2025. 
 MethylProphet: A Generalized Gene-Contextual Model for Inferring
