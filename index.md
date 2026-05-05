@@ -24,7 +24,7 @@ Prior to joining Duke, Dr. Hou was an Assistant Professor (tenure-track) in the 
 Dr. Hou collaborates across diverse fields, including cancer, immunology, infectious diseases, and more. She is part of the [ENCODE4](https://www.encodeproject.org/) consortium and is contributing to single-cell analysis.
 
 #### Education and Training
-Wenpin Hou received her Ph.D. in Mathematics from [The University of Hong Kong](https://www.hku.hk/). She completed postdoctoral training at [Johns Hopkins University](https://www.jhu.edu/) across Biostatistics and Computer Science, where she developed statistical and machine learning methods for single-cell and spatial genomics, mentored by Stephanie Hicks, Hongkai Ji, and Suchi Saria.
+Dr. Hou received her Ph.D. in Mathematics from [The University of Hong Kong](https://www.hku.hk/), supported by the University Postgraduate Fellowship and Postgraduate Scholarship. She completed postdoctoral training at [Johns Hopkins University](https://www.jhu.edu/) across Biostatistics and Computer Science, mentored by faculty including Stephanie Hicks, Hongkai Ji, Andrew Feinberg, Suchi Saria, and Aravinda Chakravarti.
 She earned her B.Sc. from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/).
 
 
