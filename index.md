@@ -16,7 +16,7 @@ Her group focuses on developing:
 Prior to joining Duke, Dr. Hou was an Assistant Professor (tenure-track) in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) at [Columbia University](https://www.columbia.edu/) and an affiliated member of the [Data Science Institute](https://datascience.columbia.edu/people/wenpin-hou/). She currently maintains an academic affiliation with Columbia.
 
 #### Awards and Recognition
-- [2025 Mentor of the Year](https://www.irvinginstitute.columbia.edu/news/2025-mentor-year) at [Columbia University Irving Medical Center](https://www.cuimc.columbia.edu/)
+- [2025 Mentor of the Year](https://www.irvinginstitute.columbia.edu/news/2025-mentor-year) from [Columbia University Irving Medical Center](https://www.cuimc.columbia.edu/)  in January 2026.
 - [Maximizing Investigators’ Research Award (MIRA) for Early Stage Investigators](https://grants.nih.gov/grants/guide/pa-files/PAR-20-117.html) ([R35](https://reporter.nih.gov/search/Ym09DhMfd0-tUjFN97zw_w/project-details/10712174)) from [NIH/NIGMS](https://www.nigms.nih.gov/) in September 2023.
 - [NIH Pathway to Independence Award (K99/R00)](https://grants.nih.gov/grants/guide/pa-files/PA-20-188.html) from [NIH/NHGRI](https://www.genome.gov/) in March 2021.
 
