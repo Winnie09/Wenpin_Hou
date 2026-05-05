@@ -83,6 +83,9 @@ Comparative analysis of gene regulation in single cells using Compass. [Cell Rep
 
 **New scientific findings**
 
+- Li, W., Eckhardt, C.M., Kalia, V., Laurent, L.C., Brennan, K., **Hou, W.**, Yuan, Y., Long, P., Guo, H., Schwartz, J.D., Wu, T., Baccarelli, A.A. and Wu, H. 2026. Circulating extracellular microRNAs as tissue-specific biomarkers of human health and disease. 
+[Nature Communications, 28 April 2026](https://www.nature.com/articles/s41467-026-72578-3). 
+
 - Lo, E.K., Idrizi, A., Tryggvadottir, R., Zhou, W., **Hou, W.**, Ji, H., Cahan, P. and Feinberg, A.P., 2025. 
 DNA methylation memory of pancreatic acinar-ductal metaplasia transition state altering Kras-downstream PI3K and Rho GTPase signaling in the absence of Kras mutation. [Genome Medicine, 17(1), p.32](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-025-01452-6).
 
@@ -97,6 +100,7 @@ Lung tumor–infiltrating Treg have divergent transcriptional profiles and funct
 
 - Caushi, J.X., Zhang, J.,  Ji, Z., Vaghasia, A., Zhang, B., Hsiue, E., Mog, B., **Hou, W.**, Justesen, S., Blosser, R., Tam, A., Anagnostou, V., Cottrell, T.R., Guo, H., Chan, H.,  Singh, D., Thapa, S., Dykema, A., Choudhury, C., Aparicio, L., Cheung, L., Lanis, M., Belcaid, Z., Asmar, M.E., Illei, P.,  Brock, M., Ha, J., Bush, E., Park, B.,  Bott, M.,  Naidoo, J., Marrone, K.A., Reuss, J.E., Velculescu, V.E., Chaft, J.E., Kinzler, K.W., Zhou, S., Vogelstein, B., Taube, J.M., Merghoub, T., Brahmer, J.R., Hellmann, M.D., Forde, P.M., Yegnasubramanian, S.\*, Ji, H.\*, Pardoll, D.M.\*,  Smith, K.N.\*, 2021. 
 Transcriptional programs of neoantigen-specific TIL in anti-PD-1-treated lung cancers. [*Nature*, July 21, 2021](https://www.nature.com/articles/s41586-021-03752-4#citeas). PMID: 34290408 PMCID: PMC8338555.
+
 
 ##### Boolean networks
 - **Hou, W.**, Ruan, P., Ching, W.K. and Akutsu, T.\*, 2019. 
