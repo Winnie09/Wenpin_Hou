@@ -43,10 +43,17 @@ title: "People"
   <img src="../images/Haotian_Zhuang.jpg" alt="Haotian Zhuang" style="width: 80px; margin-right: 20px;">
   <div>
     <strong>Haotian Zhuang</strong>, BSc. <br/>
-    <strong>PhD Student</strong> (Y2022-Present) in Biostatistics and Bioinformatics focusing on developing statistical methods and computational tools for single-cell and spatial transcriptomics data.
+    <strong>PhD Student</strong> (Y2022-Present) in Biostatistics and Bioinformatics focusing on developing foundation models for the analysis of single-cell immune profiling data.
   </div>
 </div>
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="../images/xingyuan_zhang.jpg" alt="Xingyuan Zhang" style="width: 80px; margin-right: 20px;">
+  <div>
+    <strong>Xingyuan Zhang</strong>, BSc. <br/>
+    <strong>PhD Student</strong> (Y2024-Present) in Biostatistics and Bioinformatics focusing on developing AI and deep learning methods for single-cell and spatial omics data. 
+  </div>
+</div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/zitao_zhang.png" alt="Zitao Zhang" style="width: 80px; margin-right: 20px;">
