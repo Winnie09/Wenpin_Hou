@@ -30,14 +30,14 @@ EpiFoundation: A Foundation Model for Single-Cell ATAC-seq via Peak-to-Gene Alig
 - Zhuang, H., Gai, X., Zhang, A.R., **Hou, W.**, Ji, Z., and Shi, P.\*, 2026. 
 Trajectory-guided dimensionality reduction for multi-sample single-cell rna-seq data reveals biologically relevant sample-level heterogeneity. [Bioinformatics, p.btag192](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag192/8661458?guestAccessKey=).
 
-- Huang, X. &#x2020;, **<u>Liu, Q.</u>** &#x2020;, **<u>Zhao, Y.</u>**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2025. 
+- Huang, X. &#x2020;, **<u>Liu, Q.</u>** &#x2020;, **<u>Zhao, Y.</u>**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2026. 
 MethylProphet: A Generalized Gene-Contextual Model for Inferring
 Whole-Genome DNA Methylation Landscape. Model: [Methylprophet](https://github.com/xk-huang/methylprophet/).  Accepted by [ICLR 2026](https://iclr.cc/). [OpenReview](https://openreview.net/forum?id=8wQ7Oc08vo).
 
 - **<u>Shang, X.</u>**, **<u>Liao, X.</u>**, Ji, Z. and **Hou, W.**\*, 2025. 
 Benchmarking large language models for genomic knowledge with GeneTuring. [Briefings in Bioinformatics, 26(5), 2025, bbaf492](https://academic.oup.com/bib/article/26/5/bbaf492/8261762?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email). Software (GPT-s App): [SeqSnap](https://chatgpt.com/g/g-67c52efdc210819190a9532f264ec9c0-seqsnap). 
 
-- **Hou, W.**\*, **<u>Liu, Q.</u>**, Ma, H., Qu, Y., and Ji, Z.\*, 2024. 
+- **Hou, W.**\*, **<u>Liu, Q.</u>**, Ma, H., Qu, Y., and Ji, Z.\*, 2025. 
 Assessing large multimodal models for one-shot learning and interpretability in biomedical image classification.   [Advanced Intelligent Systems, April 6, 2025](https://advanced.onlinelibrary.wiley.com/doi/10.1002/aisy.202400947). 
 
 - **Hou, W.**\*, and Ji, Z.\*, 2024. 
