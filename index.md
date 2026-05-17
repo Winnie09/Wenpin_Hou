@@ -24,8 +24,8 @@ Prior to joining Duke, Dr. Hou was an Assistant Professor (tenure-track) in the 
 Dr. Hou collaborates across diverse fields, including cancer, immunology, infectious diseases, and more. She is part of the [ENCODE4](https://www.encodeproject.org/) consortium and is contributing to single-cell analysis.
 
 #### Education and Training
-Dr. Hou received her Ph.D. in Mathematics from [The University of Hong Kong](https://www.hku.hk/), supported by the University Postgraduate Fellowship and Postgraduate Scholarship. She completed postdoctoral training at [Johns Hopkins University](https://www.jhu.edu/) across Biostatistics and Computer Science, mentored by faculty including Stephanie Hicks, Hongkai Ji, Andrew Feinberg, Suchi Saria, and Aravinda Chakravarti.
-She earned her B.Sc. from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/).
+Dr. Hou received her Ph.D. in Mathematics from [The University of Hong Kong](https://www.hku.hk/) in 2017, supported by the University Postgraduate Fellowship and Postgraduate Scholarship. She completed postdoctoral training at [Johns Hopkins University](https://www.jhu.edu/) across Biostatistics and Computer Science in 2022, mentored by faculty including Stephanie Hicks, Hongkai Ji, Andrew Feinberg, Suchi Saria, and Aravinda Chakravarti.
+She earned her B.Sc. from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2013.
 
 
 #### For Prospective Students
