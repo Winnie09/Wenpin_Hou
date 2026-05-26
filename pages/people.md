@@ -55,14 +55,6 @@ title: "People"
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/zitao_zhang.png" alt="Zitao Zhang" style="width: 80px; margin-right: 20px;">
-  <div>
-   <strong>Zitao Zhang</strong>, BSc.  <strong>[Research Internship Program, GEMS, at MSK]</strong> <br/> 
-    <strong>MSc Student </strong> (Y2024-2026, Theory and Methods track) in Biostatistics, focusing on modelling the temporal gene expression using single-cell RNA sequencing data and its applications in cancer immunotherapy.
-  </div>
-</div>
-
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/xun_sun.png" alt="Xun Sun" style="width: 80px; margin-right: 20px;">
@@ -83,6 +75,8 @@ title: "People"
 
 
 ### Alumni
+
+**Zitao Zhang**, MSc. (Y2024-2026), research internship program at MSK GEMS. <br/> 
 
 **Won Eui Hong**, Ph.D. (Y2024-2026), current postdoc at Columbia University. <br/>
 
