@@ -76,7 +76,7 @@ title: "People"
 
 ### Alumni
 
-**Matthew D. Eichner**, BSc. (Y2024-2026) BEST/SIBS 2024 alumni. PhD student at UC Berkeley. <br/> 
+**Matthew D. Eichner**, BSc. (Y2024-2025) BEST/SIBS 2024 alumni. PhD student at UC Berkeley. <br/> 
 
 **Zitao Zhang**, MSc. (Y2024-2026), research internship program at MSK GEMS. <br/> 
 
