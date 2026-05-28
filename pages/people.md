@@ -76,6 +76,8 @@ title: "People"
 
 ### Alumni
 
+**Matthew D. Eichner**, BSc. (Y2024-2026) BEST/SIBS 2024 alumni. PhD student at UC Berkeley. <br/> 
+
 **Zitao Zhang**, MSc. (Y2024-2026), research internship program at MSK GEMS. <br/> 
 
 **Won Eui Hong**, Ph.D. (Y2024-2026), current postdoc at Columbia University. <br/>
