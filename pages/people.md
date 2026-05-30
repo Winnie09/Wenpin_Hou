@@ -56,14 +56,6 @@ title: "People"
 </div>
 
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/xun_sun.png" alt="Xun Sun" style="width: 80px; margin-right: 20px;">
-  <div>
-   <strong>Xun Sun</strong>, BSc.  <br/> 
-    <strong>MSc Student </strong> (Y2024-2026, Public Health Data Science track) in Biostatistics, focusing on deep learning and large language models for emotion-aware natural language processing.
-  </div>
-</div>
-
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <img src="../images/lixia_chen_wu.png" alt="Lixia Chen Wu" style="width: 80px; margin-right: 20px;">
