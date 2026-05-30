@@ -5,15 +5,16 @@ layout: page
 
 
 #### Research Interests
-As an Assistant Professor (tenure-track) in the [Department of Biostatistics and Bioinformatics](https://biostat.duke.edu/) at [Duke University](https://www.duke.edu/) [School of Medicine](https://medschool.duke.edu/), Dr. Wenpin Hou develops AI and statistical methods to decode gene regulatory programs from single-cell and spatial multiomics data. Her research aims to characterize developmental processes, uncover regulatory alterations in complex human diseases, and identify actionable targets for therapeutic intervention.
+
+Dr. Wenpin Hou is an Assistant Professor (tenure-track) in the [Department of Biostatistics and Bioinformatics](https://biostat.duke.edu/) at the [Duke University](https://www.duke.edu/) [School of Medicine](https://medschool.duke.edu/), and an affiliated member of the [New York Genome Center (NYGC)](https://www.nygenome.org/). To support ongoing research initiatives, she maintains an appointment as a tenure-track Assistant Professor (on research leave) in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) at [Columbia University](https://www.columbia.edu/), where she remains an affiliated member of the [Data Science Institute](https://datascience.columbia.edu/people/wenpin-hou/).
+
+Dr. Hou engineers domain-specific AI models and mechanistic statistical frameworks to resolve the intricate, cell-state-specific logic of gene regulatory programs. By reconstructing high-dimensional spatiotemporal profiles from multiomics data, her group models system-level regulatory dynamics across diverse tissues and clinical conditions, charting programmatic regulatory changes in human diseases to identify actionable interventions.
 
 Her group focuses on developing:
 - Statistical models for temporal and spatial dynamics in single-cell and spatial omics data  
 - Computational methods for inferring DNA methylation and its spatial landscape  
 - Foundation models for modeling gene regulatory activity  
-- Generative pre-trained transformer approaches for biomedical applications (e.g., image analysis, genomics Q&A)
-
-Prior to joining Duke, Dr. Hou was an Assistant Professor (tenure-track) in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) at [Columbia University](https://www.columbia.edu/) and an affiliated member of the [Data Science Institute](https://datascience.columbia.edu/people/wenpin-hou/). She currently maintains an academic affiliation with Columbia.
+- Generative pre-trained transformer approaches for biomedical applications (e.g., single-cell annotation, image analysis, genomics Q&A)
 
 #### Awards and Recognition
 - [2025 Mentor of the Year](https://www.irvinginstitute.columbia.edu/news/2025-mentor-year) from [Columbia University Irving Medical Center](https://www.cuimc.columbia.edu/)  in January 2026.
@@ -21,27 +22,25 @@ Prior to joining Duke, Dr. Hou was an Assistant Professor (tenure-track) in the 
 - [NIH Pathway to Independence Award (K99/R00)](https://grants.nih.gov/grants/guide/pa-files/PA-20-188.html) from [NIH/NHGRI](https://www.genome.gov/) in March 2021.
 
 #### Collaborations
-Dr. Hou collaborates across diverse fields, including cancer, immunology, infectious diseases, and more. She is part of the [ENCODE4](https://www.encodeproject.org/) consortium and is contributing to single-cell analysis.
+Dr. Hou collaborates across diverse fields, including cancer, immunology, infectious diseases, and more. She is a member of the [ENCODE4](https://www.encodeproject.org/) consortium, contributing to advanced single-cell genomic analysis.
 
 #### Education and Training
-Dr. Hou received her Ph.D. in Mathematics from [The University of Hong Kong](https://www.hku.hk/) in 2017, supported by the University Postgraduate Fellowship and Postgraduate Scholarship. She completed postdoctoral training at [Johns Hopkins University](https://www.jhu.edu/) across Biostatistics and Computer Science in 2022, mentored by faculty including Stephanie Hicks, Hongkai Ji, Andrew Feinberg, Suchi Saria, and Aravinda Chakravarti.
-She earned her B.Sc. from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2013.
+Dr. Hou received her Ph.D. in Mathematics from [The University of Hong Kong](https://www.hku.hk/) in 2017, mentored by Prof. Wai-Ki Ching and supported by the University Postgraduate Fellowship and Postgraduate Scholarship. She completed postdoctoral training at [Johns Hopkins University](https://www.jhu.edu/) across Biostatistics and Computer Science in 2022, mentored by faculty including Prof. Stephanie Hicks, Hongkai Ji, Andrew Feinberg, Suchi Saria, and Aravinda Chakravarti.
+She earned her B.Sc. in Computational Mathematics from [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2013.
 
 
 #### For Prospective Students
 
-She is currently seeking **PhD students** eager to contribute to innovative research projects on genomics. If you are interested, please directly apply and list her name as your preferred mentor.  All applications will be reviewed. You will be invited for an interview if the committee thinks you could be a good fit for the department's program. 
+She is currently seeking **PhD students** eager to contribute to innovative research projects on genomics. Please directly apply through the PhD program and and list her name as your preferred mentor.  
 
-If you are interested in a research position (e.g. research assistant, visiting student, practicum), please send her your CV and research interest. 
+If you are interested in a research position (e.g. research assistant, visiting student, practicum), please send her your CV. 
+
+#### News & Media
+- *Columbia News:* [A Mathematician Uses AI to Find Meaning in Genomic Data](https://www.publichealth.columbia.edu/news/mathematician-uses-ai-find-meaning-genomic-data)
+- *Columbia News:* [AI Comes of Age: Transforming Public Health Research](https://www.publichealth.columbia.edu/news/ai-comes-age)
+- *Announcements:* [Wenpin Hou Awarded 2025 Mentor of the Year at Columbia University Irving Medical Center](https://www.irvinginstitute.columbia.edu/news/2025-mentor-year)
 
 
-#### More
-
-[Columbia News about Wenpin: A Mathematician Uses AI to Find Meaning in Genomic Data](https://www.publichealth.columbia.edu/news/mathematician-uses-ai-find-meaning-genomic-data)
-
-[Columbia News about Wenpin's Work: AI Comes of Age](https://www.publichealth.columbia.edu/news/ai-comes-age)
-
-[Wenpin was Awarded 2025 Mentor of the Year at Columbia University Irving Medical Center](https://www.irvinginstitute.columbia.edu/news/2025-mentor-year)
 
 ### Contact
 
