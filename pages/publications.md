@@ -32,7 +32,7 @@ Trajectory-guided dimensionality reduction for multi-sample single-cell rna-seq 
 
 - Huang, X. &#x2020;, **<u>Liu, Q.</u>** &#x2020;, **<u>Zhao, Y.</u>**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2026. 
 MethylProphet: A Generalized Gene-Contextual Model for Inferring
-Whole-Genome DNA Methylation Landscape. Model: [Methylprophet](https://github.com/xk-huang/methylprophet/).  Accepted by [ICLR 2026](https://iclr.cc/). [OpenReview](https://openreview.net/forum?id=8wQ7Oc08vo).
+Whole-Genome DNA Methylation Landscape. Model: [Methylprophet](https://github.com/xk-huang/methylprophet/).  Accepted by [ICLR 2026](https://openreview.net/forum?id=8wQ7Oc08vo).
 
 - **<u>Shang, X.</u>**, **<u>Liao, X.</u>**, Ji, Z. and **Hou, W.**\*, 2025. 
 Benchmarking large language models for genomic knowledge with GeneTuring. [Briefings in Bioinformatics, 26(5), 2025, bbaf492](https://academic.oup.com/bib/article/26/5/bbaf492/8261762?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email). Software (GPT-s App): [SeqSnap](https://chatgpt.com/g/g-67c52efdc210819190a9532f264ec9c0-seqsnap). 
@@ -146,12 +146,3 @@ In-utero co-exposure to toxic metals and micronutrients on childhood risk of ove
 - Ji, Y., Azuine, R.E., Zhang, Y., **Hou, W.**, Hong, X., Wang, G., Riley, A., Pearson, C., Zuckerman, B. and Wang, X.\*, 2019. 
 Association of cord plasma biomarkers of in utero acetaminophen exposure with risk of attention-deficit/hyperactivity disorder and autism spectrum disorder in childhood. [*JAMA Psychiatry*, pp.1-11](https://jamanetwork.com/journals/jamapsychiatry/article-abstract/2753512). doi: 10.1001/jamapsychiatry.2019.3259. Featured in  [NIH news](https://www.nih.gov/news-events/news-releases/nih-funded-study-suggests-acetaminophen-exposure-pregnancy-linked-higher-risk-adhd-autism), [Reuters health](https://www.reuters.com/article/us-health-pregnancy-acetaminophen/babies-at-higher-risk-for-adhd-autism-if-pregnant-moms-took-acetaminophen-idUSKBN1X920J?fbclid=IwAR3T4phyb6Fu4F9zQVNL4EWgET04m4ITHD6S1R8eZkvj2j3TBIPJZSpYqf0), [MedPage Today](https://www.medpagetoday.com/obgyn/pregnancy/83040), [meaww](https://meaww.com/taking-pain-relief-drug-acetaminophen-pregnancy-risk-autism-adhd-study), [LinksMedicus](https://linksmedicus.com/news/study-utero-acetaminophen-exposure-linked-increased-risk-adhd-autism-spectrum-disorder-childhood/), [TechnologyNetworks](https://www.technologynetworks.com/drug-discovery/news/paracetamol-during-pregnancy-could-be-linked-to-increased-risk-of-adhd-and-autism-326647).
 
-### Posters
-
-- A computational framework for differential pseudotime analysis across conditions with multiple single-cell RNA-seq samples reveals T cell immune dynamics associated with COVID-19 disease severity, [CSHL Systems Immunology 2021](https://meetings.cshl.edu/meetings.aspx?meet=SYSIMM&year=21), Virtual, Apr 20 - 23, 2021.
-
-- A systematic evaluation of single-cell RNA-seq imputation methods, [13th Annual Symposium and Poster Session on Genomics and Bioinformatics](http://genomics.jhu.edu/symposium.html), Johns Hopkins University, Baltimore, USA, Oct 17, 2019. (**first-place winning poster**)
-
-- Causal gene regulatory network construction using single-cell RNA-seq and single-cell ATAC-seq data, [11th annual RECOMB/ISCB Conference on Regulatory & Systems Genomics  with DREAM Challenges](https://www.iscb.org/recomb-regsysgen2018), New York University, New York, USA, Dec 8-10, 2018.
-
-- On orthogonal feature extraction model with applications in cancer prediction, University of Cadiz, Cadiz, Spain, May 18, 2016.
