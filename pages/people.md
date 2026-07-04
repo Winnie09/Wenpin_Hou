@@ -65,7 +65,7 @@ title: "People"
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/Charlotte_Zhang.jpeg" alt="Charlotte Zhang" style="width: 80px; margin-right: 20px;">
+  <img src="../images/Charlotte_Zhang.png" alt="Charlotte Zhang" style="width: 80px; margin-right: 20px;">
   <div>
    <strong>Charlotte Zhang</strong>, BA.  <br/> 
     <strong> MSc Student </strong> (Y2025-2027, Columbia's Biostatistics) focusing on computational epigenomics and multi-omics integration, with interests in machine learning for genomics and biomedical data science. 
