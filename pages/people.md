@@ -34,7 +34,7 @@ title: "People"
   <img src="../images/chhiring.png" alt="Aiying Huang" style="width: 80px; margin-right: 20px;">
   <div>
     <strong>Chhiring Y. Lama</strong>, BSc. <br/>
-    <strong>PhD Student</strong> (Y2024-Present, Columbia's Biostatistics) focusing on developing statistical and mathematical framework for analyzing genetic and genomic data. Previously, she was a Computational Research Technician at Weill Cornell Medicine, analyzing scMultiomic data to study genotype–phenotype relationships in myeloproliferative neoplasm and classic Hodgkin lymphoma. 
+    <strong>PhD Student</strong> (Y2024-Present, Biostatistics) focusing on developing statistical and mathematical framework for analyzing genetic and genomic data. Previously, she was a Computational Research Technician at Weill Cornell Medicine, analyzing scMultiomic data to study genotype–phenotype relationships in myeloproliferative neoplasm and classic Hodgkin lymphoma. 
   </div>
 </div>
 
@@ -42,7 +42,7 @@ title: "People"
   <img src="../images/Haotian_Zhuang.jpg" alt="Haotian Zhuang" style="width: 80px; margin-right: 20px;">
   <div>
     <strong>Haotian Zhuang</strong>, BSc. <br/>
-    <strong>PhD Student</strong> (Y2022-Present, Duke's Biostatistics and Bioinformatics) focusing on developing foundation models for the analysis of single-cell immune profiling data.
+    <strong>PhD Student</strong> (Y2022-Present, Biostatistics and Bioinformatics) focusing on developing foundation models for the analysis of single-cell immune profiling data.
   </div>
 </div>
 
@@ -50,7 +50,7 @@ title: "People"
   <img src="../images/xingyuan_zhang.jpg" alt="Xingyuan Zhang" style="width: 80px; margin-right: 20px;">
   <div>
     <strong>Xingyuan Zhang</strong>, BSc. <br/>
-    <strong>PhD Student</strong> (Y2024-Present, Duke's Biostatistics and Bioinformatics) focusing on developing AI and deep learning methods for single-cell and spatial omics data. 
+    <strong>PhD Student</strong> (Y2024-Present, Biostatistics and Bioinformatics) focusing on developing AI and deep learning methods for single-cell and spatial omics data. 
   </div>
 </div>
 
@@ -59,7 +59,7 @@ title: "People"
   <img src="../images/lixia_chen_wu.png" alt="Lixia Chen Wu" style="width: 80px; margin-right: 20px;">
   <div>
    <strong>Lixia Chen Wu</strong>, BA  <br/> 
-    <strong> MSc student </strong> (Y2024–2026, Columbia's Computer Science), focusing on integrating deep learning models with single-cell and spatial multi-omics data for genomic analyses and disease biomarker discovery.
+    <strong> MSc student </strong> (Y2024–2026, Computer Science), focusing on integrating deep learning models with single-cell and spatial multi-omics data for genomic analyses and disease biomarker discovery.
   </div>
 </div>
 
@@ -68,7 +68,7 @@ title: "People"
   <img src="../images/Charlotte_Zhang.png" alt="Charlotte Zhang" style="width: 80px; margin-right: 20px;">
   <div>
    <strong>Charlotte Zhang</strong>, BA.  <br/> 
-    <strong> MSc Student </strong> (Y2025-2027, Columbia's Biostatistics) focusing on computational epigenomics and multi-omics integration, with interests in machine learning for genomics and biomedical data science. 
+    <strong> MSc Student </strong> (Y2025-2027, Biostatistics) focusing on computational epigenomics and multi-omics integration, with interests in machine learning for genomics and biomedical data science. 
   </div>
 </div>
 
