@@ -43,7 +43,7 @@ title: "People"
   <img src="../images/Haotian_Zhuang.jpg" alt="Haotian Zhuang" style="width: 80px; margin-right: 20px;">
   <div>
     <strong>Haotian Zhuang</strong>, BSc. <br/>
-    <strong>PhD Student</strong> (Y2026-Present) in Biostatistics and Bioinformatics focusing on developing foundation models for the analysis of single-cell immune profiling data.
+    <strong>PhD Student</strong> (Y2022-Present) in Biostatistics and Bioinformatics focusing on developing foundation models for the analysis of single-cell immune profiling data.
   </div>
 </div>
 
@@ -51,10 +51,9 @@ title: "People"
   <img src="../images/xingyuan_zhang.jpg" alt="Xingyuan Zhang" style="width: 80px; margin-right: 20px;">
   <div>
     <strong>Xingyuan Zhang</strong>, BSc. <br/>
-    <strong>PhD Student</strong> (Y2026-Present) in Biostatistics and Bioinformatics focusing on developing AI and deep learning methods for single-cell and spatial omics data. 
+    <strong>PhD Student</strong> (Y2024-Present) in Biostatistics and Bioinformatics focusing on developing AI and deep learning methods for single-cell and spatial omics data. 
   </div>
 </div>
-
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -67,10 +66,10 @@ title: "People"
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="../images/Charlotte_Zhang.jpeg" alt="Lixia Chen Wu" style="width: 80px; margin-right: 20px;">
+  <img src="../images/Charlotte_Zhang.jpeg" alt="Charlotte Zhang" style="width: 80px; margin-right: 20px;">
   <div>
-   <strong> Charlotte Zhang </strong>, BA.  <br/> 
-    <strong> MSc Student (Y2025-2027, Theory and Method Track) in Biostatistics focusing on computational epigenomics and multi-omics integration, with interests in machine learning for genomics and biomedical data science. 
+   <strong>Charlotte Zhang</strong>, BA.  <br/> 
+    <strong> MSc Student </strong> (Y2025-2027, Theory and Method Track) in Biostatistics focusing on computational epigenomics and multi-omics integration, with interests in machine learning for genomics and biomedical data science. 
   </div>
 </div>
 
