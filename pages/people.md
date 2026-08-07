@@ -16,7 +16,7 @@ title: "People"
   <img src="../images/qi_liu.jpg" alt="Qi Liu" style="width: 80px; margin-right: 20px;">
   <div style="line-height: 1.3;">
     <span style="font-size: 1.1em;"><strong>Qi Liu</strong>, Ph.D.</span>
-    <p style="margin: 2px 0 0 0;"><strong>Postdoctoral Research Scientist</strong> focusing on developing AI applications for healthcare and biomedical fields. Holds a Ph.D. in Electrical Engineering from City University of Hong Kong. <a href="https://www.qi-liu.com/" target="_blank">[homepage]</a></p>
+    <p style="margin: 2px 0 0 0;"><strong>Postdoctoral Research Scientist</strong> focusing on developing AI applications for healthcare and biomedical fields. She holds a Ph.D. in Electrical Engineering from City University of Hong Kong. <a href="https://www.qi-liu.com/" target="_blank">[homepage]</a></p>
   </div>
 </div>
 
@@ -28,8 +28,18 @@ title: "People"
   </div>
 </div>
 
+
 <div style="display: flex; align-items: center; margin-bottom: 12px;">
-  <img src="../images/chhiring.png" alt="Aiying Huang" style="width: 80px; margin-right: 20px;">
+  <img src="../images/tian_gan.jpg" alt="Tian Gan" style="width: 80px; margin-right: 20px;">
+  <div style="line-height: 1.3;">
+    <span style="font-size: 1.1em;"><strong>Xu Liao</strong>, Ph.D.</span>
+     <p style="margin: 2px 0 0 0;"><strong>Postdoctoral Research Scientist</strong> focusing on spatial modeling and dynamic networks. She holds a Ph.D. in Mechanical Engineering from New York University. <a href="https://scholar.google.com/citations?user=-h7GUm8AAAAJ&hl=en" target="_blank">[homepage]</a></p>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; margin-bottom: 12px;">
+  <img src="../images/chhiring.png" alt="Chhiring" style="width: 80px; margin-right: 20px;">
   <div style="line-height: 1.3;">
     <span style="font-size: 1.1em;"><strong>Chhiring Y. Lama</strong>, BSc.</span>
     <p style="margin: 2px 0 0 0;"><strong>PhD Student</strong> (Y2024-Present, Biostatistics) focusing on developing statistical and mathematical framework for analyzing genetic and genomic data. Previously, she was a Computational Research Technician at Weill Cornell Medicine, analyzing scMultiomic data to study genotype–phenotype relationships in myeloproliferative neoplasm and classic Hodgkin lymphoma.</p>
