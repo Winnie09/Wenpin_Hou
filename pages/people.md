@@ -30,9 +30,9 @@ title: "People"
 
 
 <div style="display: flex; align-items: center; margin-bottom: 12px;">
-  <img src="../images/tian_gan.jpg" alt="Tian Gan" style="width: 80px; margin-right: 20px;">
+  <img src="../images/tian_gan.png" alt="Tian Gan" style="width: 80px; margin-right: 20px;">
   <div style="line-height: 1.3;">
-    <span style="font-size: 1.1em;"><strong>Xu Liao</strong>, Ph.D.</span>
+    <span style="font-size: 1.1em;"><strong>Tian Gan</strong>, Ph.D.</span>
      <p style="margin: 2px 0 0 0;"><strong>Postdoctoral Research Scientist</strong> focusing on spatial modeling and dynamic networks. She holds a Ph.D. in Mechanical Engineering from New York University. <a href="https://scholar.google.com/citations?user=-h7GUm8AAAAJ&hl=en" target="_blank">[homepage]</a></p>
   </div>
 </div>
