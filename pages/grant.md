@@ -5,7 +5,7 @@ title: Grant
 
 We greatly appreciate the support from the following funding sources for our projects.
 
-**[Duke University — Faculty Start-up Research Support](https://medschool.duke.edu/research?utm_source=chatgpt.com)**, 1/2026 - Present
+**[Faculty Start-up Research Support](https://medschool.duke.edu/research?utm_source=chatgpt.com)**, Duke University, 1/2026 - Present
 
 * Role: Principal Investigator 
 
@@ -22,7 +22,7 @@ We greatly appreciate the support from the following funding sources for our pro
 
 * Role: Principal Investigator 
 
-**[Columbia University — Faculty Start-up Research Support](https://research.columbia.edu/?utm_source=chatgpt.com)**, 7/2022 - Present
+**[Faculty Start-up Research Support](https://research.columbia.edu/?utm_source=chatgpt.com)**, Columbia University, 7/2022 - Present
 
 * Role: Principal Investigator 
 
