@@ -5,6 +5,10 @@ title: Grant
 
 We greatly appreciate the support from the following funding sources for our projects.
 
+**[Duke University — Faculty Start-up Research Support](https://medschool.duke.edu/research?utm_source=chatgpt.com)**, 1/2026 - Present
+
+* Role: Principal Investigator 
+
 **[DSI Seed Fund](https://datascience.columbia.edu/news/2025/columbias-data-science-institute-awards-seed-funding-to-pioneering-research/)**, Columbia, 7/2025-6/2026
 
 * Title: TRANSFORM-AD: A Pilot Transformer-based AI Platform for Personalized Alzheimer’s Disease Progression Forecasting and Intervention Learning
@@ -15,6 +19,10 @@ We greatly appreciate the support from the following funding sources for our pro
 **[R35GM150887](https://reporter.nih.gov/search/Ym09DhMfd0-tUjFN97zw_w/project-details/10712174)**, NIH/NIGMS, 9/2023-8/2028
 
 * Title: Methods for inferring and analyzing gene regulatory networks using single-cell multiomics and spatial genomics data 
+
+* Role: Principal Investigator 
+
+**[Columbia University — Faculty Start-up Research Support](https://research.columbia.edu/?utm_source=chatgpt.com)**, 7/2022 - Present
 
 * Role: Principal Investigator 
 
