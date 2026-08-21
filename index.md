@@ -6,15 +6,17 @@ layout: page
 
 #### Research Interests
 
-Dr. Wenpin Hou is an Assistant Professor (tenure-track) in the [Department of Biostatistics and Bioinformatics](https://biostat.duke.edu/) at the [Duke University](https://www.duke.edu/) [School of Medicine](https://medschool.duke.edu/), and an affiliated member of the [New York Genome Center (NYGC)](https://www.nygenome.org/). To support ongoing research initiatives, she maintains an appointment as a tenure-track Assistant Professor (on research leave) in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) at [Columbia University](https://www.columbia.edu/), where she remains an affiliated member of the [Data Science Institute](https://datascience.columbia.edu/people/wenpin-hou/).
+Dr. Wenpin Hou is an Assistant Professor (tenure-track) in the [Department of Biostatistics and Bioinformatics](https://biostat.duke.edu/) at the [Duke University](https://www.duke.edu/) [School of Medicine](https://medschool.duke.edu/), and an affiliated member of the [New York Genome Center (NYGC)](https://www.nygenome.org/) since 2026. 
+Since 2022, she has held a tenure-track Assistant Professor appointment in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) at [Columbia University](https://www.columbia.edu/), where she is currently on research leave and remains affiliated with the [Data Science Institute](https://datascience.columbia.edu/people/wenpin-hou/).
 
-Dr. Hou engineers domain-specific AI models and mechanistic statistical frameworks to resolve the intricate, cell-state-specific logic of gene regulatory programs. By reconstructing high-dimensional spatiotemporal profiles from multiomics data, her group models system-level regulatory dynamics across diverse tissues and clinical conditions, charting programmatic regulatory changes in human diseases to identify actionable interventions.
 
-Her group focuses on developing:
-- Statistical models for temporal and spatial dynamics in single-cell and spatial omics data  
-- Computational methods for inferring DNA methylation and its spatial landscape  
-- Foundation models for modeling gene regulatory activity  
-- Generative pre-trained transformer approaches for biomedical applications (e.g., single-cell annotation, image analysis, genomics Q&A)
+Dr. Hou's group develops generative AI, foundation models, and statistically principled machine learning methods to understand how cells behave, change, and respond to perturbations. We work at the intersection of artificial intelligence, computational biology, and statistics, with current research spanning:
+
+- Generative AI & foundation models for cells and genomic data
+- Multimodal representation learning across RNA, epigenomics, and spatial data
+- AI for perturbation modeling and prediction of cellular responses
+- Large language models and AI agents for biomedical discovery
+- Statistical learning of gene regulatory networks and cellular dynamics
 
 #### Awards and Recognition
 - [2025 Mentor of the Year](https://www.irvinginstitute.columbia.edu/news/2025-mentor-year) from [Columbia University Irving Medical Center](https://www.cuimc.columbia.edu/)  in January 2026.
@@ -31,9 +33,9 @@ She earned her B.Sc. in Computational Mathematics from [Sun Yat-sen University](
 
 #### For Prospective Students
 
-She is currently seeking **PhD students** eager to contribute to innovative research projects on genomics. Please directly apply through the PhD program and and list her name as your preferred mentor.  
 
-If you are interested in a research position (e.g. research assistant, visiting student, practicum), please send her your CV. 
+
+She is currently seeking **PhD students** eager to contribute to innovative research projects. Students from computer science, AI/ML, statistics, mathematics, engineering, and computational biology backgrounds can contribute to our research. Prior genomics experience is helpful but not required for many projects. If you are interested in a research position (e.g. research assistant, visiting student, practicum), please send her your CV. 
 
 #### News & Media
 - *Columbia News:* [A Mathematician Uses AI to Find Meaning in Genomic Data](https://www.publichealth.columbia.edu/news/mathematician-uses-ai-find-meaning-genomic-data)
