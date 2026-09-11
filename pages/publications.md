@@ -32,7 +32,7 @@ Trajectory-guided dimensionality reduction for multi-sample single-cell rna-seq 
 
 - Huang, X. &#x2020;, **<u>Liu, Q.</u>** &#x2020;, **<u>Zhao, Y.</u>**, Tang, X., Zhou, Y.\* and **Hou, W.**\*. 2026. 
 MethylProphet: A Generalized Gene-Contextual Model for Inferring
-Whole-Genome DNA Methylation Landscape. Model: [Methylprophet](https://github.com/xk-huang/methylprophet/).  Accepted by [ICLR 2026](https://openreview.net/forum?id=8wQ7Oc08vo).
+Whole-Genome DNA Methylation Landscape. Model: [Methylprophet](https://github.com/xk-huang/methylprophet/).  [ICLR 2026](https://openreview.net/pdf?id=8wQ7Oc08vo).
 
 - **<u>Shang, X.</u>**, **<u>Liao, X.</u>**, Ji, Z. and **Hou, W.**\*, 2025. 
 Benchmarking large language models for genomic knowledge with GeneTuring. [Briefings in Bioinformatics, 26(5), 2025, bbaf492](https://academic.oup.com/bib/article/26/5/bbaf492/8261762?utm_source=advanceaccess&utm_campaign=bib&utm_medium=email). Software (GPT-s App): [SeqSnap](https://chatgpt.com/g/g-67c52efdc210819190a9532f264ec9c0-seqsnap). 
