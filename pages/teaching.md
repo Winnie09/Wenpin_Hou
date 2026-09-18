@@ -3,23 +3,12 @@ layout: page
 title: Teaching
 ---
 
-**Instructor**, [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics), [Columbia University](https://www.columbia.edu/)
+
+
+**Instructor**
 
 * **Courses**
 
-   * **P8131** Biostatistical Methods II (2024 Spring, 2025 Spring)
-
-**Teaching Assistant**, [Department of Mathematics](https://hkumath.hku.hk/web/index.php), [The University of Hong Kong](https://www.hku.hk/), 10/2013-2/2017
-
-* **Certificate**: *Certificate of Teaching and Learning in Higher Education (CTEL)* issued by Centre for the Enhancement of Teaching and Learning, The University of Hong Kong, 01/2014
-
-* **Related Honors**:  *Excellent Teaching Award*, 2016
-
-* **Courses**
-
-   * **MATH 1011** University Mathematics \(*1* semester\) 
-
-   * **MATH 2601 & 3601** Numerical Analysis \(*2* semesters\) 
-
-   * **MATH 1211 & 2211** Multivariable Calculus \(*3* semesters\) 
+   * **P8131** Biostatistical Methods II (2024 Spring, 2025 Spring), Columbia University Department of Biostatistics
+   * **CBB 590** AI and Foundation Models for Biomedical Data Science (2026 Fall), Duke University Department of Biostatistics and Bioinformatics
 
