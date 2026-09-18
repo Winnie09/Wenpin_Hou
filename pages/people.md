@@ -71,10 +71,7 @@ title: "People"
   <p style="margin: 0 0 6px 0;"><strong>Matthew D. Eichner</strong>, BSc. (Y2024-2025) BEST/SIBS 2024 alumni. PhD student at UC Berkeley.</p>
   <p style="margin: 0 0 6px 0;"><strong>Zitao Zhang</strong>, MSc. (Y2024-2026), research internship program at MSK GEMS.</p>
   <p style="margin: 0 0 6px 0;"><strong>Won Eui Hong</strong>, Ph.D. (Y2024-2026), data scientist at NIH/NCI.</p>
-  <p style="margin: 0 0 6px 0;"><strong>Qinyu Xiong</strong>, MSc. (Y2024-2026).</p>
   <p style="margin: 0 0 6px 0;"><strong>Xinyi Shang</strong>, MSc. (Y2023-2025). <a href="https://www.publichealth.columbia.edu/file/17750/download?token=1syJuaxU">Chair's Award for Outstanding Master's Student</a>. PhD student at UMass Amherst.</p>
-  <p style="margin: 0 0 6px 0;"><strong>Aiying Huang</strong>, MSc. (Y2023-2025).</p>
-  <p style="margin: 0 0 6px 0;"><strong>Lehan (Chloe) Zou</strong>, MSc. (Y2023-2025).</p>
   <p style="margin: 0 0 6px 0;"><strong>Yifei Zhao</strong>, MSc. (Y2022-2024). Computer Engineer at DISH.</p>
   <p style="margin: 0 0 6px 0;"><strong>Jingyi Yao</strong>, MSc. (Y2022-2024). PhD student at Boston University.</p>
   <p style="margin: 0 0 6px 0;"><strong>Wenhan Bao</strong>, MSc. (Y2021-2023). PhD student at Florida University.</p>
