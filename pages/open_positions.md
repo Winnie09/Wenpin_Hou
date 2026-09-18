@@ -27,8 +27,6 @@ The candidate should hold a PhD (or equivalent) in Computer Science, Biostatisti
 **Application Instructions:**
 Please email the following materials directory to Dr. Hou <wenpin.hou@duke.edu> with the subject line “Postdoc Application”: (a) Cover letter describing research interests, fit, and relevant experience; (b) CV; (c) Contact information for three references; and (d) (optional) research statement.
 
-The offical post is available at Duke Career [https://careers.duke.edu/job/Durham-POSTDOCTORAL-ASSOCIATE-NC-27710/1360702800/](https://careers.duke.edu/job/Durham-POSTDOCTORAL-ASSOCIATE-NC-27710/1360702800/). 
-
 **<span style="color: blue;"> Current PhD/MSc/MPH students: </span>**  GRA positions for PhD students are available immediately. RA positions for MSc/MPH students depend on qualifications; please email me with your research interests and CV. 
 
 **<span style="color: blue;"> Prospective PhD students: </span>**  I have fundings to support 1-2 PhD students.  If you are interested, please send me your CV and, at the same time, list me as your preferred mentor in your PhD application.  Our department has a PhD admission committee to handle PhD student applications.  All applications will be carefully reviewed. 
