@@ -6,8 +6,9 @@ layout: page
 
 #### Research Interests
 
-Dr. Wenpin Hou is an Assistant Professor (tenure-track) in the [Department of Biostatistics and Bioinformatics](https://biostat.duke.edu/) at the [Duke University](https://www.duke.edu/) [School of Medicine](https://medschool.duke.edu/), and an affiliated member of the [New York Genome Center (NYGC)](https://www.nygenome.org/) since 2026. 
-Since 2022, she has held a tenure-track Assistant Professor appointment in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) at [Columbia University](https://www.columbia.edu/), where she is currently on research leave and remains affiliated with the [Data Science Institute](https://datascience.columbia.edu/people/wenpin-hou/).
+Dr. Wenpin Hou is an Assistant Professor (tenure-track) in the [Department of Biostatistics and Bioinformatics](https://biostat.duke.edu/) and the [Computational Biology and Bioinformatics Program
+](https://medschool.duke.edu/education/biomedical-phd-programs/computational-biology-and-bioinformatics-program) at the [Duke University](https://www.duke.edu/) [School of Medicine](https://medschool.duke.edu/), and an affiliated member of the [New York Genome Center (NYGC)](https://www.nygenome.org/) since 2026. 
+Since 2022, she has held a tenure-track Assistant Professor appointment in the [Department of Biostatistics](https://www.publichealth.columbia.edu/academics/departments/biostatistics) at [Columbia University](https://www.columbia.edu/), where she is currently on research leave and remains affiliated. 
 
 
 Dr. Hou's group develops generative AI, foundation models, and statistically principled machine learning methods to understand how cells behave, change, and respond to perturbations. We work at the intersection of artificial intelligence, computational biology, and statistics, with current research spanning:
